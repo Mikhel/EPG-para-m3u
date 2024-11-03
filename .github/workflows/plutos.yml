@@ -25,12 +25,12 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: python epg-grabber/getPlutosEpgs.py
+        run: python epg-grabber/PLUTOS/getPlutosEpgs.py
 
       - name: Force commit and push the changes (no history)
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add plutoepg.xml plutoepg.xml.gz
+          git add PLUTOS/plutoepg.xml PLUTOS/plutoepg.xml.gz
           git commit -m "Update EPG"
           git push --force # Force push to overwrite the previous commit
