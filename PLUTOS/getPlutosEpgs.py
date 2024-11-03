@@ -6,7 +6,7 @@ import requests
 save_as_gz = True  # Set to True to save an additional .gz version
 
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'plutotvg-ids.txt')
-output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'PLUTOS/plutoepg.xml')
+output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'EPG/plutoepg.xml')
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
