@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: python epg-grabber/PLUTOS/getPlutosEpgs.py
+        run: python PLUTOS/getPlutosEpgs.py
 
       - name: Force commit and push the changes (no history)
         run: |
