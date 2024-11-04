@@ -3,7 +3,7 @@ from github import Github
 
 # Configura tus variables
 GITHUB_TOKEN = 'GITHUB_TOKEN'
-REPO_NAME = 'Mikhel/mike'
+REPO_NAME = 'Mikhel/EPG-para-m3u'
 FILE_URL = 'https://i.mjh.nz/PlutoTV/mx.xml.gz'
 FILE_NAME = 'mx.xml.gz'
 
