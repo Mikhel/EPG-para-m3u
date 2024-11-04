@@ -24,5 +24,5 @@ def download_file(url, filename):
 
 if __name__ == "__main__":
     url = "https://i.mjh.nz/PlutoTV/ca.xml"  # Reemplaza con la URL del archivo
-    filename = "canada.xml"  # Cambia la extensión según el tipo de archivo
+    filename = "ca.xml"  # Cambia la extensión según el tipo de archivo
     download_file(url, filename)
