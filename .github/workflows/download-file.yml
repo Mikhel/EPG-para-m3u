@@ -1,9 +1,10 @@
-name: Download File
+name: Download EPG Files
 
 on:
-  push:
-    branches:
-      - main  # Cambia esto según la rama que estés utilizando
+  schedule:
+    # Esta expresión cron ejecutará la acción todos los días a las 2:00 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente
 
 jobs:
   download:
@@ -23,15 +24,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Download file
-        run: python downloads.py
+      - name: Download EPG files
+        run: python downloads.py  # Asegúrate de que tu script maneje múltiples archivos
         
-      - name: Commit downloaded file
+      - name: Commit downloaded EPG files
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add *.xml.gz  # Asegúrate de que coincida con la extensión de los archivos que descargas
-          git commit -m "Add downloaded files" || echo "No changes to commit"
+          git add *.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git commit -m "Add/update EPG data" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Este token es proporcionado automáticamente por GitHub Actions
