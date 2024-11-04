@@ -1,36 +1,27 @@
-# This is a basic workflow to help you get started with Actions
+name: Download File
 
-name: BAJAR
-
-# Controls when the workflow will run
 on:
-  schedule:
-    # Runs twice a day
-    - cron: "0 0,12 * * *"
-    
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # Cambia esto según la rama que estés utilizando
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  download:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Usa la versión de Python que necesites
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: python epg-grabber/bajar.py
-
-      - name: Force commit and push the changes (no history)
+      - name: Install requests
         run: |
-          git config --global user.name "actions-user"
-          git config --global user.email "actions@github.com"
-          git add mx.xml.gz
-          git commit -m "Update EPG"
-          git push --force # Force push to overwrite the previous commit
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Download file
+        run: python download.py
