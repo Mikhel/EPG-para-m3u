@@ -4,7 +4,7 @@ import requests
 def download_file(url, filename):
     response = requests.get(url)
     if response.status_code == 200:
-        # Comprobar si el archivo ya existe
+        # Comprobar si el archivo existe
         if os.path.exists(filename):
             # Leer el contenido del archivo existente
             with open(filename, 'rb') as f:
