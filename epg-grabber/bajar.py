@@ -1,5 +1,4 @@
 import requests
-from github import Github
 
 # Configura tus variables
 GITHUB_TOKEN = 'GITHUB_TOKEN'
