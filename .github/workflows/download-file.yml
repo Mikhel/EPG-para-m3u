@@ -24,7 +24,7 @@ jobs:
           pip install requests
 
       - name: Download file
-        run: python download.py
+        run: python downloads.py
         
       - name: Commit downloaded file
         run: |
