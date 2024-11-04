@@ -16,7 +16,7 @@ else:
     print(f"Error al descargar el archivo: {response.status_code}")
 
 # Subir el archivo a GitHub
-g = Github(GITHUB_TOKEN)
+g = GITHUB_TOKEN
 repo = g.get_repo(REPO_NAME)
 
 with open(FILE_NAME, 'rb') as file:
