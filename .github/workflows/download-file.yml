@@ -25,3 +25,13 @@ jobs:
 
       - name: Download file
         run: python download.py
+        
+      - name: Commit downloaded file
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add mx.xml  # Asegúrate de que coincida con el nombre del archivo descargado
+          git commit -m "Add downloaded file"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Este token es proporcionado automáticamente por GitHub Actions
