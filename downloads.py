@@ -10,6 +10,6 @@ def download_file(url, filename):
         print(f"Error al descargar el archivo: {response.status_code}")
 
 if __name__ == "__main__":
-    url = "https://i.mjh.nz/PlutoTV/mx.xml"  # Reemplaza con la URL del archivo
-    filename = "mx.xml"  # Cambia la extensión según el tipo de archivo
+    url = "https://i.mjh.nz/PlutoTV/mx.xml.gz"  # Reemplaza con la URL del archivo
+    filename = "mx.xml.gz"  # Cambia la extensión según el tipo de archivo
     download_file(url, filename)
