@@ -30,8 +30,8 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add mx.xml  # Asegúrate de que coincida con el nombre del archivo descargado
-          git commit -m "Add downloaded file"
+          git add *.xml.gz  # Asegúrate de que coincida con la extensión de los archivos que descargas
+          git commit -m "Add downloaded files" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Este token es proporcionado automáticamente por GitHub Actions
