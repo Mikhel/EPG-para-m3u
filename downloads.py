@@ -24,9 +24,9 @@ def download_file(url, filename):
 
 if __name__ == "__main__":
     files_to_download = {
-        "https://i.mjh.nz/PlutoTV/mx.xml.gz": "EPG/mx.xml.gz",  # Reemplaza con la URL y nombre del archivo
-        "https://i.mjh.nz/PlutoTV/ca.xml.gz": "EPG/ca.xml.gz",  # Otro archivo,
-        "https://i.mjh.nz/PlutoTV/gb.xml.gz": "EPG/gb.xml.gz",  # Y otro más
+        "https://i.mjh.nz/PlutoTV/mx.xml.gz": "mx.xml.gz",  # Reemplaza con la URL y nombre del archivo
+        "https://i.mjh.nz/PlutoTV/ca.xml.gz": "ca.xml.gz",  # Otro archivo,
+        "https://i.mjh.nz/PlutoTV/gb.xml.gz": "gb.xml.gz",  # Y otro más
     }
     
     for url, filename in files_to_download.items():
