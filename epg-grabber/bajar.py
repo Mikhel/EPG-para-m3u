@@ -2,10 +2,10 @@ import requests
 from github import Github
 
 # Configura tus variables
-GITHUB_TOKEN = 'tu_token_de_github'
-REPO_NAME = 'tu_usuario/tu_repositorio'
-FILE_URL = 'https://ejemplo.com/archivo.txt'
-FILE_NAME = 'archivo.txt'
+GITHUB_TOKEN = 'GITHUB_TOKEN'
+REPO_NAME = 'Mikhel/mike'
+FILE_URL = 'https://i.mjh.nz/PlutoTV/mx.xml.gz'
+FILE_NAME = 'mx.xml.gz'
 
 # Descarga el archivo
 response = requests.get(FILE_URL)
