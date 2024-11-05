@@ -25,7 +25,7 @@ jobs:
           pip install requests
 
       - name: Download EPG files
-        run: python downloads.py  # Asegúrate de que tu script maneje múltiples archivos
+        run: python EPG/downloads.py  # Asegúrate de que tu script maneje múltiples archivos
         
       - name: Commit downloaded EPG files
         run: |
