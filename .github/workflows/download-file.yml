@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add *.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add EPG/*.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
           git commit -m "Add/update EPG data" || echo "No changes to commit"
           git push
         env:
