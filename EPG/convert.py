@@ -2,7 +2,7 @@ import json
 import xmltodict
 
 # Cargar el archivo JSON
-with open('epg.json', 'r') as json_file:
+with open('EPG/epg.json', 'r') as json_file:
     json_data = json.load(json_file)
 
 # Convertir JSON a XML
