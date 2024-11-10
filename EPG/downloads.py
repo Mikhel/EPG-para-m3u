@@ -31,6 +31,7 @@ if __name__ == "__main__":
         "https://i.mjh.nz/SamsungTVPlus/us.xml.gz": "EPG/PLUTO/SAMSus.xml.gz",  # Otro archivo,
         "https://i.mjh.nz/SamsungTVPlus/ca.xml.gz": "EPG/PLUTO/SAMSca.xml.gz",  # Y otro más
         "https://i.mjh.nz/Plex/mx.xml.gz": "EPG/PLUTO/PLEXmx.xml.gz",
+        "https://i.mjh.nz/Stirr/.channels.json"
     }
     
     for url, filename in files_to_download.items():
