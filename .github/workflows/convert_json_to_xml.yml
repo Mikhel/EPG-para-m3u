@@ -1,6 +1,11 @@
 name: Convert JSON to XML for EPG
 
 on:
+  schedule:
+    # Esta expresión cron ejecutará la acción todos los días a las 2:00 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente
+  
   push:
     branches:
       - main
