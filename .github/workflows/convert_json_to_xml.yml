@@ -1,0 +1,36 @@
+name: Convert JSON to XML for EPG
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install xmltodict
+
+      - name: Run JSON to XML conversion script
+        run: python convert.py
+
+      - name: Upload XML output
+        uses: actions/upload-artifact@v2
+        with:
+          name: epg.xml
+          path: epg.xml
