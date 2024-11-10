@@ -27,7 +27,7 @@ jobs:
           pip install xmltodict
 
       - name: Run JSON to XML conversion script
-        run: python convert.py
+        run: python EPG/convert.py
 
       - name: Upload XML output
         uses: actions/upload-artifact@v3
