@@ -1422,102 +1422,30 @@
     <desc lang="en">Una mujer quiere descubrir qué le sucedió a su esposo que fue herido en una misión para la CIA.</desc>
     <date>2012</date>
   </programme>
-  <channel id="De.Película.(DPELI).[400].cr">
-    <url>http://www.tvguide.com</url>
-    <display-name lang="en">De Película (DPELI) [400]</display-name>
-  </channel>
-  <channel id="Golden.Plus.HDTV.(GLDHD).[915].cr">
-    <url>http://www.tvguide.com</url>
-    <display-name lang="en">Golden Plus HDTV (GLDHD) [915]</display-name>
-  </channel>
   <channel id="Golden.(Latin.America).(GOLDL).[314].cr">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">Golden (Latin America) (GOLDL) [314]</display-name>
-  </channel>
-  <channel id="Golden.Edge.(Panregional).(GLDELA).[401].cr">
-    <url>http://www.tvguide.com</url>
-    <display-name lang="en">Golden Edge (Panregional) (GLDELA) [401]</display-name>
-  </channel>
-  <channel id="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr">
-    <url>http://www.tvguide.com</url>
-    <display-name lang="en">De Película HDTV (Latin America) (DPELICHD) [924]</display-name>
   </channel>
   <channel id="Golden.Premier.HD.(GDNPHD).[980].cr">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">Golden Premier HD (GDNPHD) [980]</display-name>
   </channel>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241120225600 +0000" stop="20241121003600 +0000">
-    <title lang="en">Furia implacable</title>
-    <desc lang="en">Un antiguo criminal busca vengar la muerte de su hija, asesinada por un gángster ruso tras haber atracado. El hombre sigue envuelto en los círculos de las mafias, lo que lleva a su esposa a pensar que todavía es la persona violenta que acostumbraba a ser.</desc>
-    <date>2014</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121003600 +0000" stop="20241121021400 +0000">
-    <title lang="en">Atrapen al gringo</title>
-    <desc lang="en">Después de ser capturado por las autoridades mexicanas, Driver es enviado a una cárcel de mala fama sumamente peligrosa conocida por los habitantes como 'El pueblito'. No sobrevivirá mucho tiempo sin ayuda de alguien familiarizado con las reglas del lugar; su salvación viene siendo un niño de sólo 9 años.</desc>
-    <date>2012</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121021400 +0000" stop="20241121040000 +0000">
-    <title lang="en">El Transportador 3</title>
-    <desc lang="en">Jason Statham regresa como un chófer de la mafia, y esta vez es contratado para transportar a la hija secuestrada de un funcionario del gobierno ucranio de Marsella, Francia, a Odesa, Ucrania.</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121040000 +0000" stop="20241121062800 +0000">
-    <title lang="en">Hombre en Llamas</title>
-    <desc lang="en">Un ex agente de las fuerzas especiales de élite trabaja como guardaespaldas y se ve envuelto en un conflicto con una sangrienta organización criminal, y debe involucrar su vida hasta lo más profundo para resolver un secuestro que lo afecta íntimamente.</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121062800 +0000" stop="20241121075600 +0000">
-    <title lang="en">Gritos en silencio</title>
-    <desc lang="en">Jamie Ashford se sorprende al descubrir que está nuevamente embarazada luego de perder a su hija hace un año. Una serie de acontecimientos la hacen pensar que Caitlin es el demonio, pero ¿es solo su mente jugandole una mala pasada?</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121075600 +0000" stop="20241121100400 +0000">
-    <title lang="en">Juego de espías</title>
-    <desc lang="en">Robert Redford es un agente de la CIA que pasa su último día en la agencia tratando de coordinar el rescate de un colega (Brad Pitt), quien está encarcelado en una prisión china y abandonado por sus superiores.</desc>
-    <date>2001</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121100400 +0000" stop="20241121120200 +0000">
-    <title lang="en">Cuando sea joven</title>
-    <desc lang="en">Una viuda de 70 años de repente recupera su apariencia de cuando tenía 20.</desc>
-    <date>2022</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121120200 +0000" stop="20241121134500 +0000">
-    <title lang="en">Me late chocolate</title>
-    <desc lang="en">Moni pierde a su novio en un accidente inesperadamente. A pesar de que las posibilidades con otros chicos son muchas, ella tiene el recuerdo y las alucinaciones que no le permiten rehacer su vida. Al empezar a enfocarse en sus aspiraciones, ella deberá luchar por vencer el pasado y conquistar su presente.</desc>
-    <date>2013</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121134500 +0000" stop="20241121153200 +0000">
-    <title lang="en">Pompeii: La furia del volcán</title>
-    <desc lang="en">Un enfrentamiento contra la madre naturaleza y un corrupto emperador romano sin conciencia ni corazón, que ha sometido al pueblo bajo su poder, entretejen esta historia de heroísmo, amor y drama.</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121153200 +0000" stop="20241121174100 +0000">
-    <title lang="en">Ágora, la caída del Imperio Romano</title>
-    <desc lang="en">Historia épica del Egipto del siglo IV en la que un esclavo debe enfrentar sus sentimientos hacia su amo, la erudita Hipatia Alenjandría, cuando existe la posibilidad de ser libre al ver que los cristianos se toman el poder en la ciudad.</desc>
-    <date>2009</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121174100 +0000" stop="20241121192100 +0000">
-    <title lang="en">Centurión</title>
-    <desc lang="en">Quinto es el único superviviente de su legión, masacrados por los Pictos, una aterradora tribu. El centurión se une a la novena legión de Titus Flavius Virilus, que planea lanzar una ofensiva contra los Pictos. Pero la batalla torna en masacre. Quinto se encuentra entonces a la cabeza de un puñado de hombres en territorio enemigo, y promete llevarlos de vuelta sanos y salvos. Sus convicciones y resistencia se verán puestos a prueba.</desc>
-    <date>2010</date>
-  </programme>
-  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121192100 +0000" stop="20241121213900 +0000">
-    <title lang="en">El duodécimo hombre</title>
-    <desc lang="en">Eran 12 saboteadores.</desc>
-    <date>2017</date>
-  </programme>
+  <channel id="Golden.Plus.HDTV.(GLDHD).[915].cr">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Golden Plus HDTV (GLDHD) [915]</display-name>
+  </channel>
+  <channel id="De.Película.(DPELI).[400].cr">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">De Película (DPELI) [400]</display-name>
+  </channel>
+  <channel id="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">De Película HDTV (Latin America) (DPELICHD) [924]</display-name>
+  </channel>
+  <channel id="Golden.Edge.(Panregional).(GLDELA).[401].cr">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Golden Edge (Panregional) (GLDELA) [401]</display-name>
+  </channel>
   <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241121213900 +0000" stop="20241121235100 +0000">
     <title lang="en">Hombres de coraje</title>
     <desc lang="en">Basada en la verdadera historia de la tripulación del buque de guerra USS Indianapolis, que quedaron a la deriva en el mar de Filipinas durante 5 días tras entregar la bombas atómicas que tiempo después se lanzarían sobre Japón para dar fin a la Segunda Guerra Mundial. Mientras esperaban el rescate, sufrieron de hambre, sed y la amenaza de los tiburones.</desc>
@@ -1680,76 +1608,87 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241120223500 +0000" stop="20241121000300 +0000">
-    <title lang="en">Los extraños</title>
-    <desc lang="en">Una joven pareja es aterrorizada por tres intrusos enmascarados en una casa aislada en esta producción de terror y suspenso.</desc>
-    <date>2008</date>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121000300 +0000" stop="20241121020000 +0000">
-    <title lang="en">La familia Bélier</title>
-    <desc lang="en">Todos los miembros de la familia Bélier son sordomudos, excepto Paula, de 16 años. Ella hace de intérprete para sus padres, especialmente en lo que respecta al funcionamiento de la granja de la familia. Un día, alentada por su profesor de música, que ha descubierto su talento para el canto, decide prepararse para la audición del Coro de Radio France, pero se trata de una elección que la obligará a distanciarse de su familia.</desc>
-    <date>2014</date>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121020000 +0000" stop="20241121034600 +0000">
-    <title lang="en">¿Y Dónde Está Santa?</title>
-    <desc lang="en">Un golpe a la cabeza de San Nicolás amenaza con arruinar la Navidad si él no recupera su memoria antes de que sea demasiado tarde. Leslie Nielsen, Steven Eckholdt, Robyn Lively, Max Morrow. Dirigida por William Dear.</desc>
-    <date>2000</date>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124013900 +0000" stop="20241124040000 +0000">
+    <title lang="en">El Club de la Pelea</title>
+    <desc lang="en">Brad Pitt y Edward Norton en esta provocativa sátira del director David Fincher sobre la sociedad. Norton interpreta a un joven asqueado con su vida superficial y materialista que se une a un club brutal, pelean entre sí para aliviar sus frustraciones.</desc>
+    <date>1999</date>
     <rating system="MPAA">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121034600 +0000" stop="20241121053000 +0000">
-    <title lang="en">Las Cosas Que Pierdes</title>
-    <desc lang="en">Weasley, un niño sordo y un criminal peligroso desarrollan una amistad, luego de que este huye de la policía y se refugia en el granjero de la granja de la familia del joven, en Dakota del Norte. A medida que el criminal se encariña con Wesley, él se da cuenta de que debe tomar una decisión.</desc>
-    <date>2020</date>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124040000 +0000" stop="20241124053200 +0000">
+    <title lang="en">Escuadrón de pelea femenina</title>
+    <desc lang="en">Una ex-luchadora regresa a la vida que abandonó con el fin de ayudar a su hermana a sobrevivir dentro del sádico mundo de la lucha clandestina y del psicópata que lo dirige. (New).</desc>
+    <date>2016</date>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121053000 +0000" stop="20241121070400 +0000">
-    <title lang="en">Rescate en la noche</title>
-    <desc lang="en">Goro, un autor intelectual criminal, conspira para robar un alijo de oro de la familia Rossini.</desc>
-    <date>2019</date>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124053200 +0000" stop="20241124070800 +0000">
+    <title lang="en">My Favorite Teacher</title>
+    <date>2021</date>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121070400 +0000" stop="20241121092100 +0000">
-    <title lang="en">Hombre de Familia</title>
-    <desc lang="en">Nicolas Cage es el protagonista de esta fantasía cómica acerca de un frío hombre de negocios rico cuya vida da un giro inesperado cuando un ángel guardián le muestra la vida que pudo haber tenido transformándolo en un hombre trabajador, casado con su novia de la universidad a la cual abandonó.</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121092100 +0000" stop="20241121111700 +0000">
-    <title lang="en">La boda de Valentina</title>
-    <desc lang="en">Valentina tiene un buen pasar en los Estados Unidos y sus días son tranquilos. Hasta que su novio Jason le propone matrimonio. Su preocupación pasa por el choque cultural de su familia mexicana, "los Hidalgo", con la de su prometido, los fríos "Tate". Además, deberá soportar el acoso de su exnovio, Ángel. Pero cuando el amor es más fuerte, ni los apellidos ni las fronteras importan realmente.</desc>
-    <date>2018</date>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121111700 +0000" stop="20241121130000 +0000">
-    <title lang="en">Te presento a Laura</title>
-    <desc lang="en">Una joven vive en una gran ciudad y se siente sola. Ella sabe exactamente la fecha en la que se va a morir. Lo que no sabe es lo que va a hacer de aquí a esa fecha. Se inscribe en un curso de optimistas y escribe una lista con diez cosas que quiere hacer antes de morirse.</desc>
-    <date>2010</date>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121130000 +0000" stop="20241121143300 +0000">
-    <title lang="en">Dibujando el cielo</title>
-    <desc lang="en">A pesar de ser una experta en "mecánica celeste" (que se dedica a trazar las rutas que dibujan los satélites en el espacio), Sofía lleva años sin haber encontrado todavía el rumbo en tierra firme. Hace años que cursa un posgrado interminable. Y está tan obsesionada con terminar su tesis que ha sacrificado su vida personal. Cuando una tormenta arruina las esperanzas de culminar su trabajo el destino le trae vientos de cambio, ya que conoce a un guapo vulcanólogo que le hará replantearse.</desc>
-    <date>2018</date>
-  </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121143300 +0000" stop="20241121161700 +0000">
-    <title lang="en">El cielo en tu mirada</title>
-    <desc lang="en">Luego de no poder participar en un concurso de cant,o José conoce a Abril, unas horas antes de que ella se case. Ese mismo día muere José y convence a su ángel de regresar a la vida para cumplir con su destino, por lo que se le concede tres semanas para lograrlo.</desc>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124070800 +0000" stop="20241124091300 +0000">
+    <title lang="en">La espada del dragón</title>
+    <desc lang="en">Un general de la Dinastía Ming tiene problemas con un infame eunuco, pero todo se complica cuando éstos se encuentran a un guerrero en un desierto remoto.</desc>
     <date>2012</date>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121161700 +0000" stop="20241121181300 +0000">
-    <title lang="en">Eres mi pasión</title>
-    <desc lang="en">El fanatismo de un hombre por el fútbol lo hace ir más allá de cualquier lógica. La pasión que siente le impide llevar una vida normal, a tal punto que termina poniendo en riesgo las cosas más importantes, tales como su trabajo, su familia y su matrimonio.</desc>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124091300 +0000" stop="20241124105300 +0000">
+    <title lang="en">Insignias de Furia</title>
+    <desc lang="en">En solo 3 días, tres casos de asesinato sacuden Hong Kong. El joven detective Wang Bu Er, bufón del departamento, sorprende a todos al afirmar que son obra de un asesino en serie.</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124105300 +0000" stop="20241124123200 +0000">
+    <title lang="en">Horas desesperadas</title>
+    <desc lang="en">Un padre lucha por mantener con vida a su pequeña hija durante el huracán Katrina. Luego de que el hospital se queda sin energía y los pacientes son evacuados, él se enfrenta a una serie de decisiones difíciles, en un intento por salvar a la pequeña de una muerte que parece segura.</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124123200 +0000" stop="20241124140200 +0000">
+    <title lang="en">Cómplices</title>
+    <desc lang="en">Doña Finetta Saba de Méndez es una de las mujeres de más carácter de República Dominicana. Junto a su marido, Víctor Méndez Capellán, trabaja en la empresa de envíos de valores Vimenca, una de las más importantes del país. Su nombre trasciende las fronteras internas de la firma y se hace conocida en todo el país, por sus agallas y por ser una reconocida empresaria.</desc>
     <date>2018</date>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121181300 +0000" stop="20241121200100 +0000">
-    <title lang="en">Cómo cortar a tu patán</title>
-    <desc lang="en">Amanda (Mariana Treviño), terapeuta especializada en ayudar a las mujeres a terminar con relaciones destructivas, vive alejada de los hombres y el compromiso, enfocada en su trabajo y en proteger a su hermana Natalia (Camila Sodi). Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan que la llevará a enfrentarse a su más grande miedo... el amor.</desc>
-    <date>2017</date>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124140200 +0000" stop="20241124160400 +0000">
+    <title lang="en">Escobar: El paraíso perdido</title>
+    <desc lang="en">Nick, un joven surfista, cree que todos sus sueños se han hecho realidad cuando va a Colombia a visitar a su hermano. En un ambiente idílico de lagunas azules y blancas playas, Nick se enamora perdidamente de la bella María. Todo parece perfecto hasta que Nick conoce al tío de la joven, un tal Pablo Escobar.</desc>
+    <date>2014</date>
   </programme>
-  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121200100 +0000" stop="20241121220500 +0000">
-    <title lang="en">Una última y nos vamos</title>
-    <desc lang="en">Un grupo Mariachi deja su ciudad natal por primera vez para actuar en una competencia nacional en Ciudad de México. Después de ser seleccionada, esta banda de siete integrantes se propone encontrar a un octavo miembro para poder competir. Ellos deciden reclutar a Martín, el hijo de uno de los miembros que es integrante de una banda de rock. Los ocho hombres tienen que pasar desafíos que ponen su hermandad a prueba, causando lo que podría ser el principio del fin de la banda.</desc>
-    <date>2015</date>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124160400 +0000" stop="20241124175400 +0000">
+    <title lang="en">El Centinela</title>
+    <desc lang="en">Un "thriller" político sobre un agente de la CIA sospechado de tramar el asesinato del presidente mientras mantenía una relación con la primera dama.</desc>
+    <date>2006</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124175400 +0000" stop="20241124193200 +0000">
+    <title lang="en">Anonimus</title>
+    <desc lang="en">Un inmigrante ingresa al mundo del cibercrimen para ayudar económicamente a su familia.</desc>
+    <date>2016</date>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124193200 +0000" stop="20241124210700 +0000">
+    <title lang="en">Skyline: La Invasión</title>
+    <desc lang="en">Una serie de luces aparecen sobre Los Ángeles, hipnotizando a la gente y llevándola a un destino incierto. Mientras tanto, un empresario y sus amigos deciden buscar la fuente de la iluminación.</desc>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124210700 +0000" stop="20241124225100 +0000">
+    <title lang="en">Contra Reloj</title>
+    <desc lang="en">Una mujer quiere descubrir qué le sucedió a su esposo que fue herido en una misión para la CIA.</desc>
+    <date>2012</date>
+  </programme>
+  <programme channel="Golden.Premier.HD.(GDNPHD).[980].cr" start="20241124225100 +0000" stop="20241125003800 +0000">
+    <title lang="en">Sin límites</title>
+    <desc lang="en">Eddie Morris, un escritor en busca de inspiración, decide probar una nueva droga llamada NZT que le permite aprovechar su potencial intelectual por completo. Al tomar la droga, la vida de Eddie se transforma con cada impulso nervioso, él es capaz de recordar al instante todo lo que oye, ve y lee. Puede aprender un nuevo idioma en solo un día, entender ecuaciones matemáticas complejas y encantar a cada persona que encuentra, pero solo si sigue tomando la droga.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241121220500 +0000" stop="20241121235900 +0000">
     <title lang="en">Perfectos desconocidos</title>
@@ -1929,81 +1868,99 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241120210400 +0000" stop="20241120231100 +0000">
-    <title lang="en">Nido de Águilas</title>
-    <desc lang="en">Cuatro hermanos van en busca de los bandidos que saquearon su rancho y mataron a sus padres. Fernando Almada. Juan Menchaca: José Elías Moreno. Capitán Ramírez: Jaime Fernández. Carmen: Dacia González. El Joven del Palomar: Xavier Loyá. Javier: Antonio Brillas. Manolo: Noé Murayama. Lucía: Martha Elena Cervantes. Dirigida por Vicente Oroná.</desc>
-    <date>1976</date>
-  </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241120231100 +0000" stop="20241121010400 +0000">
-    <title lang="en">La generala</title>
-    <desc lang="en">Manuel es asesinado. Mariana, su hermana, encuentra el cadáver y decide luchar en la revolución.</desc>
-    <date>2009</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124002000 +0000" stop="20241124020000 +0000">
+    <title lang="en">Jack y Jill</title>
+    <desc lang="en">El padre de familia Jack Sadelstein se prepara para el evento anual que teme, la visita de Acción de Gracias de su hermana gemela, la necesitada y pasiva agresiva Jill, que luego se niega a irse.</desc>
+    <date>2011</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121010400 +0000" stop="20241121024500 +0000">
-    <title lang="en">Persecución y Muerte de Benjamín Argumedo</title>
-    <desc lang="en">La vida del héroe de la revolución mexicana.</desc>
-    <date>1979</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124020000 +0000" stop="20241124033800 +0000">
+    <title lang="en">La tierra de la Navidad</title>
+    <desc lang="en">Una herencia inesperada le da a una muchacha de la ciudad la oportunidad de cambiar su destino. Una neoyorquina muy enfocada en su trabajo hereda el terreno de su abuela y debe elegir si quiere venderlo o si podrá revivir una granja de árboles de Navidad.</desc>
+    <date>2015</date>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121024500 +0000" stop="20241121043200 +0000">
-    <title lang="en">La Valentina</title>
-    <desc lang="en">Durante la revolución, una viuda joven es raptada por un contrabandista para ser entregada a un capitán federal, pero queda enamorando de ella.</desc>
-    <date>1966</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124033800 +0000" stop="20241124053900 +0000">
+    <title lang="en">El regreso de la nana mágica</title>
+    <desc lang="en">Una fantástica y reconfortante historia acerca de una niñera encantadora (Emma Thompson) que llega al hogar de una madre agotada (Maggie Gyllenhaal) y sus dos hijos para ofrecerles sus servicios mágicos mientras el padre lucha en una guerra.</desc>
+    <date>2010</date>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121043200 +0000" stop="20241121062300 +0000">
-    <title lang="en">Zapata en Chinameca</title>
-    <desc lang="en">Un anciano moribundo recuerda su participación en la Revolución Mexicana.</desc>
-    <date>1987</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124053900 +0000" stop="20241124072400 +0000">
+    <title lang="en">Educando a mamá</title>
+    <desc lang="en">Un adolescente, hija de una madre soltera, intenta acelerar su transición a la edad adulta después de descubrir el concepto de "mayoría de edad" en la literatura Inglesa, y en el proceso aprende algunas lecciones importantes sobre el crecimiento.</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121062300 +0000" stop="20241121081600 +0000">
-    <title lang="en">Santo y Blue Demon vs. Drácula y el Hombre Lobo</title>
-    <desc lang="en">Un jorobado revive los cuerpos de Drácula y del hombre lobo para acechar a una familia y atacar a Santo.</desc>
-    <date>1973</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124072400 +0000" stop="20241124093400 +0000">
+    <title lang="en">Escobar: El paraíso perdido</title>
+    <desc lang="en">Nick, un joven surfista, cree que todos sus sueños se han hecho realidad cuando va a Colombia a visitar a su hermano. En un ambiente idílico de lagunas azules y blancas playas, Nick se enamora perdidamente de la bella María. Todo parece perfecto hasta que Nick conoce al tío de la joven, un tal Pablo Escobar.</desc>
+    <date>2014</date>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121081600 +0000" stop="20241121100800 +0000">
-    <title lang="en">Niño Pobre, Niño Rico</title>
-    <desc lang="en">A pesar de pertenecer a diferentes clases sociales, dos niños entablan una gran amistad. Uno pertenece a la alta sociedad y disfruta de todas las comodidades, mientras que el otro apenas tiene lo suficiente para comer. La lealtad inquebrantable entre ellos acabará uniendo a ambas familias.</desc>
-    <date>1984</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124093400 +0000" stop="20241124111900 +0000">
+    <title lang="en">¡Qué despadre!</title>
+    <desc lang="en">Es la historia de Pedro un soltero cuarentón que le gusta la fiesta no tiene hijos y vive de noche.</desc>
+    <date>2022</date>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121100800 +0000" stop="20241121120000 +0000">
-    <title lang="en">Un sábado más</title>
-    <desc lang="en">Diego y Martín son dos jóvenes que se declaran la guerra para demostrar quién es el mejor.</desc>
-    <date>2009</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124111900 +0000" stop="20241124125400 +0000">
+    <title lang="en">Las aventuras de Peabody y Sherman</title>
+    <desc lang="en">Mr. Peabody deberá demostrar por qué es el perro más inteligente del mundo cuando la máquina del tiempo se averíe y deba arreglarla junto a Sherman, su ingenuo amigo. ¿Conseguirán repararla antes de que todo el orden universal se vea alterado?</desc>
+    <date>2014</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121120000 +0000" stop="20241121133600 +0000">
-    <title lang="en">La Niña de La Mochila Azul</title>
-    <desc lang="en">La fantasía de dos niños que creen que una moneda de oro los va guiar haica un tesoro de piratas.</desc>
-    <date>1979</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124125400 +0000" stop="20241124144500 +0000">
+    <title lang="en">Los Pitufos</title>
+    <desc lang="en">Los Pitufos llegan a la ciudad de Nueva York, accidentalmente, cuando viajan a través de un portal mágico. Allí son protegidos por un matrimonio, que les brindan su hogar. Sin embargo, los Pitufos deberán hacer todo lo posible por regresar a su aldea, antes de que Gargamel – su malvado archienemigo – los encuentre.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121133600 +0000" stop="20241121150100 +0000">
-    <title lang="en">La Flecha Envenenada</title>
-    <desc lang="en">Una joven huérfana está a punto de perder las tierras heredadas de su padre mientras es víctima del acoso de los apaches y debe encontrar la manera de sortear las consecuencias de una leyenda inventada por un abogado para alejar a los interesados en sus tierras.</desc>
-    <date>1957</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124144500 +0000" stop="20241124163600 +0000">
+    <title lang="en">Los Pitufos 2</title>
+    <desc lang="en">El brujo Gargamel crea una pareja de criaturas revoltosas, una copia de sus enemigos, Los Malotes.</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121150100 +0000" stop="20241121165300 +0000">
-    <title lang="en">El Ropavejero</title>
-    <desc lang="en">Un pregonero ropavejero descubre una imprenta de dinero falso, de la cual toma unos cuantos y se da vida de rico hasta que la policía lo arresta.</desc>
-    <date>1947</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124163600 +0000" stop="20241124183500 +0000">
+    <title lang="en">El regreso de la nana mágica</title>
+    <desc lang="en">Una fantástica y reconfortante historia acerca de una niñera encantadora (Emma Thompson) que llega al hogar de una madre agotada (Maggie Gyllenhaal) y sus dos hijos para ofrecerles sus servicios mágicos mientras el padre lucha en una guerra.</desc>
+    <date>2010</date>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121165300 +0000" stop="20241121185800 +0000">
-    <title lang="en">Rosario</title>
-    <desc lang="en">Carlos es un hombre casado que junto a Rosario, su mujer, forma parte de una compañía teatral. Sin embargo, Carlos mantiene un romance con otra actriz y Rosario lo descubre. Cuando los esposos deben representar una escena ficticia de celos en una representación, algo sale mal.</desc>
-    <date>1971</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124183500 +0000" stop="20241124201400 +0000">
+    <title lang="en">Jack y Jill</title>
+    <desc lang="en">El padre de familia Jack Sadelstein se prepara para el evento anual que teme, la visita de Acción de Gracias de su hermana gemela, la necesitada y pasiva agresiva Jill, que luego se niega a irse.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121185800 +0000" stop="20241121205200 +0000">
-    <title lang="en">Todo un Hombre</title>
-    <desc lang="en">Un esposo que no tiene confianza en sí mismo causa la destrucción de su matrimonio.</desc>
-    <date>1982</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124201400 +0000" stop="20241124220300 +0000">
+    <title lang="en">La máscara</title>
+    <desc lang="en">Divertida comedia sobre un cajero de banco (Jim Carrey) sin suerte con las mujeres, accidentalmente se encuentra con una máscara que lo transforma en un héroe en busca de la justicia y la diversión. Nominada por la Academia por mejores efectos visuales.</desc>
+    <date>1994</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.(DPELI).[400].cr" start="20241121205200 +0000" stop="20241121223200 +0000">
-    <title lang="en">Ráfaga de Plomo</title>
-    <desc lang="en">Un hombre encarcelado injustamente se escapa y va persiguiendo a quienes lo traicionaron. Fernando Almada, Mario Almada, Jorge Reynoso, Javier García, Hilda Aguirre, Marta Elena Cervantes.</desc>
-    <date>1986</date>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124220300 +0000" stop="20241124234200 +0000">
+    <title lang="en">Viaje 2: La Isla Misteriosa</title>
+    <desc lang="en">Sean Anderson va en busca de su abuelo, que ha desaparecido recientemente en una isla mítica. Para ello, se une con Hank, el novio de su madre. Sean recibe una señal de socorro desde un punto geográfico en donde no hay ninguna isla. Con la ayuda de un piloto de helicóptero y su hija, Sean y Hank se embarcan en el camino a esta tierra misteriosa.</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.(Latin.America).(GOLDL).[314].cr" start="20241124234200 +0000" stop="20241125020000 +0000">
+    <title lang="en">Jurassic World: El reino caído</title>
+    <desc lang="en">Los dinosaurios llevan años vagando libremente por la isla Nublar, tras la destrucción de Jurassic World, pero una erupción volcánica los pone en peligro. Claire ha aprendido de sus errores y se empeña en rescatarlos, pero necesitará la ayuda de Owen. Aunque la pareja tuvo una relación tormentosa anteriormente, deberán olvidar sus diferencias para salvar la vida de las criaturas prehistóricas y las suyas propias.</desc>
+    <date>2018</date>
   </programme>
   <programme channel="De.Película.(DPELI).[400].cr" start="20241121223200 +0000" stop="20241122004100 +0000">
     <title lang="en">Toña Machetes</title>
@@ -2148,85 +2105,75 @@
     <desc lang="en">Para investigar el asesinato de su hijo, un padre se asocia con narcotraficantes y se enamora de una de ellos.</desc>
     <date>1985</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241120215500 +0000" stop="20241120234600 +0000">
-    <title lang="en">Comando Rogue: Al acecho</title>
-    <desc lang="en">Una unidad mercenaria es contratada por el gobernador de un país africano para rescatar a su hija.</desc>
-    <date>2020</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124005400 +0000" stop="20241124023500 +0000">
+    <title lang="en">La Guerrera Vengadora</title>
+    <desc lang="en">Esta mujer no descansará hasta vengarse en los asesinos de su hermano menor.</desc>
+    <date>1988</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241120234600 +0000" stop="20241121020000 +0000">
-    <title lang="en">Dragón: La Historia de Bruce Lee</title>
-    <desc lang="en">Biografía de Bruce Lee, el nombrado experto en artes marciales, desde su llegada a los EE.UU. como un humilde estudiante hasta su ascenso a la fama por su éxito como maestro y actor.</desc>
-    <date>1993</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121020000 +0000" stop="20241121034500 +0000">
-    <title lang="en">Temblores</title>
-    <desc lang="en">Los habitantes de un pequeño pueblo en el desierto de Nevada comienzan a sentir inquietud por varias muertes que han ocurrido en el lugar. Después de incesantes temblores, descubrirán que hay algo vivo bajo la tierra y que quiere exterminarlos.</desc>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124023500 +0000" stop="20241124041600 +0000">
+    <title lang="en">El Hijo de Lamberto Quintero</title>
+    <desc lang="en">El hijo de un jefe fallecido de la mafia busca al traidor que trató de asesinarlo en el funeral de su padre..</desc>
     <date>1990</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121034500 +0000" stop="20241121053600 +0000">
-    <title lang="en">Terror Bajo la Tierra 2</title>
-    <desc lang="en">Los gusanos carnívoros gigantes hacen estragos en un yacimiento de petróleo mexicano y Fred Ward sigue luchando contra estas criaturas subterráneas.</desc>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124041600 +0000" stop="20241124055100 +0000">
+    <title lang="en">Chile Picante</title>
+    <desc lang="en">La actriz Angélica Chain muestra sus encantos en esta comedia sexy. Dos historias de amor en donde el sexo es un personaje tan picante como el chile mismo. Consta de dos historias divertidas y atrevidas, una sobre la infidelidad y la otra de los compadres.</desc>
+    <date>1983</date>
+  </programme>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124055100 +0000" stop="20241124074500 +0000">
+    <title lang="en">Sobrenatural</title>
+    <desc lang="en">A raíz de un asesinato sin causa aparente ni relación con ella, la vida apacible de la joven Dolores y su marido se convierte en una pesadilla poblada por extraños personajes. Algunos de ellos parecen querer ayudar a Dolores, como una hechicera y un médico muy peculiar, pero la verdad es que la joven ya no puede confiar en nada ni en nadie. (FILMAFFINITY).</desc>
     <date>1996</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121053600 +0000" stop="20241121071900 +0000">
-    <title lang="en">Escape Plan: The Extractors</title>
-    <desc lang="en">Película de suspenso y acción que sigue al experto en seguridad, Ray Breslin. En un giro inesperado, la novia de Breslin es secuestrada; precisamente cuando este es contratado para rescatar a la hija de un poderoso empresario de la tecnología en Hong Kong. La próxima misión de Breslin y su equipo consistirá en encontrar a los rehenes, antes de que sea demasiado tarde.</desc>
-    <date>2019</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124074500 +0000" stop="20241124091000 +0000">
+    <title lang="en">Ferias de México</title>
+    <desc lang="en">Un joven le promete a su padre moribundo no usar armas ni jugar naipes, pero cuando sus antiguos enemigos atacan a su esposa, él decide tomar venganza.</desc>
+    <date>1959</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121071900 +0000" stop="20241121082000 +0000">
-    <title lang="en">Mirreyes vs. Godinez home office</title>
-    <desc lang="en">Genaro es un joven godín que dedicó su vida a trabajar en Kuri and Sons y a aprender de su jefe.</desc>
-    <date>2019</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124091000 +0000" stop="20241124103500 +0000">
+    <title lang="en">Amor a Balazo Limpio</title>
+    <desc lang="en">Un comisario debe enfrentarse a un joven pistolero que busca vengar la muerte de su hermano, un bandido que lo retó a duelo. Elvira Quintana. Rogelio: Roberto G. Rivera. Julio: Rodolfo de Anda. Valentino: Joaquín García Vargas "Borolas." Luisito: José Carlos Méndez. José:Jorge Mondragón. Nacho: José Jasso. Director: Benito Alazraki.</desc>
+    <date>1961</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121082000 +0000" stop="20241121095000 +0000">
-    <title lang="en">Dibujando el cielo</title>
-    <desc lang="en">A pesar de ser una experta en "mecánica celeste" (que se dedica a trazar las rutas que dibujan los satélites en el espacio), Sofía lleva años sin haber encontrado todavía el rumbo en tierra firme. Hace años que cursa un posgrado interminable. Y está tan obsesionada con terminar su tesis que ha sacrificado su vida personal. Cuando una tormenta arruina las esperanzas de culminar su trabajo el destino le trae vientos de cambio, ya que conoce a un guapo vulcanólogo que le hará replantearse.</desc>
-    <date>2018</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124103500 +0000" stop="20241124120000 +0000">
+    <title lang="en">El Espejo de la Bruja</title>
+    <desc lang="en">Una bruja benévola encanta un espejo mágico para proteger a su hija adoptiva Elena de su marido cruel. Cuando el conjuro falla y Eduardo mata a Elena, la bruja jura vengar la muerte utilizando cada elemento profano de lo sobrenatural que puede conjurar.</desc>
+    <date>1962</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121095000 +0000" stop="20241121115200 +0000">
-    <title lang="en">U-571</title>
-    <desc lang="en">En 1942, en plena Segunda Guerra Mundial, la flota alemana está ganando la partida a la armada aliada causándoles gran número de bajas. Cientos de barcos están siendo hundidos por los submarinos de Hitler gracias a un sistema de comunicaciones llamado "enigma", que posiciona con increíble exactitud los objetivos a los que deben atacar. Pero ahora, un capitán norteamericano ha detectado las señales de "enigma".</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124120000 +0000" stop="20241124133500 +0000">
+    <title lang="en">Dos Meseros Majaderos</title>
+    <desc lang="en">Gaspar Henaine "Capulina" es confundido con un asesino y buscado por la policía, y él se esconde en un cabaret donde arma una serie de líos. Marco Antonio Campos "Viruta." Sonia: Luz María Aguilar, Susana: Elsa Cárdenas. Betty: Ana María de Panamá. Bandala: Antonio Raxel. Hurtado: Carlos Agosti. Director: Gilberto Martínez Solares.</desc>
+    <date>1966</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121115200 +0000" stop="20241121134300 +0000">
-    <title lang="en">Comando Rogue: Al acecho</title>
-    <desc lang="en">Una unidad mercenaria es contratada por el gobernador de un país africano para rescatar a su hija.</desc>
-    <date>2020</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124133500 +0000" stop="20241124151000 +0000">
+    <title lang="en">Primera comunión</title>
+    <desc lang="en">Un niño de condiciones muy humildes anhela hacer su primera comunión, pero las circunstancias no se lo permiten hasta que, después de un trágico accidente, Paco Malgesto y un grupo de personas lo ayudan a realizar su gran sueño.</desc>
+    <date>1969</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121134300 +0000" stop="20241121155100 +0000">
-    <title lang="en">Dos policías rebeldes</title>
-    <desc lang="en">Dos policías de Miami se verán forzados a intercambiar roles.</desc>
-    <date>1995</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124151000 +0000" stop="20241124165400 +0000">
+    <title lang="en">Rigo es amor</title>
+    <desc lang="en">Entre tantas noches de trabajar juntos en el cabaret, Rigo y la Tulipana se enamoran. Él es el cantante del lugar, mientras que ella se gana la vida como fichera. La relación entre ambos se torna intensa y apasionada. Aunque, lentamente, comienza a desgastarse debido al alcoholismo y a la aparición de otra mujer.</desc>
+    <date>1980</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121155100 +0000" stop="20241121180100 +0000">
-    <title lang="en">Dragón: La Historia de Bruce Lee</title>
-    <desc lang="en">Biografía de Bruce Lee, el nombrado experto en artes marciales, desde su llegada a los EE.UU. como un humilde estudiante hasta su ascenso a la fama por su éxito como maestro y actor.</desc>
-    <date>1993</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124165400 +0000" stop="20241124183800 +0000">
+    <title lang="en">El Fantasma de la Casa Roja</title>
+    <desc lang="en">Una joven hereda una fortuna y tiene que pasar tres noches en la casa del difunto, donde se entera de que otros también codician el dinero de su herencia.</desc>
+    <date>1956</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121180100 +0000" stop="20241121194300 +0000">
-    <title lang="en">Temblores</title>
-    <desc lang="en">Los habitantes de un pequeño pueblo en el desierto de Nevada comienzan a sentir inquietud por varias muertes que han ocurrido en el lugar. Después de incesantes temblores, descubrirán que hay algo vivo bajo la tierra y que quiere exterminarlos.</desc>
-    <date>1990</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124183800 +0000" stop="20241124202000 +0000">
+    <title lang="en">Aladino y la Lámpara Maravillosa</title>
+    <desc lang="en">Aladino es escogido por su inocencia para encontrar la lámpara mágica que le concede tres deseos.</desc>
+    <date>1958</date>
   </programme>
-  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121194300 +0000" stop="20241121213100 +0000">
-    <title lang="en">Terror Bajo la Tierra 2</title>
-    <desc lang="en">Los gusanos carnívoros gigantes hacen estragos en un yacimiento de petróleo mexicano y Fred Ward sigue luchando contra estas criaturas subterráneas.</desc>
-    <date>1996</date>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124202000 +0000" stop="20241124221600 +0000">
+    <title lang="en">La Edad de la Inocencia</title>
+    <desc lang="en">Un escritor en búsqueda de inspiración va a una feria donde ayuda a una mujer que enloqueció a causa de la pérdida de su hija.</desc>
+    <date>1962</date>
+  </programme>
+  <programme channel="De.Película.(DPELI).[400].cr" start="20241124221600 +0000" stop="20241125002100 +0000">
+    <title lang="en">El analfabeto</title>
+    <desc lang="en">Inocencio Prieto es un mozo analfabeto que recibe una carta en la que se le comunica que ha heredado una gran fortuna de un tío suyo que acaba de fallecer. Sin embargo, para saberlo, deberá aprender a leer y escribir.</desc>
+    <date>1961</date>
   </programme>
   <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241121213100 +0000" stop="20241121233900 +0000">
     <title lang="en">Tiburón 2</title>
@@ -2390,97 +2337,75 @@
     <desc lang="en">Película biográfica sobre el ídolo musical Freddie Mercury y su legendaria banda de rock Queen. La historia cubre los años entre la formación del grupo y su aparición en el concierto Live Aid de 1985. Rami Malek interpreta a Mercury, dirigido por el actor británico Dexter Fletcher, tras el despido de Bryan Singer.</desc>
     <date>2018</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241120221200 +0000" stop="20241121000600 +0000">
-    <title lang="en">Muerte súbita</title>
-    <desc lang="en">Película de acción con Jean-Claude Van Damme como un mariscal enfrentando a terroristas en una pista de hockey---donde el vice-presidente se encuentra secuestrado.</desc>
-    <date>1995</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124001000 +0000" stop="20241124020000 +0000">
+    <title lang="en">Guerra entre hermanos</title>
+    <desc lang="en">Arsenal cuenta la historia de los hermanos Lindel, Mikey y JP, que solo se tenían el uno al otro. (New).</desc>
+    <date>2022</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121000600 +0000" stop="20241121020000 +0000">
-    <title lang="en">Dia de selección</title>
-    <desc lang="en">Sonny Weaver Jr. (Costner), director general de los Browns de Cleveland, intenta fichar al número uno para su equipo de fútbol americano. La decisión que va a tomar implica sacrificios que pueden afectar a su vida personal y profesional y, además, puede significar un gran cambio en la vida de un grupo de jóvenes que sueñan con jugar en la NFL.</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124020000 +0000" stop="20241124025900 +0000">
+    <title lang="en">Relíquias oscuras</title>
+    <date>2024</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121020000 +0000" stop="20241121035700 +0000">
-    <title lang="en">Mente Implacable</title>
-    <desc lang="en">Un preso del corredor de la muerte se ve, de repente, en un sitio desconocido. La CIA le ha implantado en su cerebro las habilidades y recuerdos de un agente recién fallecido para que complete la misión que él no pudo. (New).</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124025900 +0000" stop="20241124052100 +0000">
+    <title lang="en">Bajos Instintos</title>
+    <desc lang="en">Un detective (Michael Douglas) tiene una aventura con una escritora quien puede ser asesina.</desc>
+    <date>1992</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121035700 +0000" stop="20241121054100 +0000">
-    <title lang="en">Todo Sobre Nina</title>
-    <desc lang="en">Nina Geld es una divertida y provocativa comediante femenina que se esfuerza por lograr el éxito profesional y romántico en Los Ángeles. Se exploran temas como el alcoholismo, el abuso doméstico, el trauma emocional y el sexismo en el mundo de la comedia en vivo.</desc>
-    <date>2018</date>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124052100 +0000" stop="20241124070400 +0000">
+    <title lang="en">La portera</title>
+    <desc lang="en">Una mujer regresa de la guerra y entabla amistad con una familia en la ciudad de Nueva York. Cuando descubre que un grupo de ladrones planea atracar a sus nuevos amigos, decide hacerles frente y poner su vida en peligro por ellos.</desc>
+    <date>2020</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121054100 +0000" stop="20241121071400 +0000">
-    <title lang="en">Cuidado con lo que deseas</title>
-    <desc lang="en">Un hombre recibe mas de lo que esperaba despues de entrar en una relacion amorosa con la esposa de un banquero de inversion. Pronto, una politica de muerte y de vida sustancial sospechoso el envuelto en un escandalo.</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124070400 +0000" stop="20241124080500 +0000">
+    <title lang="en">Mirreyes vs. Godinez home office</title>
+    <desc lang="en">Genaro es un joven godín que dedicó su vida a trabajar en Kuri and Sons y a aprender de su jefe.</desc>
+    <date>2019</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121071400 +0000" stop="20241121090600 +0000">
-    <title lang="en">El Centinela</title>
-    <desc lang="en">Un "thriller" político sobre un agente de la CIA sospechado de tramar el asesinato del presidente mientras mantenía una relación con la primera dama.</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121090600 +0000" stop="20241121110900 +0000">
-    <title lang="en">Insurgente</title>
-    <desc lang="en">Beatrice Prior debe enfrentarse a sus propios demonios y continuar su lucha, con la ayuda de otras personas, contra una poderosa alianza que amenaza con destruir a la sociedad en donde vive.</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121110900 +0000" stop="20241121132300 +0000">
-    <title lang="en">Hombres de coraje</title>
-    <desc lang="en">Basada en la verdadera historia de la tripulación del buque de guerra USS Indianapolis, que quedaron a la deriva en el mar de Filipinas durante 5 días tras entregar la bombas atómicas que tiempo después se lanzarían sobre Japón para dar fin a la Segunda Guerra Mundial. Mientras esperaban el rescate, sufrieron de hambre, sed y la amenaza de los tiburones.</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121132300 +0000" stop="20241121150300 +0000">
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124080500 +0000" stop="20241124094700 +0000">
     <title lang="en">¡Qué despadre!</title>
     <desc lang="en">Es la historia de Pedro un soltero cuarentón que le gusta la fiesta no tiene hijos y vive de noche.</desc>
     <date>2022</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121150300 +0000" stop="20241121163900 +0000">
-    <title lang="en">Siempre a tu lado</title>
-    <desc lang="en">Cada mañana, el perro apodado «Hachiko» acompaña hasta la estación de tren a su amo, el profesor universitario Parker, para despedirle, y luego, cada tarde, regresa a la misma estación para recibirle al final de la jornada. Cuando esta rutina sin complicaciones sufre una interrupción, la naturaleza emocionalmente compleja de cuanto se desata es lo que convierte la historia de Hachiko en un cuento eterno.</desc>
-    <date>2009</date>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124094700 +0000" stop="20241124112300 +0000">
+    <title lang="en">Tuya, mia... te la apuesto</title>
+    <desc lang="en">Mariano Concha solo tiene una pasión: el fútbol. Realiza una apuesta que cambiará su vida.</desc>
+    <date>2018</date>
+  </programme>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124112300 +0000" stop="20241124131000 +0000">
+    <title lang="en">Suave patria</title>
+    <desc lang="en">Documental sobre Brandon McInerney. Un trabajo que revela las desgarradoras circunstancias que condujeron a Brandon, estudiante de octavo grado, a dispararle a su compañero, Larry King, a quemarropa. Además de las sorprendentes consecuencias de este escandaloso crimen.</desc>
+    <date>2012</date>
+  </programme>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124131000 +0000" stop="20241124154000 +0000">
+    <title lang="en">Karate Kid</title>
+    <desc lang="en">Un niño aprende kung fu de un conserje amable después de ser obligado a mudarse de Detroit a China, donde es víctima de intimidaciones en la escuela.</desc>
+    <date>2010</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121163900 +0000" stop="20241121185300 +0000">
-    <title lang="en">La Historia de Ernie Davis</title>
-    <desc lang="en">Rob Brown entrega una interpretación campeona en esta biografía deportiva basada en hechos reales acerca del jugador de fútbol americano Ernie Davis, el primer afroamericano universitario en ser reconocido con el trofeo Heisman como el mejor jugador.</desc>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124154000 +0000" stop="20241124171800 +0000">
+    <title lang="en">Atrapen al gringo</title>
+    <desc lang="en">Después de ser capturado por las autoridades mexicanas, Driver es enviado a una cárcel de mala fama sumamente peligrosa conocida por los habitantes como 'El pueblito'. No sobrevivirá mucho tiempo sin ayuda de alguien familiarizado con las reglas del lugar; su salvación viene siendo un niño de sólo 9 años.</desc>
+    <date>2012</date>
+  </programme>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124171800 +0000" stop="20241124191700 +0000">
+    <title lang="en">El robo del siglo</title>
+    <desc lang="en">Basada en hechos de atraco, esta película comenzó en 1971 en Londres, siguiendo a una banda de ladrones quienes roban una bóveda y escapan con millones en efectivo y joyas, más algo que no esperaban encontrar.</desc>
     <date>2008</date>
     <rating system="MPAA">
-      <value>TV-PG</value>
+      <value>TV-MA</value>
     </rating>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121185300 +0000" stop="20241121202900 +0000">
-    <title lang="en">Tierra De La Vida Eterna</title>
-    <desc lang="en">Will un joven enfermo de fibrosis quística, una enfermedad terminal, se encarga de llevar de las cenizas de su amigo a un santuario de curación legendario en México. Junto con la hermana de su difunto amigo, Will se embarca en un viaje épico, encontrándo.</desc>
-    <date>2011</date>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124191700 +0000" stop="20241124214000 +0000">
+    <title lang="en">Bohemian Rhapsody, la historia de Freddie Mercury</title>
+    <desc lang="en">Película biográfica sobre el ídolo musical Freddie Mercury y su legendaria banda de rock Queen. La historia cubre los años entre la formación del grupo y su aparición en el concierto Live Aid de 1985. Rami Malek interpreta a Mercury, dirigido por el actor británico Dexter Fletcher, tras el despido de Bryan Singer.</desc>
+    <date>2018</date>
   </programme>
-  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241121202900 +0000" stop="20241121222100 +0000">
-    <title lang="en">El Centinela</title>
-    <desc lang="en">Un "thriller" político sobre un agente de la CIA sospechado de tramar el asesinato del presidente mientras mantenía una relación con la primera dama.</desc>
-    <date>2006</date>
+  <programme channel="Golden.Edge.(Panregional).(GLDELA).[401].cr" start="20241124214000 +0000" stop="20241125001000 +0000">
+    <title lang="en">Karate Kid</title>
+    <desc lang="en">Un niño aprende kung fu de un conserje amable después de ser obligado a mudarse de Detroit a China, donde es víctima de intimidaciones en la escuela.</desc>
+    <date>2010</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2672,80 +2597,90 @@
     <desc lang="en">Mike Cole está obsesionado con unas imágenes misteriosas y mensajes aterradores que no puede explicar, un año después de que su pequeño hijo desapareciera durante una celebración de Halloween. Junto con su esposa, que no comprende lo que sucede.</desc>
     <date>2015</date>
   </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241120215700 +0000" stop="20241120235000 +0000">
-    <title lang="en">El mártir del calvario</title>
-    <desc lang="en">La vida de Jesús desde el inicio de su ministerio, sus milagros, el sermón del monte y su muerte en la cruz. Esta representación reverente de la vida de Jesucristo comienza con el milagro de los peces y termina con la Ascensión de Jesús al cielo junto a su padre.</desc>
-    <date>1952</date>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124001900 +0000" stop="20241124020000 +0000">
+    <title lang="en">Triunfos Robados</title>
+    <desc lang="en">El equipo de porristas de una escuela secundaria intenta ganar un campeonato nacional en esta comedia satírica. Cuando la animada capitana nueva (Kirsten Dunst) descubre que su equipo había robado las ideas de un equipo rival, toma medidas drásticas y hace una nueva coreografía con el fin de dirigir su equipo al campeonato nacional.</desc>
+    <date>2000</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241120235000 +0000" stop="20241121012700 +0000">
-    <title lang="en">Por Tu Maldito Amor</title>
-    <desc lang="en">Un hombre tiene que decidir entre dos mujeres, una es madura, segura de si mima y dueña de muchas tierras y la otra es joven, bella y muy impetuosa, pero ademas hay un problema; ellas son hermanas.</desc>
-    <date>1990</date>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124020000 +0000" stop="20241124040400 +0000">
+    <title lang="en">Escobar: El paraíso perdido</title>
+    <desc lang="en">Nick, un joven surfista, cree que todos sus sueños se han hecho realidad cuando va a Colombia a visitar a su hermano. En un ambiente idílico de lagunas azules y blancas playas, Nick se enamora perdidamente de la bella María. Todo parece perfecto hasta que Nick conoce al tío de la joven, un tal Pablo Escobar.</desc>
+    <date>2014</date>
   </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121012700 +0000" stop="20241121025300 +0000">
-    <title lang="en">Yambaó</title>
-    <desc lang="en">La nieta de una bruja (Ninón Sevilla) es amenazada de muerte por los esclavos de una plantación al creerla causante de una epidemia, en la Cuba del siglo XIX. Jorge: Ramón Gay. Beatriz: Rosa Elena Durgel. Damián: Luis López Puente. Fedora Capdevilla, Olga Guillot, Isolina Herrera, Martha Sean Claudet, Mercedes Valdés, Paulina Álvarez. Dirigida por Alfredo B. Crevenna.</desc>
-    <date>1957</date>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124040400 +0000" stop="20241124055100 +0000">
+    <title lang="en">Venganza mortal</title>
+    <desc lang="en">Un arquitecto es exonerado por la desaparición de una ex novia, pero descubre otro peligro.</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121025300 +0000" stop="20241121042000 +0000">
-    <title lang="en">Dinastía de Valientes</title>
-    <desc lang="en">Se desata una aventura sangrienta cuando un asesino a sueldo tiene que luchar contra los que lo quieren atrapar. Fernando Almada, Gerardo Albarrán.</desc>
-    <date>2001</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121042000 +0000" stop="20241121055200 +0000">
-    <title lang="en">El Hijo del Palenque</title>
-    <desc lang="en">Un gallero de Texas se entera del asesinato de sus padres y busca ser apresado para vengarse de los criminales en la cárcel.</desc>
-    <date>1986</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121055200 +0000" stop="20241121074500 +0000">
-    <title lang="en">El mártir del calvario</title>
-    <desc lang="en">La vida de Jesús desde el inicio de su ministerio, sus milagros, el sermón del monte y su muerte en la cruz. Esta representación reverente de la vida de Jesucristo comienza con el milagro de los peces y termina con la Ascensión de Jesús al cielo junto a su padre.</desc>
-    <date>1952</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121074500 +0000" stop="20241121092200 +0000">
-    <title lang="en">Por Tu Maldito Amor</title>
-    <desc lang="en">Un hombre tiene que decidir entre dos mujeres, una es madura, segura de si mima y dueña de muchas tierras y la otra es joven, bella y muy impetuosa, pero ademas hay un problema; ellas son hermanas.</desc>
-    <date>1990</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121092200 +0000" stop="20241121104800 +0000">
-    <title lang="en">Yambaó</title>
-    <desc lang="en">La nieta de una bruja (Ninón Sevilla) es amenazada de muerte por los esclavos de una plantación al creerla causante de una epidemia, en la Cuba del siglo XIX. Jorge: Ramón Gay. Beatriz: Rosa Elena Durgel. Damián: Luis López Puente. Fedora Capdevilla, Olga Guillot, Isolina Herrera, Martha Sean Claudet, Mercedes Valdés, Paulina Álvarez. Dirigida por Alfredo B. Crevenna.</desc>
-    <date>1957</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121104800 +0000" stop="20241121121500 +0000">
-    <title lang="en">Dinastía de Valientes</title>
-    <desc lang="en">Se desata una aventura sangrienta cuando un asesino a sueldo tiene que luchar contra los que lo quieren atrapar. Fernando Almada, Gerardo Albarrán.</desc>
-    <date>2001</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121121500 +0000" stop="20241121134900 +0000">
-    <title lang="en">La Mugrosita</title>
-    <desc lang="en">Un niño huérfano, que vive con un viejo chofer también sin familia, se hace amigo de una niñita a la que le canta. Al chofer van a quitarle su camión porque no puede pagarlo, y el niño se va a vivir con un hombre rico que dice ser su abuelo a cambio de que pague el camión de su amigo.</desc>
-    <date>1981</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121134900 +0000" stop="20241121152800 +0000">
-    <title lang="en">Los enredos de una gallega</title>
-    <desc lang="en">Una vendedora de loterías refugia a un vago y su sobrino en su casa, tratando de reformarlos.</desc>
-    <date>1951</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121152800 +0000" stop="20241121171000 +0000">
-    <title lang="en">Teresa</title>
-    <desc lang="en">Una joven universitaria reniega de su origen humilde y trata de fingir ante sus amigos que sus padres son ricos, pero la fatalidad la hará recapacitar. Teresa: Maricruz Olivier. Profesor Héctor: Fernando Rey. Luisa: Beatriz Aguirre. José Antonio: Luis Beristáin. Aurora: Manola Saavedra. Mario: Héctor Godoy. Director: Alfredo B. Crevenna.</desc>
-    <date>1961</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121171000 +0000" stop="20241121184300 +0000">
-    <title lang="en">El Padre Trampitas</title>
-    <desc lang="en">Un religioso apela a todos sus recursos para salvar un hogar de huérfanos, aunque estén fuera de la ley. Un cura muy pobre enfrenta dificultades para mantener con donaciones el orfanato que está a su cargo y recurre entonces a los juegos de azar y llega a hacerse boxeador con la misión de proteger a los niños de la institución.</desc>
-    <date>1986</date>
-  </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121184300 +0000" stop="20241121202800 +0000">
-    <title lang="en">Zapatos Viejos</title>
-    <desc lang="en">Las aventuras de una huérfana rebelde al escapar de un orfanato.</desc>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124055100 +0000" stop="20241124080400 +0000">
+    <title lang="en">Bajos Instintos</title>
+    <desc lang="en">Un detective (Michael Douglas) tiene una aventura con una escritora quien puede ser asesina.</desc>
     <date>1992</date>
   </programme>
-  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121202800 +0000" stop="20241121215800 +0000">
-    <title lang="en">Yo No Me Caso Compadre</title>
-    <desc lang="en">Los integrantes de una pareja están comprometidos desde su infancia, llega el momento de casarse y ninguno de los dos desea hacerlo.</desc>
-    <date>1960</date>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124080400 +0000" stop="20241124094100 +0000">
+    <title lang="en">Twister</title>
+    <desc lang="en">Relato episódico sobre los excéntricos miembros de una familia de Kansas que se esfuerzan por llevarse bien los unos con los otros.</desc>
+    <date>1989</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124094100 +0000" stop="20241124110700 +0000">
+    <title lang="en">Una familia de héroes</title>
+    <desc lang="en">Paul Newman narra este documental que relata la difícil situación de una familia de suricatas que tienen que hacer frente a su entorno desértico y mantener estrechas relaciones con los demás.</desc>
+    <date>2008</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124110700 +0000" stop="20241124124000 +0000">
+    <title lang="en">La lista perfecta de navidad</title>
+    <desc lang="en">Como último deseo, una abuela recientemente hospitalizada, Evie, le da a su hija y a su nieta, una lista de logros festivos para hacer juntas antes de Navidad, con la esperanza de que la aventura de la experiencia repare su relación.</desc>
+    <date>2014</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124124000 +0000" stop="20241124140600 +0000">
+    <title lang="en">Dios te salve, María</title>
+    <desc lang="en">Sigue a María de Nazaret en sus últimos días terrenales.</desc>
+    <date>2015</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124140600 +0000" stop="20241124152900 +0000">
+    <title lang="en">Un caballo llamado elefante</title>
+    <desc lang="en">Roberto es un joven tímido y fanático de las historietas de aventuras. Lalo, su hermano, todo lo contrario, es un amante de las armas y de las aventuras reales. El abuelo les pide que cuando el muera liberen a su querido caballo.</desc>
+    <date>2016</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124152900 +0000" stop="20241124170300 +0000">
+    <title lang="en">Alvin y las Ardillas</title>
+    <desc lang="en">Los hermanos roedores Alvin, Simón y Teodoro con sus melodiosas voces se convierten en estrellas de la música pop en esta mezcla de imágenes reales con animación. Estos personajes fueron creados en 1958 por el músico Ross Bagdasarian.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124170300 +0000" stop="20241124183400 +0000">
+    <title lang="en">Mini espías 4: Los ladrones del tiempo</title>
+    <desc lang="en">Marissa Cortez Wilson tiene todo lo que siempre soñó: está casada con Wilbur ¿un periodista famoso al que ama, pero que no sabe todos los detalles de su vida¿, es una gran espía y tiene hijos muy inteligentes. Por el momento, su gran desafío es ser madrasta de Rebecca y Cecil. Pero ella debe volver al trabajo activo cuando Timekeeper, un maníaco peligroso, amenaza con dominar el planeta.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124183400 +0000" stop="20241124202400 +0000">
+    <title lang="en">Conquistando a Mi Suegro</title>
+    <desc lang="en">Un padre afroamericano (Bernie Mac) tiene que enfrentarse a su racismo cuando su hija le presenta su novio blanco.</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124202400 +0000" stop="20241124223400 +0000">
+    <title lang="en">Juego de espías</title>
+    <desc lang="en">Robert Redford es un agente de la CIA que pasa su último día en la agencia tratando de coordinar el rescate de un colega (Brad Pitt), quien está encarcelado en una prisión china y abandonado por sus superiores.</desc>
+    <date>2001</date>
+  </programme>
+  <programme channel="Golden.Plus.HDTV.(GLDHD).[915].cr" start="20241124223400 +0000" stop="20241125001900 +0000">
+    <title lang="en">Golpe de Suerte</title>
+    <desc lang="en">Fantasía cómica acerca de una joven (Lindsay Lohan) cuya buena fortuna es inexplicablemente cambiada tras besar a un chico con mala suerte en una fiesta de disfraces.</desc>
+    <date>2006</date>
   </programme>
   <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241121215800 +0000" stop="20241121233700 +0000">
     <title lang="en">Los enredos de una gallega</title>
@@ -2911,6 +2846,86 @@
     <title lang="en">El Ganador</title>
     <desc lang="en">Un vendedor de antigüedades toma bajo su protección a una pequeña ladrona que se viste de niño para sobrevivir.</desc>
     <date>1990</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124003000 +0000" stop="20241124015100 +0000">
+    <title lang="en">Escuela de Valientes</title>
+    <desc lang="en">Un hombre se hace pasar por un feroz luchador para conquistar el amor de una ranchera.</desc>
+    <date>1961</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124015100 +0000" stop="20241124031800 +0000">
+    <title lang="en">Jóvenes y Bellas</title>
+    <desc lang="en">La rebeldía adolescente encuentra siempre su forma de imponerse a las viejas normas. Una pareja de padres intenta que sus hijas de gran atractivo se olviden de los muchachos que las festejan y de la música rock y las mandan al campo, donde ellas descubrirán otras maneras de acercarse a lo que desean.</desc>
+    <date>1962</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124031800 +0000" stop="20241124045100 +0000">
+    <title lang="en">Benjamín Argumedo</title>
+    <desc lang="en">Benjamin Argumedo es la historia real de las penurias de un hombre para sobrevivir la revolución Mexicana, y lo que pasa luego de la guerra.</desc>
+    <date>1979</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124045100 +0000" stop="20241124062700 +0000">
+    <title lang="en">Diablos en el Cielo</title>
+    <desc lang="en">Dos pilotos, uno mujeriego y otro tímido, se pelean después de que el primero intenta quitarle la novia al segundo, pero una misión peligrosa los hará arrepentirse.</desc>
+    <date>1965</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124062700 +0000" stop="20241124075300 +0000">
+    <title lang="en">El Ganador</title>
+    <desc lang="en">Un vendedor de antigüedades toma bajo su protección a una pequeña ladrona que se viste de niño para sobrevivir.</desc>
+    <date>1990</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124075300 +0000" stop="20241124091400 +0000">
+    <title lang="en">Escuela de Valientes</title>
+    <desc lang="en">Un hombre se hace pasar por un feroz luchador para conquistar el amor de una ranchera.</desc>
+    <date>1961</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124091400 +0000" stop="20241124104100 +0000">
+    <title lang="en">Jóvenes y Bellas</title>
+    <desc lang="en">La rebeldía adolescente encuentra siempre su forma de imponerse a las viejas normas. Una pareja de padres intenta que sus hijas de gran atractivo se olviden de los muchachos que las festejan y de la música rock y las mandan al campo, donde ellas descubrirán otras maneras de acercarse a lo que desean.</desc>
+    <date>1962</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124104100 +0000" stop="20241124121700 +0000">
+    <title lang="en">Diablos en el Cielo</title>
+    <desc lang="en">Dos pilotos, uno mujeriego y otro tímido, se pelean después de que el primero intenta quitarle la novia al segundo, pero una misión peligrosa los hará arrepentirse.</desc>
+    <date>1965</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124121700 +0000" stop="20241124140600 +0000">
+    <title lang="en">La maestra inolvidable</title>
+    <desc lang="en">El odio entre dos familias de provincia ocasiona un terrible accidente a la maestra rural, quien, tratando de evitar más muertes, se interpone en un duelo saliendo herida en una pierna que posteriormente pierde y deberá reemplazar por una pata de...</desc>
+    <date>1968</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124140600 +0000" stop="20241124154300 +0000">
+    <title lang="en">Había una vez una estrella</title>
+    <desc lang="en">Al morir su madre, Rodrigo debe velar por sus tres hermanos. Aunque trabaja arduamente, apenas le alcanza para mantenerlos y comprar medicinas para Fer que es asmático. Ante lo apremiante de su situación, se ve en la necesidad de acudir a su abuelo, hombre duro e insensible que nunca quiso conocerlos.</desc>
+    <date>1989</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124154300 +0000" stop="20241124171700 +0000">
+    <title lang="en">Dos Diablillos en Apuros</title>
+    <desc lang="en">El abuelo de una familia intercede en la vida de los suyos y evita el divorcio de su hija con la ayuda de los nietos, pero una carta revela un asombroso secreto.</desc>
+    <date>1957</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124171700 +0000" stop="20241124184700 +0000">
+    <title lang="en">Simitrio</title>
+    <desc lang="en">Cipriano es un viejo y casi ciego maestro rural, con carácter fuerte pero, con un corazón muy grande que tiene que lidiar con un grupo de alumnos malandrines y difícilmente corregibles. Un día uno de ellos, Simitrio, tiene que salir de urgencia del pueblo junto con sus padres sin que le dé tiempo de avisar a la escuela, por lo que los padres de Simitrio le encargan a un compañero, Luis Ángel, de aviso al maestro Cipriano.</desc>
+    <date>1960</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124184700 +0000" stop="20241124200900 +0000">
+    <title lang="en">Héroe a la Fuerza</title>
+    <desc lang="en">El niño Caín provoca su muerte y la de sus padres al echar cohetes a los caballos. Abel, su gemelo, queda inconsciente veinte años atendido por un veterinario en casa de la bondadosa Prudencia y su hija Lucha. Al despertar, Abel tiene doble personalidad: la mansa de él mismo y la atrabancada de su hermano. De ese modo confunde al pueblo entero, pues cuando abusan del pacífico los castiga el temerario y así vence a unos asaltantes. Otro golpe lo deja con su personalidad prudente y besa a Lucha.</desc>
+    <date>1964</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124200900 +0000" stop="20241124215800 +0000">
+    <title lang="en">La maestra inolvidable</title>
+    <desc lang="en">El odio entre dos familias de provincia ocasiona un terrible accidente a la maestra rural, quien, tratando de evitar más muertes, se interpone en un duelo saliendo herida en una pierna que posteriormente pierde y deberá reemplazar por una pata de...</desc>
+    <date>1968</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124215800 +0000" stop="20241124233500 +0000">
+    <title lang="en">Había una vez una estrella</title>
+    <desc lang="en">Al morir su madre, Rodrigo debe velar por sus tres hermanos. Aunque trabaja arduamente, apenas le alcanza para mantenerlos y comprar medicinas para Fer que es asmático. Ante lo apremiante de su situación, se ve en la necesidad de acudir a su abuelo, hombre duro e insensible que nunca quiso conocerlos.</desc>
+    <date>1989</date>
+  </programme>
+  <programme channel="De.Película.HDTV.(Latin.America).(DPELICHD).[924].cr" start="20241124233500 +0000" stop="20241125010900 +0000">
+    <title lang="en">El Fantasma de la Casa Roja</title>
+    <desc lang="en">Una joven hereda una fortuna y tiene que pasar tres noches en la casa del difunto, donde se entera de que otros también codician el dinero de su herencia.</desc>
+    <date>1956</date>
   </programme>
   <channel id="Golden.Plus.HDTV.(GLDHD).do">
     <url>http://www.tvguide.com</url>
@@ -4435,158 +4450,6 @@
     <url>http://www.distro.tv</url>
     <display-name lang="en">Golden TV</display-name>
   </channel>
-  <programme channel="Golden.TV.distro" start="20241121033000 +0000" stop="20241121040000 +0000">
-    <title lang="en">A Look into Our America</title>
-    <desc lang="en">Wealth Manager and Advisor, Qunnie Lin, came to the United States as a young child with her hardworking parents with little means. Today, she heads her own firm Lin Wealth Management helping people and businesses achieve financial security and growth through comprehensive financial and investment planning. Mr. Van Gerard Dichoso, one of Los Angeles top CPAs, shares his story of becoming a CPA and great tips including some do's and don'ts for this tax season.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121040000 +0000" stop="20241121043000 +0000">
-    <title lang="en">The Takeaway</title>
-    <desc lang="en">Michelle Park gets a sneak peek of Interior Chinatown, PSYCHIC FEVER visits the studio and more.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121043000 +0000" stop="20241121050000 +0000">
-    <title lang="en">The Takeaway</title>
-    <desc lang="en">Michelle Park gets a sneak peek of Interior Chinatown, PSYCHIC FEVER visits the studio and more.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121050000 +0000" stop="20241121053000 +0000">
-    <title lang="en">A Look into Our America</title>
-    <desc lang="en">Founders of Asian Hustle Network share their story that inspired a community of Asian entrepreneurs and creatives. From an aristocratic Vietnamese family refugee background to the House of An, a culinary empire built by Chef Helene An with daughter Elizabeth tell it all.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121053000 +0000" stop="20241121060000 +0000">
-    <title lang="en">A Look into Our America</title>
-    <desc lang="en">GOLD HOUSE s Co-founder Bing Chen at its 3rd year gala for its A100 List of multi industry professionals and entertainment legends. US Karate Olympian Sakura Kokumai on a mission to bring greater awareness to the sport as a way of life, not just a competition.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121060000 +0000" stop="20241121063000 +0000">
-    <title lang="en">A Look into Our America</title>
-    <desc lang="en">With Artificial Intelligence becoming more widespread in use, questions and concerns are raised in every industry. Co-CEO of NWO.AI, Pulkit Jaiswal has built drones since his high school days and now works with governments with his AI system. He explains what AI actually does, what worries lie ahead and what we can hope for. Actress producer VoiceOver artist and gamer Anjali Bhimani shares how she successfully traverses these diverse spaces.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121063000 +0000" stop="20241121070000 +0000">
-    <title lang="en">A Look into Our America</title>
-    <desc lang="en">Wealth Manager and Advisor, Qunnie Lin, came to the United States as a young child with her hardworking parents with little means. Today, she heads her own firm Lin Wealth Management helping people and businesses achieve financial security and growth through comprehensive financial and investment planning. Mr. Van Gerard Dichoso, one of Los Angeles top CPAs, shares his story of becoming a CPA and great tips including some do's and don'ts for this tax season.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121070000 +0000" stop="20241121090000 +0000">
-    <title lang="en">Shaolin Abbott</title>
-    <desc lang="en">A martial arts guru wants to reconstruct the Shaolin Monastery after its destruction, but must deal with enemy hostility.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121090000 +0000" stop="20241121093000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">NERO TECA: Yet another culinary gem in the suburbs of KL.This is real Italian with an intense Abruzzian Italian at the helm. Chef Stefano is young and like most great Italian chefs Stefano s inspiration came from his mothers cooking.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121093000 +0000" stop="20241121100000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">MARINI'S ON 57: We are nearly 60 stories up in the centre of KL with the twin towers in our face. This is high end Italian cuisine cooked by owner\/chef Modesto Marini himself. We see him with Chef Phil in the working cooking Marini signatures and later at the bar delving into some seriously good cocktails.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121100000 +0000" stop="20241121103000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">Ashley meets an Oklahoma DIY-woodworker and a New Orleans spooky miniaturist.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121103000 +0000" stop="20241121110000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">Mardi Gras beading in New Orleans and a paper-folding artist in Austin.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121110000 +0000" stop="20241121130000 +0000">
-    <title lang="en">Godzilla vs Megalon</title>
-    <desc lang="en">Godzilla and flying cyborg Jet Jaguar meet a giant cockroach and a big black chicken sent by Seatopians.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121130000 +0000" stop="20241121133000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Malaysian\/Kiwi |Ambitious foodie Ruby tackles some tricky noodles, but can she gain the approval of her toughest critic? Ambitious self-taught foodie Ruby White sets herself the mighty challenge of learning a complicated family recipe she s never made before to share at a popup food event, but will she be able to master the dish before the doors open.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121133000 +0000" stop="20241121140000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">M ori | Risking all to direct his first ever vogue performance, Jacob sashays his way into smashing queer stereotypes. Sick of the stereotypes in queer narratives, Vogue dancer Jacob Tamata puts his all into directing his first ever vogue performance, but will the tricky challenges of leadership stop the show.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121140000 +0000" stop="20241121143000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Samoan | Undaunted about raising other s voices, Latayvia must confront her own insecurities about not knowing her language. Worried that Pasifika young people aren t invested in the political decisions that affect their lives, Latayvia Tualasea-Tautai creates youth organisation Labournesia to engage them in politics and lift up their voices but can she find her own.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121143000 +0000" stop="20241121150000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Cook Island\/Ghanaian |Writer and dancer Tina bares all at her first ever spoken word event. To perform in her first ever spoken word event, outspoken dancer and writer Tina Bonsu Maro explores parts of her identity she never has before. Will she be able to honour both her Ghanaian and Cook Island heritage on the big day.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121150000 +0000" stop="20241121160000 +0000">
-    <title lang="en">Matched</title>
-    <desc lang="en">Virginia and Lopeti+ Manpreet and Manpreet Princess Virginia prepares to marry Lopeti in the grandest Tongan wedding ever to be held in New Zealand but how will Her Royal Highness cope with the independence of marriage when she has never cooked or cleaned in her life?And Kiwi-Sikh Manpreet travels back to India for his arranged wedding to a woman with his same name but will they have anything else in common.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121160000 +0000" stop="20241121170000 +0000">
-    <title lang="en">Matched</title>
-    <desc lang="en">Gurgeenvin and Japjot+ Jilesh Opotiki fruit contractor and hopeless romantic, Gurjeevin, prepares for his semi-arranged wedding to Brisbane-based Japjot. But how will Japjot feel about sacrificing her career, family and city life to live in small town New Zealand with a man she has met only twice? And Jilesh, a radio DJ and eligible bachelor, is ready to use whatever means necessary to find his future bride.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121170000 +0000" stop="20241121173000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">A festive headpiece in New Orleans, and wooden toymaking in Omaha.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121173000 +0000" stop="20241121180000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">Beach-inspired resin art in Boston, and elaborate charcuterie boards in Omaha.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121180000 +0000" stop="20241121183000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">PAMPAS: This place rocks and it does in a very Argentinian way.The best meat cooked to perfection is what we see and learn how to achieve. At Pampas meat is what they are all about and Chef Phil discovers thats why the place is packed out every night.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121183000 +0000" stop="20241121190000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">KAYAPUTI AT ST. REGIS: A beautiful tropical island, two world class restaurants helmed by Chef Phils old friend Chef Richard. They take us on a culinary tour de force presenting some intriguing western recipes and a range delicious modern Malaysia fare.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121190000 +0000" stop="20241121193000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Malaysian\/Kiwi |Ambitious foodie Ruby tackles some tricky noodles, but can she gain the approval of her toughest critic? Ambitious self-taught foodie Ruby White sets herself the mighty challenge of learning a complicated family recipe she s never made before to share at a popup food event, but will she be able to master the dish before the doors open.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121193000 +0000" stop="20241121200000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">M ori | Risking all to direct his first ever vogue performance, Jacob sashays his way into smashing queer stereotypes. Sick of the stereotypes in queer narratives, Vogue dancer Jacob Tamata puts his all into directing his first ever vogue performance, but will the tricky challenges of leadership stop the show.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121200000 +0000" stop="20241121203000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Samoan | Undaunted about raising other s voices, Latayvia must confront her own insecurities about not knowing her language. Worried that Pasifika young people aren t invested in the political decisions that affect their lives, Latayvia Tualasea-Tautai creates youth organisation Labournesia to engage them in politics and lift up their voices but can she find her own.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121203000 +0000" stop="20241121210000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Cook Island\/Ghanaian |Writer and dancer Tina bares all at her first ever spoken word event. To perform in her first ever spoken word event, outspoken dancer and writer Tina Bonsu Maro explores parts of her identity she never has before. Will she be able to honour both her Ghanaian and Cook Island heritage on the big day.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121210000 +0000" stop="20241121220000 +0000">
-    <title lang="en">Matched</title>
-    <desc lang="en">Virginia and Lopeti+ Manpreet and Manpreet Princess Virginia prepares to marry Lopeti in the grandest Tongan wedding ever to be held in New Zealand but how will Her Royal Highness cope with the independence of marriage when she has never cooked or cleaned in her life?And Kiwi-Sikh Manpreet travels back to India for his arranged wedding to a woman with his same name but will they have anything else in common.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121220000 +0000" stop="20241121230000 +0000">
-    <title lang="en">Matched</title>
-    <desc lang="en">Gurgeenvin and Japjot+ Jilesh Opotiki fruit contractor and hopeless romantic, Gurjeevin, prepares for his semi-arranged wedding to Brisbane-based Japjot. But how will Japjot feel about sacrificing her career, family and city life to live in small town New Zealand with a man she has met only twice? And Jilesh, a radio DJ and eligible bachelor, is ready to use whatever means necessary to find his future bride.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121230000 +0000" stop="20241121233000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">A festive headpiece in New Orleans, and wooden toymaking in Omaha.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241121233000 +0000" stop="20241122000000 +0000">
-    <title lang="en">Maker Nation</title>
-    <desc lang="en">Beach-inspired resin art in Boston, and elaborate charcuterie boards in Omaha.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122000000 +0000" stop="20241122003000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">PAMPAS: This place rocks and it does in a very Argentinian way.The best meat cooked to perfection is what we see and learn how to achieve. At Pampas meat is what they are all about and Chef Phil discovers thats why the place is packed out every night.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122003000 +0000" stop="20241122010000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">KAYAPUTI AT ST. REGIS: A beautiful tropical island, two world class restaurants helmed by Chef Phils old friend Chef Richard. They take us on a culinary tour de force presenting some intriguing western recipes and a range delicious modern Malaysia fare.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122010000 +0000" stop="20241122013000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">Malaysian\/Kiwi |Ambitious foodie Ruby tackles some tricky noodles, but can she gain the approval of her toughest critic? Ambitious self-taught foodie Ruby White sets herself the mighty challenge of learning a complicated family recipe she s never made before to share at a popup food event, but will she be able to master the dish before the doors open.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122013000 +0000" stop="20241122020000 +0000">
-    <title lang="en">Both Worlds</title>
-    <desc lang="en">M ori | Risking all to direct his first ever vogue performance, Jacob sashays his way into smashing queer stereotypes. Sick of the stereotypes in queer narratives, Vogue dancer Jacob Tamata puts his all into directing his first ever vogue performance, but will the tricky challenges of leadership stop the show.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122020000 +0000" stop="20241122023000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">TIPPLING CLUB PART 2: We pick up where we left off in episode one in the kitchen at Tippling Club with Ryan and the preparation of more of his signature dishes, a 10-course degustation menu and a signature cocktail pairing.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122023000 +0000" stop="20241122030000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">BACCHANALIA: Voted Singapore s Best New Restaurant for 2104, Bacchanalia and Executive Chef Ivan Brehm are next on Phillip s culinary tour of Singapore as we explore their signature dishes in the kitchen and at the Chef s table.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241122030000 +0000" stop="20241122033000 +0000">
-    <title lang="en">Toque</title>
-    <desc lang="en">CUT BY WOLFGANG PUCK: In this episode we join Phillip at celebrity Chef Wolfgang Puck s Singapore outpost of his critically acclaimed, award-winning, modern steakhouse in Beverly Hills where joins US native, Executive Chef Joshua Brown in the kitchen.</desc>
-  </programme>
   <programme channel="Golden.TV.distro" start="20241122033000 +0000" stop="20241122040000 +0000">
     <title lang="en">Toque</title>
     <desc lang="en">DB BISTRO: Phillip is welcomed to another celebrity chef outlet, Daniel Boulud s DB Bistro where the classic Parisian bistro is reinterpreted under Executive Chef, American Jonathan Kinsella s watchful eye.</desc>
@@ -4732,16 +4595,16 @@
     <desc lang="en">Hard 90 to Home tells the heartwarming story of a father and son's mission to develop Filipino baseball players from around the globe through their organization, the Philippines Baseball Group, and affiliation with the Philippines National Team. We follow the Picketts family, players and coaches at the 2024 Filipino World Series baseball tournament in Los Angeles, California.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123030000 +0000" stop="20241123040000 +0000">
-    <title lang="en">TONY SHRILLER COMEDY SPECIAL</title>
-    <desc lang="en">TONY SHRILLER COMEDY SPECIAL.</desc>
+    <title lang="en">Tony Shriller Comedy Special</title>
+    <desc lang="en">Tony Shriller Comedy Special.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123040000 +0000" stop="20241123043000 +0000">
-    <title lang="en">TAKEAWAY 110</title>
-    <desc lang="en">TAKEAWAY 110.</desc>
+    <title lang="en">Takeaway 110</title>
+    <desc lang="en">Takeaway 110.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123043000 +0000" stop="20241123050000 +0000">
-    <title lang="en">TAKEAWAY 110</title>
-    <desc lang="en">TAKEAWAY 110.</desc>
+    <title lang="en">Takeaway 110</title>
+    <desc lang="en">Takeaway 110.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123050000 +0000" stop="20241123070000 +0000">
     <title lang="en">Kung Fu Traveler 2</title>
@@ -4792,12 +4655,12 @@
     <desc lang="en">Reunion Dinner+ Ankit Writer Ankit has a way with words but will that help him in the search for a bride and a dinner party unites some of our Arranged favourites to discuss the highs and lows of their arranged marriage experience.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123160000 +0000" stop="20241123163000 +0000">
-    <title lang="en">TAKEAWAY 110</title>
-    <desc lang="en">TAKEAWAY 110.</desc>
+    <title lang="en">Takeaway 110</title>
+    <desc lang="en">Takeaway 110.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123163000 +0000" stop="20241123170000 +0000">
-    <title lang="en">TAKEAWAY 110</title>
-    <desc lang="en">TAKEAWAY 110.</desc>
+    <title lang="en">Takeaway 110</title>
+    <desc lang="en">Takeaway 110.</desc>
   </programme>
   <programme channel="Golden.TV.distro" start="20241123170000 +0000" stop="20241123190000 +0000">
     <title lang="en">War of the Gargantuas</title>
@@ -4810,6 +4673,74 @@
   <programme channel="Golden.TV.distro" start="20241123210000 +0000" stop="20241123230000 +0000">
     <title lang="en">Destroy all Monsters</title>
     <desc lang="en">Scientists (Jun Tazaki, Yoshio Tsuchiya) face Godzilla, Rodan, Mothra and more obscure Japanese monsters sent by she-aliens.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241123230000 +0000" stop="20241124010000 +0000">
+    <title lang="en">Killer Clans</title>
+    <desc lang="en">Two clans compete for dominance over the martial arts world in this classic of violent swordplay and political intrigue.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124010000 +0000" stop="20241124030000 +0000">
+    <title lang="en">Shaolin Avengers (1976)</title>
+    <desc lang="en">The famous story of the Shaolin Temple's betrayal by the White-Browed Hermit, and the subsequent revenge by Shaolin firebrand Fang Shih-yu.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124030000 +0000" stop="20241124050000 +0000">
+    <title lang="en">Web of Death</title>
+    <desc lang="en">The Five Poison Web are in possession of the most deadly weapon in the martial arts world, and they will stop at nothing to unleash it.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124050000 +0000" stop="20241124070000 +0000">
+    <title lang="en">War of the Gargantuas</title>
+    <desc lang="en">Two apelike brothers stomp around Tokyo; an American scientist (Russ Tamblyn) and his helper (Kenji Sahara) advise.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124070000 +0000" stop="20241124090000 +0000">
+    <title lang="en">Son of Godzilla</title>
+    <desc lang="en">A reporter stumbles upon weather experiments on a tropical island, discovering giant mantids, a cast away woman, and an infant monster that Godzilla must adopt and learn to raise as one of his own.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124090000 +0000" stop="20241124110000 +0000">
+    <title lang="en">Destroy all Monsters</title>
+    <desc lang="en">Scientists (Jun Tazaki, Yoshio Tsuchiya) face Godzilla, Rodan, Mothra and more obscure Japanese monsters sent by she-aliens.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124110000 +0000" stop="20241124130000 +0000">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <desc lang="en">Members of the crypto-zoological agency Monarch face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species-thought to be mere myths-rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124130000 +0000" stop="20241124133000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Soraiya Daud is a feminist Muslim running for Vice President of the Young Labour Political Party. But can a religious person operate in secular politics and is the Young Labour party as liberal as Soraiya thought it was, are they ready for an ethnic female VP.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124133000 +0000" stop="20241124140000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Wellington based Assyrian actor, Logan Pithyou, keeps his two worlds very separate. But as busy as he is with his upcoming web series and with the church asking him to become more involved as a youth leader, Logan struggles to prioritise.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124140000 +0000" stop="20241124143000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Nasalifya Sali Namwinga is a Zambian New Zealander and spoken word poet. Struggling with the decision to apply for citizenship and not sure whether she ll ever be accepted as a New Zealander, Sali gets a group of Kiwi Africans together to perform a poem about their experiences with racism in NZ.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124143000 +0000" stop="20241124150000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Amanaki Prescott is a Tongan choreographer, dancer and fakaleiti (Tongan transgender). Performing a contemporary dance piece in which she takes on the traditional Tongan female dance moves, Amanaki faces harsh criticism form the all-Tongan audience during the post-performance open forum.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124150000 +0000" stop="20241124160000 +0000">
+    <title lang="en">Matched</title>
+    <desc lang="en">Two singles go on the market when their parents decide it's time their children have an arranged marriage.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124160000 +0000" stop="20241124163000 +0000">
+    <title lang="en">TAKEAWAY 110</title>
+    <desc lang="en">TAKEAWAY 110.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124163000 +0000" stop="20241124170000 +0000">
+    <title lang="en">TAKEAWAY 110</title>
+    <desc lang="en">TAKEAWAY 110.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124170000 +0000" stop="20241124190000 +0000">
+    <title lang="en">Killer Clans</title>
+    <desc lang="en">Two clans compete for dominance over the martial arts world in this classic of violent swordplay and political intrigue.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124190000 +0000" stop="20241124210000 +0000">
+    <title lang="en">Shaolin Avengers (1976)</title>
+    <desc lang="en">The famous story of the Shaolin Temple's betrayal by the White-Browed Hermit, and the subsequent revenge by Shaolin firebrand Fang Shih-yu.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241124210000 +0000" stop="20241124230000 +0000">
+    <title lang="en">Web of Death</title>
+    <desc lang="en">The Five Poison Web are in possession of the most deadly weapon in the martial arts world, and they will stop at nothing to unleash it.</desc>
   </programme>
   <channel id="Golden.Premier.HD.(GDNPHD)..ec">
     <display-name lang="en">Golden Premier HD (GDNPHD)</display-name>
