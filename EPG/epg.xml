@@ -1365,54 +1365,6 @@
     <url>http://www.distro.tv</url>
     <display-name lang="en">Golden TV</display-name>
   </channel>
-  <programme channel="Golden.TV.distro" start="20241129030000 +0000" stop="20241129050000 +0000">
-    <title lang="en">Masked Avengers</title>
-    <desc lang="en">A trio of mercenaries are hired to investigate and hunt down a gang of masked killers terrorising the countryside. Soon the leader of the trio begins to suspect one of his men may be a spy for the masked criminals.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129050000 +0000" stop="20241129070000 +0000">
-    <title lang="en">Shaolin Prince</title>
-    <desc lang="en">When the Emperor is killed and his throne usurped, his two infant princes are smuggled out and raised separately. They must now come together to overthrow the usurper and avenge the death of their parents.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129070000 +0000" stop="20241129090000 +0000">
-    <title lang="en">Shaolin Intruders</title>
-    <desc lang="en">A gambler, a monk and a beautiful woman use their fighting skills to find criminals in a mysterious temple.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129090000 +0000" stop="20241129110000 +0000">
-    <title lang="en">Opium and the Kung Fu Master</title>
-    <desc lang="en">After their family is slain by the merciless Ghost Leg Killer, two sisters go into hiding, hone their kung fu skills and prepare for revenge. Their paths cross with a carefree drifter who is eager for a kung fu master to help him with his technique.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129110000 +0000" stop="20241129130000 +0000">
-    <title lang="en">Godzilla: King of the Monsters</title>
-    <desc lang="en">Members of the crypto-zoological agency Monarch face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species-thought to be mere myths-rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129130000 +0000" stop="20241129150000 +0000">
-    <title lang="en">Godzilla Vs. Monster Zero (Fka Invasion Of Astro-Monster)</title>
-    <desc lang="en">Astronauts investigate Planet X and encounter the Xiliens, who ask Earth's people to help save their world from \"Monster Zero\". As one astronaut forms a romance with a mysterious woman, he uncovers the Xilien's true intentions.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129150000 +0000" stop="20241129170000 +0000">
-    <title lang="en">War of the Gargantuas</title>
-    <desc lang="en">Two apelike brothers stomp around Tokyo; an American scientist (Russ Tamblyn) and his helper (Kenji Sahara) advise.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129170000 +0000" stop="20241129190000 +0000">
-    <title lang="en">Son of Godzilla</title>
-    <desc lang="en">A reporter stumbles upon weather experiments on a tropical island, discovering giant mantids, a cast away woman, and an infant monster that Godzilla must adopt and learn to raise as one of his own.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129190000 +0000" stop="20241129210000 +0000">
-    <title lang="en">Destroy all Monsters</title>
-    <desc lang="en">Scientists (Jun Tazaki, Yoshio Tsuchiya) face Godzilla, Rodan, Mothra and more obscure Japanese monsters sent by she-aliens.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129210000 +0000" stop="20241129230000 +0000">
-    <title lang="en">Godzilla vs Megalon</title>
-    <desc lang="en">Godzilla and flying cyborg Jet Jaguar meet a giant cockroach and a big black chicken sent by Seatopians.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241129230000 +0000" stop="20241130010000 +0000">
-    <title lang="en">Godzilla vs Mechagodzilla</title>
-    <desc lang="en">An Okinawan prophecy appears to foretell Earth's destruction at the hands of Godzilla, only for the true Godzilla to reveal his doppelganger as a mechanical alien weapon.</desc>
-  </programme>
-  <programme channel="Golden.TV.distro" start="20241130010000 +0000" stop="20241130030000 +0000">
-    <title lang="en">Terror of Mechagodzilla</title>
-    <desc lang="en">Attempts to salvage Mechagodzilla are thwarted, causing an INTERPOL investigation that uncovers the work of a shunned biologist and his daughter, who's life becomes entwined with the resurrected machine.</desc>
-  </programme>
   <programme channel="Golden.TV.distro" start="20241130030000 +0000" stop="20241130050000 +0000">
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="en">Members of the crypto-zoological agency Monarch face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species-thought to be mere myths-rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</desc>
@@ -1500,6 +1452,106 @@
   <programme channel="Golden.TV.distro" start="20241201210000 +0000" stop="20241201230000 +0000">
     <title lang="en">Godzilla vs Megalon</title>
     <desc lang="en">Godzilla and flying cyborg Jet Jaguar meet a giant cockroach and a big black chicken sent by Seatopians.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241201230000 +0000" stop="20241202010000 +0000">
+    <title lang="en">Godzilla vs Mechagodzilla</title>
+    <desc lang="en">An Okinawan prophecy appears to foretell Earth's destruction at the hands of Godzilla, only for the true Godzilla to reveal his doppelganger as a mechanical alien weapon.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202010000 +0000" stop="20241202030000 +0000">
+    <title lang="en">Terror of Mechagodzilla</title>
+    <desc lang="en">Attempts to salvage Mechagodzilla are thwarted, causing an INTERPOL investigation that uncovers the work of a shunned biologist and his daughter, who's life becomes entwined with the resurrected machine.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202030000 +0000" stop="20241202050000 +0000">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <desc lang="en">Members of the crypto-zoological agency Monarch face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species-thought to be mere myths-rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202050000 +0000" stop="20241202070000 +0000">
+    <title lang="en">Godzilla Vs. Monster Zero (Fka Invasion Of Astro-Monster)</title>
+    <desc lang="en">Astronauts investigate Planet X and encounter the Xiliens, who ask Earth's people to help save their world from \"Monster Zero\". As one astronaut forms a romance with a mysterious woman, he uncovers the Xilien's true intentions.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202070000 +0000" stop="20241202090000 +0000">
+    <title lang="en">War of the Gargantuas</title>
+    <desc lang="en">Two apelike brothers stomp around Tokyo; an American scientist (Russ Tamblyn) and his helper (Kenji Sahara) advise.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202090000 +0000" stop="20241202110000 +0000">
+    <title lang="en">Son of Godzilla</title>
+    <desc lang="en">A reporter stumbles upon weather experiments on a tropical island, discovering giant mantids, a cast away woman, and an infant monster that Godzilla must adopt and learn to raise as one of his own.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202110000 +0000" stop="20241202130000 +0000">
+    <title lang="en">Destroy all Monsters</title>
+    <desc lang="en">Scientists (Jun Tazaki, Yoshio Tsuchiya) face Godzilla, Rodan, Mothra and more obscure Japanese monsters sent by she-aliens.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202130000 +0000" stop="20241202133000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Flamboyant fashion design student Lenon Wakuwa has made a world for himself in small town New Zealand, but an assignment about identity forces him to confront how the African community views his unique and feminine style.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202133000 +0000" stop="20241202140000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Maori-Indian Lovie Daniel s is on a journey to unravel the mysteries surrounding her Indian grandfather and learn about her unknown Indian heritage.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202140000 +0000" stop="20241202143000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">21 year old medical student Jignal Bhagvandas is combining her passion for health and Indian dance to inspire her community to exercise, but her pre-diabetic Dad refuses to join the program.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202143000 +0000" stop="20241202150000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Palestinian refugee Mohammed Al Jamal has flourished in New Zealand, but sees many others struggling to adapt and signs up to the Refugee Volunteer program to give back and try to make a difference.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202150000 +0000" stop="20241202160000 +0000">
+    <title lang="en">Matched</title>
+    <desc lang="en">Shamiza s Muslim Wedding \/ Bhumika Marries Partik Wellington Bachelorette Bhumika Goes Undercover as Her Parents on an Arranged Marriage Website to Find Her Own Future Husband. and Meticulous Organiser Shamiza Has Planned Every Last Detail of Her Arranged Muslim Wedding to Her Fijian-indian Groom, Zayid, but Will it All Go to Plan.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202160000 +0000" stop="20241202170000 +0000">
+    <title lang="en">Matched</title>
+    <desc lang="en">Parveen and Ranjit s \/ Nitesh and Swasti Parveen Prepares to Leave Her Beloved Waikato Dairy Farm Home to Marry Ranjit in a Semi Arranged Wedding, but Will the Reality of Leaving the Grandparents Who Raised Her Be Too Much for This Bride to Be? and 33 Year Old Hindu Bachelor Nitesh Eagerly Awaits the Opportunity to Finally Be Intimate With His Bride.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202170000 +0000" stop="20241202173000 +0000">
+    <title lang="en">Maddy &amp; Dixie Take Sactown</title>
+    <desc lang="en">Maddy &amp; Dixie go on a historical tour including a visit to the iconic Chinese eatery, Frank Fat's.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202173000 +0000" stop="20241202180000 +0000">
+    <title lang="en">Maddy &amp; Dixie Take Sactown</title>
+    <desc lang="en">Maddy &amp; Dixie seek out trend-setting locals.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202180000 +0000" stop="20241202183000 +0000">
+    <title lang="en">Toque</title>
+    <desc lang="en">RESTAURANT DC: Chef Darren Chin is the future of Malaysia cuisine and only after 2 years in his now beloved DC restaurant he was awarded the best restaurant and chef in Malaysia. His food is French and Japanese centric. His kitchen mood is European and intense. Focus is and perfection are everything. This is a kitchen operating at the highest professional level.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202183000 +0000" stop="20241202190000 +0000">
+    <title lang="en">Toque</title>
+    <desc lang="en">THE DOGGIE BAG: Malaysia took Chef Phil by surprise and this is the bonus episode that crams in highlights we just couldn't leave out. Like the Twin Towers M-Caffe mall located champagne caviar bar, The outrageous Sunday buffet at the Mandarin Oriental, one of the best in the world and more..</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202190000 +0000" stop="20241202193000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Flamboyant fashion design student Lenon Wakuwa has made a world for himself in small town New Zealand, but an assignment about identity forces him to confront how the African community views his unique and feminine style.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202193000 +0000" stop="20241202200000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Maori-Indian Lovie Daniel s is on a journey to unravel the mysteries surrounding her Indian grandfather and learn about her unknown Indian heritage.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202200000 +0000" stop="20241202203000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">21 year old medical student Jignal Bhagvandas is combining her passion for health and Indian dance to inspire her community to exercise, but her pre-diabetic Dad refuses to join the program.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202203000 +0000" stop="20241202210000 +0000">
+    <title lang="en">Both Worlds</title>
+    <desc lang="en">Palestinian refugee Mohammed Al Jamal has flourished in New Zealand, but sees many others struggling to adapt and signs up to the Refugee Volunteer program to give back and try to make a difference.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202210000 +0000" stop="20241202220000 +0000">
+    <title lang="en">Matched</title>
+    <desc lang="en">Shamiza s Muslim Wedding \/ Bhumika Marries Partik Wellington Bachelorette Bhumika Goes Undercover as Her Parents on an Arranged Marriage Website to Find Her Own Future Husband. and Meticulous Organiser Shamiza Has Planned Every Last Detail of Her Arranged Muslim Wedding to Her Fijian-indian Groom, Zayid, but Will it All Go to Plan.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202220000 +0000" stop="20241202230000 +0000">
+    <title lang="en">Matched</title>
+    <desc lang="en">Parveen and Ranjit s \/ Nitesh and Swasti Parveen Prepares to Leave Her Beloved Waikato Dairy Farm Home to Marry Ranjit in a Semi Arranged Wedding, but Will the Reality of Leaving the Grandparents Who Raised Her Be Too Much for This Bride to Be? and 33 Year Old Hindu Bachelor Nitesh Eagerly Awaits the Opportunity to Finally Be Intimate With His Bride.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202230000 +0000" stop="20241202233000 +0000">
+    <title lang="en">Maddy &amp; Dixie Take Sactown</title>
+    <desc lang="en">Maddy &amp; Dixie go on a historical tour including a visit to the iconic Chinese eatery, Frank Fat's.</desc>
+  </programme>
+  <programme channel="Golden.TV.distro" start="20241202233000 +0000" stop="20241203000000 +0000">
+    <title lang="en">Maddy &amp; Dixie Take Sactown</title>
+    <desc lang="en">Maddy &amp; Dixie seek out trend-setting locals.</desc>
   </programme>
   <channel id="Golden.Premier.HD.(GDNPHD)..ec">
     <display-name lang="en">Golden Premier HD (GDNPHD)</display-name>
