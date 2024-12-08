@@ -5,114 +5,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" />
     <url>http://www.movistar.co</url>
   </channel>
-  <programme start="20241206170500 +0000" stop="20241206194000 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Forrest Gump</title>
-    <desc lang="es">Forrest Gump, un joven sureño, tenaz e inocente, es protagonista de acontecimientos cruciales en la historia de los Estados Unidos.</desc>
-    <date>1994</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241206194000 +0000" stop="20241206212400 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">El robo más grande de la historia</title>
-    <desc lang="es">Un detective de la policía de Nueva York abre una investigación para esclarecer lo que podría convertirse en el robo a un camión blindado más importante en la historia de Estados Unidos.</desc>
-    <date>2013</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241206212400 +0000" stop="20241206235800 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">El mediador</title>
-    <desc lang="es">Dos negociadores de la policía se enfrentan, cuando uno reacciona desesperadamente después de ser acusado de asesinato.</desc>
-    <date>1998</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241206235800 +0000" stop="20241207020000 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Encuentro explosivo</title>
-    <desc lang="es">Una mujer se ve atrapada en una aventura mortal e internacional cuando se convierte en la renuente compañera de un espía fugitivo.</desc>
-    <date>2010</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241207020000 +0000" stop="20241207034600 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Y dónde está Santa</title>
-    <desc lang="es">Santa Claus sufre una caída que le produce amnesia y se convierte en el Santa de una tienda departamental.</desc>
-    <date>2000</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241207034600 +0000" stop="20241207054800 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">El hombre sin sombra</title>
-    <desc lang="es">Un grupo de científicos descubre una fórmula para volver invisibles a los animales. El Dr. Sebastian Caine, quien está a cargo de la investigación, decide probar el suero en sí mismo, pero los efectos colaterales incluyen cambios en la personalidad.</desc>
-    <date>2000</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241207054800 +0000" stop="20241207075700 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Exorcista: el comienzo</title>
-    <desc lang="es">El padre Merrin vive con la angustia del recuerdo de lo que hizo en la Segunda Guerra Mundial. Ha perdido la fe y trabaja como arqueólogo en Kenia, pero en una antigua iglesia bizantina va a reencontrarse con el mal en su esencia más pura.</desc>
-    <date>2004</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20241207075700 +0000" stop="20241207094300 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Triunfos robados</title>
-    <desc lang="es">Un equipo de porristas compiten contra el equipo de una escuela de la ciudad por un codiciado título nacional.</desc>
-    <date>2000</date>
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241207094300 +0000" stop="20241207112400 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">Siempre a tu lado, Hachiko</title>
-    <desc lang="es">Un perro fiel llamado Hachiko acompaña cada mañana a su amo a la estación de tren y regresa cada tarde para darle la bienvenida después del trabajo. Sin embargo, esta rutina se ve rota por una desgracia.</desc>
-    <date>2009</date>
-    <country lang="es">USA</country>
-    <country lang="es">GBR</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20241207112400 +0000" stop="20241207130700 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">El tamaño sí importa</title>
-    <desc lang="es">Una joven alejada de los estándares de belleza impuestos intentará conquistar a su apuesto y carismático exjefe, quien está acostumbrado a relacionarse con bellas actrices y modelos.</desc>
-    <country lang="es">MEX</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20241207130700 +0000" stop="20241207150500 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">3 idiotas</title>
-    <desc lang="es">Unos amigos se embarcan en una aventura para encontrar a un compañero de la universidad que desapareció el día de la graduación.</desc>
-    <date>2017</date>
-    <country lang="es">MEX</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20241207150500 +0000" stop="20241207165500 +0000" channel="GOLDEN.HD.co">
-    <title lang="es">A la mala</title>
-    <desc lang="es">Después de que su mejor amiga la contrata para poner a prueba la fidelidad de su pareja, una joven encuentra una nueva carrera lucrativa. Pero los problemas se presentan cuando ella se enamora de la persona que vigila.</desc>
-    <date>2015</date>
-    <country lang="es">MEX</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20241207165500 +0000" stop="20241207190100 +0000" channel="GOLDEN.HD.co">
     <title lang="es">No manches Frida</title>
     <desc lang="es">Un exconvicto se hace pasar por el maestro sustituto de un grupo de estudiantes indisciplinados, pero su verdadera intención es recuperar un botín enterrado bajo el gimnasio de la escuela.</desc>
@@ -312,7 +204,7 @@
     <date>2019</date>
     <country lang="es">MEX</country>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+18</value>
     </rating>
   </programme>
   <programme start="20241209104000 +0000" stop="20241209121600 +0000" channel="GOLDEN.HD.co">
@@ -376,6 +268,139 @@
     <desc lang="es">Un hombre encuentra consuelo en los brazos de otra mujer, cuando su esposa se va con otro en plena luna de miel.</desc>
     <date>2004</date>
     <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210000200 +0000" stop="20241210020000 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">La razón de estar contigo: Un nuevo viaje</title>
+    <desc lang="es">Ethan y su nieta CJ viven en una granja de Míchigan con su perro, Bailey. Cuando la madre de CJ decide llevarse a su hija, Bailey intenta acompañar siempre a la joven.</desc>
+    <date>2019</date>
+    <country lang="es">CHN</country>
+    <country lang="es">IND</country>
+    <country lang="es">HKG</country>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210020000 +0000" stop="20241210034100 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Mis deseos de Navidad</title>
+    <desc lang="es">Una mujer deberá aplicar medidas correctoras cuando sus deseos se hacen realidad por arte de magia en Navidad.</desc>
+    <date>2011</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20241210034100 +0000" stop="20241210052800 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Legalmente rubia</title>
+    <desc lang="es">La reina del colegio afirma que triunfará aun sin su ex novio al obtener admisión en la escuela de leyes de Harvard.</desc>
+    <date>2001</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210052800 +0000" stop="20241210070000 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Amores modernos</title>
+    <desc lang="es">En la Ciudad de México, la sorpresiva muerte de Armida provoca una serie de revelaciones que confrontará a los integrantes de una familia, acostumbrados a vivir aislados los unos de los otros.</desc>
+    <date>2019</date>
+    <country lang="es">MEX</country>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20241210070000 +0000" stop="20241210092700 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Detective Chinatown</title>
+    <desc lang="es">Tras fracasar en su intento de convertirse en policía, un entusiasta del misterio va a visitar a su desventurado primo a Tailandia. Uno es un cerebrito y el otro un perdedor nervioso, pero juntos van a resolver un asesinato.</desc>
+    <date>2015</date>
+    <country lang="es">CHN</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241210092700 +0000" stop="20241210111200 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Zapatero a tus zapatos</title>
+    <desc lang="es">Un zapatero frustrado se encuentra una máquina de coser mágica que le permite ver el mundo de una nueva manera por entrar en la vida de sus clientes.</desc>
+    <date>2014</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210111200 +0000" stop="20241210125900 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Malvada</title>
+    <desc lang="es">A través de la madre de su antigua pareja, una mujer se entera de que este se va a casar con una bruja que lo tiene hechizado. La mujer se arma de valor para enfrentarse a la hechicera y recuperar al amor de su vida.</desc>
+    <date>2022</date>
+    <country lang="es">MEX</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20241210125900 +0000" stop="20241210144400 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Legalmente rubia</title>
+    <desc lang="es">La reina del colegio afirma que triunfará aun sin su ex novio al obtener admisión en la escuela de leyes de Harvard.</desc>
+    <date>2001</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210144400 +0000" stop="20241210163700 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Amor a ciegas</title>
+    <desc lang="es">Bill Oakland es un famoso novelista que se quedó ciego tras un accidente de coche en el que también falleció su mujer. Bill redescubre su pasión por la vida y la escritura cuando conoce a Suzanne, la esposa de un empresario encarcelado.</desc>
+    <date>2017</date>
+    <country lang="es">USA</country>
+    <country lang="es">FRA</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20241210163700 +0000" stop="20241210184400 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">A dos metros de ti</title>
+    <desc lang="es">Stella, de 17 años, está ingresada en un hospital porque padece fibrosis quística. Su monótona existencia cambia cuando llega Will, un adolescente con la misma dolencia. Sin embargo, las normas del hospital prohíben el contacto entre ellos.</desc>
+    <date>2019</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210184400 +0000" stop="20241210204100 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">La razón de estar contigo: Un nuevo viaje</title>
+    <desc lang="es">Ethan y su nieta CJ viven en una granja de Míchigan con su perro, Bailey. Cuando la madre de CJ decide llevarse a su hija, Bailey intenta acompañar siempre a la joven.</desc>
+    <date>2019</date>
+    <country lang="es">CHN</country>
+    <country lang="es">IND</country>
+    <country lang="es">HKG</country>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210204100 +0000" stop="20241210221800 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Mi novia Polly</title>
+    <desc lang="es">Un hombre encuentra consuelo en los brazos de otra mujer, cuando su esposa se va con otro en plena luna de miel.</desc>
+    <date>2004</date>
+    <country lang="es">USA</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20241210221800 +0000" stop="20241210235000 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Amores modernos</title>
+    <desc lang="es">En la Ciudad de México, la sorpresiva muerte de Armida provoca una serie de revelaciones que confrontará a los integrantes de una familia, acostumbrados a vivir aislados los unos de los otros.</desc>
+    <date>2019</date>
+    <country lang="es">MEX</country>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20241210235000 +0000" stop="20241211020000 +0000" channel="GOLDEN.HD.co">
+    <title lang="es">Tod@s caen</title>
+    <desc lang="es">Adán es un seductor impenitente y Mia una mujer ambiciosa y feminista. Ambos tratan de seducir al otro para obtener lo que ansían, pero los dos saben que en este juego todo vale, excepto enamorarse.</desc>
+    <date>2019</date>
+    <country lang="es">MEX</country>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -1643,48 +1668,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_clasico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20241206010600 -0600" stop="20241206024300 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Los malvivientes</title>
-  </programme>
-  <programme start="20241206024300 -0600" stop="20241206042300 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Tan bueno el giro como el</title>
-  </programme>
-  <programme start="20241206042300 -0600" stop="20241206060300 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Capulina vs. Los Monstruos</title>
-  </programme>
-  <programme start="20241206060300 -0600" stop="20241206074000 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">El rey de la pistola</title>
-  </programme>
-  <programme start="20241206074000 -0600" stop="20241206093200 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Las tres tumbas</title>
-  </programme>
-  <programme start="20241206093200 -0600" stop="20241206110600 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Cinco en la cárcel</title>
-  </programme>
-  <programme start="20241206110600 -0600" stop="20241206124700 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Caravana de la muerte</title>
-  </programme>
-  <programme start="20241206124700 -0600" stop="20241206142400 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Barridos y regados</title>
-  </programme>
-  <programme start="20241206142400 -0600" stop="20241206162600 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">El luchador fenómeno</title>
-  </programme>
-  <programme start="20241206162600 -0600" stop="20241206180700 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">El revoltoso</title>
-  </programme>
-  <programme start="20241206180700 -0600" stop="20241206195100 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">El fantasma de la casa roja</title>
-  </programme>
-  <programme start="20241206195100 -0600" stop="20241206215500 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Ahí esta el detalle</title>
-  </programme>
-  <programme start="20241206215500 -0600" stop="20241206233000 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Chile picante</title>
-  </programme>
-  <programme start="20241206233000 -0600" stop="20241207012600 -0600" channel="Canal.De.Película.mx">
-    <title lang="es">Que Viva Tepito</title>
-  </programme>
   <programme start="20241207012600 -0600" stop="20241207025700 -0600" channel="Canal.De.Película.mx">
     <title lang="es">Desnúdate Marcela</title>
   </programme>
@@ -1791,60 +1774,6 @@
   </programme>
   <programme start="20241209090700 -0600" stop="20241209125500 -0600" channel="Canal.De.Película.mx">
     <title lang="es">El analfabeto</title>
-  </programme>
-  <programme start="20241206000500 -0600" stop="20241206021000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">El Mártir del Calvario</title>
-  </programme>
-  <programme start="20241206021000 -0600" stop="20241206050000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">En tiempos de Don Porfirio</title>
-  </programme>
-  <programme start="20241206050000 -0600" stop="20241206064500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">¡Qué Viene Mi Marido!</title>
-  </programme>
-  <programme start="20241206064500 -0600" stop="20241206071500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206071500 -0600" stop="20241206074500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206074500 -0600" stop="20241206081500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206081500 -0600" stop="20241206084500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206084500 -0600" stop="20241206103000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">El médico de las locas</title>
-  </programme>
-  <programme start="20241206103000 -0600" stop="20241206121000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Extraña Pasajera</title>
-  </programme>
-  <programme start="20241206121000 -0600" stop="20241206124000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206124000 -0600" stop="20241206131000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20241206131000 -0600" stop="20241206145000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Twist locura de juventud</title>
-  </programme>
-  <programme start="20241206145000 -0600" stop="20241206164500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">¡Qué hombre tan simpático!</title>
-  </programme>
-  <programme start="20241206164500 -0600" stop="20241206183000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Juventud rebelde</title>
-  </programme>
-  <programme start="20241206183000 -0600" stop="20241206202000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Angelitos del trapecio</title>
-  </programme>
-  <programme start="20241206202000 -0600" stop="20241206220500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Yo quiero ser hombre</title>
-  </programme>
-  <programme start="20241206220500 -0600" stop="20241206234500 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">Miente y serás feliz</title>
-  </programme>
-  <programme start="20241206234500 -0600" stop="20241207020000 -0600" channel="Canal.De.Película.Clásico.mx">
-    <title lang="es">El joven Juárez</title>
   </programme>
   <programme start="20241207020000 -0600" stop="20241207023000 -0600" channel="Canal.De.Película.Clásico.mx">
     <title lang="es">Programa Pagado</title>
