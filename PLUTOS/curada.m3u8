@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
 #EXTINF:-1 tvg-id="6452c8cee1979c0008608e27" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" tvg-name="Godzilla" tvg-id="6452c8cee1979c0008608e27",Godzilla
 https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
+#EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd" tvg-id="66ff1d5a565d3a000892bdcd" tvg-chno="276" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1730483238509.png" group-title="Season's Greetings", Stingray Holidayscapes
+https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
+#EXTINF:-1 channel-id="6728c70fc7626f0008b27f52" tvg-id="6728c70fc7626f0008b27f52" tvg-chno="15" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/6728c70fc7626f0008b27f52/colorLogoPNG_1731835968597.png" group-title="Season's Greetings", Stingray Holidayscapes
+https://jmp2.uk/plu-6728c70fc7626f0008b27f52.m3u8
 #EXTINF:-1 tvg-id="5bd8282253ed2c6334ea10fa" tvg-chno="23" tvg-logo="https://images.pluto.tv/channels/5bd8282253ed2c6334ea10fa/colorLogoPNG.png" tvg-name="Fireplace" tvg-id="5bd8282253ed2c6334ea10fa",Fireplace
 https://jmp2.uk/plu-5bd8282253ed2c6334ea10fa.m3u8
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-chno="270" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" tvg-name="Chimenea" tvg-id="5bf48085851dd5632e2f7b4d",Chimenea
