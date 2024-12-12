@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
 #EXTINF:-1 channel-id="6452c8cee1979c0008608e27" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" group-title="Godzilla" tvg-id="6452c8cee1979c0008608e27",Godzilla
 https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
-#EXTINF:-1 channel-id="6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png",Western
+#EXTINF:-1 channel-id="6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png",Westerns
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 channel-id="5b4e94282d4ec87bdcbb87cd" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png",Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
-#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",West
+#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-#EXTINF:-1 channel-id="62bdacc96a3751000811842d" tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",Oeste
+#EXTINF:-1 channel-id="62bdacc96a3751000811842d" tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd" tvg-id="66ff1d5a565d3a000892bdcd" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1730483238509.png", Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
@@ -27,7 +27,7 @@ https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 https://jmp2.uk/plu-63565d76232dd10007bba40c.m3u8
 #EXTINF:-1 channel-id="614501c653ceee000772b0ca" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Festive Fireplace" tvg-id="614501c653ceee000772b0ca",Festive Fireplace
 https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
-#EXTINF:-1 channel-id="63565e744d02930007bf2818" tvg-id="63565e744d02930007bf2818" tvg-logo="https://images.pluto.tv/channels/63565e744d02930007bf2818/colorLogoPNG_1731835860429.png",LaChimenea
+#EXTINF:-1 channel-id="63565e744d02930007bf2818" tvg-id="63565e744d02930007bf2818" tvg-logo="https://images.pluto.tv/channels/63565e744d02930007bf2818/colorLogoPNG_1731835860429.png",Lachimenea
 https://jmp2.uk/plu-63565e744d02930007bf2818.m3u8
 #EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd" tvg-chno="276" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1730483238509.png" group-title="Stingray Holidayscapes" tvg-id="66ff1d5a565d3a000892bdcd",Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
