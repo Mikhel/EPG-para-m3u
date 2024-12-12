@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
 #EXTINF:-1 tvg-id="6582f7d612d5ee00089a663d" tvg-logo="https://images.pluto.tv/channels/6582f7d612d5ee00089a663d/colorLogoPNG.png" channel-id="6582f7d612d5ee00089a663d",Sheaters
 https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
-#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" tvg-name="Cheaters" channel-id="627d355aa95efd00077afcc7",Choters
+#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" channel-id="627d355aa95efd00077afcc7",Choters
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
-#EXTINF:-1 tvg-id="6602f33e50ca190008ec56ea" tvg-logo="https://images.pluto.tv/channels/6602f33e50ca190008ec56ea/colorLogoPNG.png" tvg-name="Cheaters" channel-id="6602f33e50ca190008ec56ea",Chaters
+#EXTINF:-1 tvg-id="6602f33e50ca190008ec56ea" tvg-logo="https://images.pluto.tv/channels/6602f33e50ca190008ec56ea/colorLogoPNG.png" channel-id="6602f33e50ca190008ec56ea",Chaters
 https://jmp2.uk/plu-6602f33e50ca190008ec56ea.m3u8
-#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" tvg-name="COPS" channel-id="5e1f7e089f23700009d66303",C.o.p.s.
+#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" channel-id="5e1f7e089f23700009d66303",C.o.p.s.
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 #EXTINF:-1 tvg-id="661cf62d24e1d000087dae0d" tvg-logo="https://images.pluto.tv/channels/661cf62d24e1d000087dae0d/colorLogoPNG.png" tvg-name="C.OPS" channel-id="661cf62d24e1d000087dae0d",COPS
 https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
