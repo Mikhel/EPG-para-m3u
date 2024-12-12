@@ -1,12 +1,14 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
 #EXTINF:-1 channel-id="6452c8cee1979c0008608e27" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" group-title="Godzilla" tvg-id="6452c8cee1979c0008608e27",Godzilla
 https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
-#EXTINF:-1 channel-id="62bdacc96a3751000811842d" tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title=Pluto TV Westerns",Pluto TV Westerns
-https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 channel-id="6385e82900ab2e000768a058" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Pluto TV Western" tvg-id="6385e82900ab2e000768a058",Pluto TV Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 channel-id="5b4e94282d4ec87bdcbb87cd" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Pluto TV Westerns" tvg-id="5b4e94282d4ec87bdcbb87cd",Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Pluto TV Westerns" tvg-id="5d4bdb635ce813b38639e6a3",Pluto TV Westerns
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:-1 channel-id="62bdacc96a3751000811842d" tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title=Pluto TV Westerns",Pluto TV Westerns
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 channel-id="66ff1d5a565d3a000892bdcd" tvg-id="66ff1d5a565d3a000892bdcd" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1730483238509.png", Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 channel-id="6728c70fc7626f0008b27f52" tvg-id="6728c70fc7626f0008b27f52" tvg-logo="https://images.pluto.tv/channels/6728c70fc7626f0008b27f52/colorLogoPNG_1731835968597.png", Stingray Holidayscapes
@@ -493,8 +495,6 @@ https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 channel-id="600acaff5f2d6e000745effb" tvg-chno="708" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" group-title="Pluto TV Tough Jobs" tvg-id="600acaff5f2d6e000745effb",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
-#EXTINF:-1 channel-id="5d4bdb635ce813b38639e6a3" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Pluto TV Westerns" tvg-id="5d4bdb635ce813b38639e6a3",Pluto TV Westerns
-https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 channel-id="66276091cee0d900085fe053" tvg-chno="302" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Sabrina The Teenage Witch" tvg-id="66276091cee0d900085fe053",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="South Park" tvg-id="64edf6eaa7ec0d000812f58c",South Park
