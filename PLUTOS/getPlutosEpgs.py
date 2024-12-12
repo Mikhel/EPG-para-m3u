@@ -60,10 +60,11 @@ def filter_and_build_epg(urls):
         print(f"New EPG saved to {output_file_gz}")
 
 urls = [
-    'https://i.mjh.nz/PlutoTV/all.xml.gz',
-    'https://i.mjh.nz/SamsungTVPlus/all.xml.gz',
-    'https://i.mjh.nz/Plex/all.xml.gz',
-    'https://i.mjh.nz/Roku/all.xml.gz',
+    'https://i.mjh.nz/PlutoTV/us.xml.gz',
+    'https://i.mjh.nz/PlutoTV/ca.xml.gz',
+    'https://i.mjh.nz/PlutoTV/gb.xml.gz',
+    'https://i.mjh.nz/PlutoTV/mx.xml.gz',
+    'https://i.mjh.nz/PlutoTV/es.xml.gz',
     ]
 
 if __name__ == "__main__":
