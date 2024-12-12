@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
 #EXTINF:-1 tvg-id="6452c8cee1979c0008608e27" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" tvg-name="Godzilla" channel-id="6452c8cee1979c0008608e27",Godzilla
 https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
-#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" channel-id="5bf48085851dd5632e2f7b4d",Crackling Fireplace
-https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="63565d76232dd10007bba40c" channel-id="63565d76232dd10007bba40c" tvg-logo="https://images.pluto.tv/channels/63565d76232dd10007bba40c/colorLogoPNG_1731837320535.png",Fuego
 https://jmp2.uk/plu-63565d76232dd10007bba40c.m3u8
+#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" channel-id="5bf48085851dd5632e2f7b4d",Fireplace
+https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="63565e744d02930007bf2818" tvg-chno="16" tvg-logo="https://images.pluto.tv/channels/63565e744d02930007bf2818/colorLogoPNG_1731835860429.png" channel-id="63565e744d02930007bf2818",Festive
 https://jmp2.uk/plu-63565e744d02930007bf2818.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" channel-id="614501c653ceee000772b0ca",Fire
