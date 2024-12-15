@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
-#EXTINF:-1  tvg-name="2cine-picante" tvg-id="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9_3.jpg" tvg-chno="001" group-title="PELICULAS", Cine Picantehttps://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
+#EXTINF:-1  tvg-name="2cine-picante" tvg-id="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9_3.jpg" tvg-chno="001" group-title="PELICULAS", Cine Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1  tvg-name="2accion-mexicana" tvg-id="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg" tvg-chno="002" group-title="PELICULAS", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1  tvg-name="1Godzilla" tvg-id="6452c8cee1979c0008608e27" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" tvg-chno="003", Godzilla
