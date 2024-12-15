@@ -60,10 +60,12 @@ def filter_and_build_epg(urls):
         print(f"New EPG saved to {output_file_gz}")
 
 urls = [
-    'https://i.mjh.nz/PlutoTV/all.xml.gz',
-    'https://i.mjh.nz/SamsungTVPlus/all.xml.gz',
-    'https://i.mjh.nz/Plex/all.xml.gz',
-    'https://i.mjh.nz/Roku/all.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     ]
 
 if __name__ == "__main__":
