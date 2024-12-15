@@ -65,6 +65,14 @@ urls = [
     'https://i.mjh.nz/PlutoTV/gb.xml.gz',
     'https://i.mjh.nz/PlutoTV/mx.xml.gz',
     'https://i.mjh.nz/PlutoTV/es.xml.gz',
+    'https://i.mjh.nz/SamsungTVPlus/us.xml.gz',
+    'https://i.mjh.nz/SamsungTVPlus/gb.xml.gz',
+    'https://i.mjh.nz/SamsungTVPlus/ca.xml.gz',
+    'https://i.mjh.nz/SamsungTVPlus/es.xml.gz',
+    'https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz',
+    'https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz',
+    'https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz',
+    'https://i.mjh.nz/Plex/mx.xml.gz',
     ]
 
 if __name__ == "__main__":
