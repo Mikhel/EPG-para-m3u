@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
+
+#EXTINF:-1  tvg-name="1Crackling Fireplace" tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" tvg-chno="004", Crackling Fireplace
+https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
+#EXTINF:-1  tvg-name="1Godzilla" tvg-id="6452c8cee1979c0008608e27" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" tvg-chno="003", Godzilla
+https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
+#EXTINF:-1  tvg-name="2Shout! TV" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241105T024222SQUARE.png" tvg-chno="258" group-title="PELICULAS", Shout! TV
+https://jmp2.uk/sam-USBD1200021JM.m3u8
+#EXTINF:-1  tvg-name="1Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" tvg-chno="027", Universal Monsters
+https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
+#EXTINF:-1  tvg-name="2Universal Monsters" tvg-id="US1900002QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20241112T001808SQUARE.png" tvg-chno="275" group-title="PELICULAS", Universal Monsters
+https://jmp2.uk/sam-US1900002QK.m3u8
+#EXTINF:-1  tvg-name="1OuterSphere" tvg-id="66c638726838ee00085ac20d" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png" tvg-chno="028", OuterSphere
+https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
+#EXTINF:-1  tvg-name="2FilmRise Horror" tvg-id="CA35000044I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20241105T024507SQUARE.png" tvg-chno="263" group-title="PELICULAS", FilmRise Horror
+https://jmp2.uk/sam-CA35000044I.m3u8
+#EXTINF:-1  tvg-name="2Haunt TV" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20241014T232155SQUARE.png" tvg-chno="264" group-title="PELICULAS", Haunt TV
+https://jmp2.uk/sam-USBC4400006BR.m3u8
+#EXTINF:-1  tvg-name="2Haunt TV" tvg-id="CABA800009T5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20241022T004836SQUARE.png" tvg-chno="265" group-title="PELICULAS", Haunt TV
+https://jmp2.uk/sam-CABA800009T5.m3u8
+#EXTINF:-1  tvg-name="2Horror by ALTER" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png" tvg-chno="266" group-title="PELICULAS", Horror by ALTER
+https://jmp2.uk/sam-USBC100001175.m3u8
+#EXTINF:-1  tvg-name="2Midnight Pulp" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png" tvg-chno="267" group-title="PELICULAS", Midnight Pulp
+https://jmp2.uk/sam-USBD700015LK.m3u8
+#EXTINF:-1  tvg-name="2Midnight Pulp" tvg-id="CABC5200021HG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20241111T235707SQUARE.png" tvg-chno="268" group-title="PELICULAS", Midnight Pulp
+https://jmp2.uk/sam-CABC5200021HG.m3u8
+#EXTINF:-1  tvg-name="2OuterSphere" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" tvg-chno="269" group-title="PELICULAS", OuterSphere
+https://jmp2.uk/sam-USBD1200007FE.m3u8
+#EXTINF:-1  tvg-name="2RetroCrush" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20241112T000916SQUARE.png" tvg-chno="270" group-title="PELICULAS", RetroCrush
+https://jmp2.uk/sam-USBC36000073J.m3u8
+#EXTINF:-1  tvg-name="2The Asylum" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20241105T024148SQUARE.png" tvg-chno="272" group-title="PELICULAS", The Asylum
+https://jmp2.uk/sam-USAJ17000014C.m3u8
+#EXTINF:-1  tvg-name="1Pluto TV Cult Films" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" tvg-chno="035", Pluto TV Cult Films
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+
