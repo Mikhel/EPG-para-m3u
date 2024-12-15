@@ -1,35 +1,46 @@
 #EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
-
 #EXTINF:-1  tvg-name="1Crackling Fireplace" tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" tvg-chno="004", Crackling Fireplace
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
-#EXTINF:-1  tvg-name="1Godzilla" tvg-id="6452c8cee1979c0008608e27" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/colorLogoPNG.png" tvg-chno="003", Godzilla
-https://jmp2.uk/plu-6452c8cee1979c0008608e27.m3u8
-#EXTINF:-1  tvg-name="2Shout! TV" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241105T024222SQUARE.png" tvg-chno="258" group-title="PELICULAS", Shout! TV
-https://jmp2.uk/sam-USBD1200021JM.m3u8
-#EXTINF:-1  tvg-name="1Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" tvg-chno="027", Universal Monsters
-https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
-#EXTINF:-1  tvg-name="2Universal Monsters" tvg-id="US1900002QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20241112T001808SQUARE.png" tvg-chno="275" group-title="PELICULAS", Universal Monsters
-https://jmp2.uk/sam-US1900002QK.m3u8
-#EXTINF:-1  tvg-name="1OuterSphere" tvg-id="66c638726838ee00085ac20d" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png" tvg-chno="028", OuterSphere
-https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
-#EXTINF:-1  tvg-name="2FilmRise Horror" tvg-id="CA35000044I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000044I_20241105T024507SQUARE.png" tvg-chno="263" group-title="PELICULAS", FilmRise Horror
-https://jmp2.uk/sam-CA35000044I.m3u8
-#EXTINF:-1  tvg-name="2Haunt TV" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20241014T232155SQUARE.png" tvg-chno="264" group-title="PELICULAS", Haunt TV
-https://jmp2.uk/sam-USBC4400006BR.m3u8
-#EXTINF:-1  tvg-name="2Haunt TV" tvg-id="CABA800009T5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800009T5_20241022T004836SQUARE.png" tvg-chno="265" group-title="PELICULAS", Haunt TV
-https://jmp2.uk/sam-CABA800009T5.m3u8
-#EXTINF:-1  tvg-name="2Horror by ALTER" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png" tvg-chno="266" group-title="PELICULAS", Horror by ALTER
-https://jmp2.uk/sam-USBC100001175.m3u8
-#EXTINF:-1  tvg-name="2Midnight Pulp" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png" tvg-chno="267" group-title="PELICULAS", Midnight Pulp
-https://jmp2.uk/sam-USBD700015LK.m3u8
-#EXTINF:-1  tvg-name="2Midnight Pulp" tvg-id="CABC5200021HG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20241111T235707SQUARE.png" tvg-chno="268" group-title="PELICULAS", Midnight Pulp
-https://jmp2.uk/sam-CABC5200021HG.m3u8
-#EXTINF:-1  tvg-name="2OuterSphere" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" tvg-chno="269" group-title="PELICULAS", OuterSphere
-https://jmp2.uk/sam-USBD1200007FE.m3u8
-#EXTINF:-1  tvg-name="2RetroCrush" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20241112T000916SQUARE.png" tvg-chno="270" group-title="PELICULAS", RetroCrush
-https://jmp2.uk/sam-USBC36000073J.m3u8
-#EXTINF:-1  tvg-name="2The Asylum" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20241105T024148SQUARE.png" tvg-chno="272" group-title="PELICULAS", The Asylum
-https://jmp2.uk/sam-USAJ17000014C.m3u8
-#EXTINF:-1  tvg-name="1Pluto TV Cult Films" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" tvg-chno="035", Pluto TV Cult Films
-https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:-1  tvg-name="2Stingray Classic Rock" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240826T191200SQUARE.png" tvg-chno="364" group-title="Music", Stingray Classic Rock
+https://jmp2.uk/sam-USBD35000180U.m3u8
+#EXTINF:-1  tvg-name="1Vevo Retro Rock" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" tvg-chno="327", Vevo Retro Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1  tvg-name="2Stingray Flashback '70s" tvg-id="CABD1200028QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200028QO_20240227T221213SQUARE.png_20240227221213.png" tvg-chno="372" group-title="Music", Stingray Flashback '70s
+https://jmp2.uk/sam-CABD1200028QO.m3u8
+#EXTINF:-1  tvg-name="2Vevo '70s" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20241112T001811SQUARE.png" tvg-chno="400" group-title="Music", Vevo '70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+#EXTINF:-1  tvg-name="2Vevo '70s" tvg-id="CABC5200010G2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20240910T003238SQUARE.png" tvg-chno="401" group-title="Music", Vevo '70s
+https://jmp2.uk/sam-CABC5200010G2.m3u8
+#EXTINF:-1  tvg-name="2Vevo '70s & '80s" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20230614T010158SQUARE.png_20230614010159.png" tvg-chno="402" group-title="Music", Vevo '70s & '80s
+https://jmp2.uk/sam-GBBD1900009UD.m3u8
+#EXTINF:-1  tvg-name="2Vevo '80s" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png" tvg-chno="403" group-title="Music", Vevo '80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:-1  tvg-name="2Vevo '80s" tvg-id="CABC5200011IS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20240910T003241SQUARE.png" tvg-chno="404" group-title="Music", Vevo '80s
+https://jmp2.uk/sam-CABC5200011IS.m3u8
+#EXTINF:-1  tvg-name="2Now 80s" tvg-id="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" tvg-chno="358" group-title="Music", Now 80s
+https://jmp2.uk/sam-GBBC900003B2.m3u8
+#EXTINF:-1  tvg-name="2Staccs Music TV 80’s Hits" tvg-id="GB19000039A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB19000039A_20240910T041843SQUARE.png" tvg-chno="361" group-title="Music", Staccs Music TV 80’s Hits
+https://jmp2.uk/sam-GB19000039A.m3u8
+#EXTINF:-1  tvg-name="2Vevo '90s" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" tvg-chno="405" group-title="Music", Vevo '90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:-1  tvg-name="2Vevo '90s" tvg-id="CABC52000127S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20240910T003244SQUARE.png" tvg-chno="406" group-title="Music", Vevo '90s
+https://jmp2.uk/sam-CABC52000127S.m3u8
+#EXTINF:-1  tvg-name="2Vevo '90s & '00s" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png" tvg-chno="407" group-title="Music", Vevo '90s & '00s
+https://jmp2.uk/sam-GBBC2100002HP.m3u8
+#EXTINF:-1  tvg-name="2Vevo 2K" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" tvg-chno="408" group-title="Music", Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:-1  tvg-name="2Vevo 2K" tvg-id="CABC5200013DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20240910T003246SQUARE.png" tvg-chno="409" group-title="Music", Vevo 2K
+https://jmp2.uk/sam-CABC5200013DN.m3u8
+#EXTINF:-1  tvg-name="2Vevo 2010s" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" tvg-chno="410" group-title="Music", Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1  tvg-name="2Vevo 2010s" tvg-id="CABD1200009SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200009SD_20240910T003235SQUARE.png" tvg-chno="411" group-title="Music", Vevo 2010s
+https://jmp2.uk/sam-CABD1200009SD.m3u8
+#EXTINF:-1  tvg-name="1Vevo True School Hip-Hop" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" tvg-chno="328", Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1  tvg-name="2Staccs Music TV Greatest Hits" tvg-id="GBBD1100015UU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100015UU_20240924T050852SQUARE.png" tvg-chno="362" group-title="Music", Staccs Music TV Greatest Hits
+https://jmp2.uk/sam-GBBD1100015UU.m3u8
+#EXTINF:-1  tvg-name="2Staccs Music TV Latest Hits" tvg-id="GB1900002QZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900002QZ_20240910T041840SQUARE.png" tvg-chno="363" group-title="Music", Staccs Music TV Latest Hits
+https://jmp2.uk/sam-GB1900002QZ.m3u8
+#EXTINF:-1  tvg-name="2Vevo Christmas" tvg-id="GB35000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20241210T051720SQUARE.png" tvg-chno="412" group-title="Music", Vevo Christmas
+https://jmp2.uk/sam-GB35000017V.m3u8
 
