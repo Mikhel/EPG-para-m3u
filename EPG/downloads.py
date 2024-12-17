@@ -32,9 +32,6 @@ if __name__ == "__main__":
         "https://i.mjh.nz/SamsungTVPlus/ca.xml.gz": "EPG/PLUTO/SAMSca.xml.gz",  # Y otro más
         "https://i.mjh.nz/Plex/mx.xml.gz": "EPG/PLUTO/PLEXmx.xml.gz",
         "https://i.mjh.nz/PlutoTV/.channels.json": "EPG/epg.json",
-        "https://m3u4u.com/epg/jq2zy98d6es52d1knxr5": "EPG/PLUTO/mikeb1.xml.gz",
-        "https://m3u4u.com/m3u/5z3endr6pzar9z34nqpk": "EPG/PLUTO/mikeb2.m3u",
-        "https://m3u4u.com/epg/5z3endr6pzar9z34nqpk": "EPG/PLUTO/mikeb2.xml.gz",
     }
     
     for url, filename in files_to_download.items():
