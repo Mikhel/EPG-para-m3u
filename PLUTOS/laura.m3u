@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz"
+#EXTM3U url-tvg="https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/plutoepg.xml.gz, https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1  tvg-name="2cine-picante" tvg-id="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9_3.jpg" tvg-chno="001" group-title="PELICULAS", Cine Picante
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1  tvg-name="1Crackling Fireplace" tvg-id="5bf48085851dd5632e2f7b4d" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG_1730483404196.png" tvg-chno="004", Crackling Fireplace
