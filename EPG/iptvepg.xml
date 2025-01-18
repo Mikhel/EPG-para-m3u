@@ -931,14 +931,4 @@
       <value>+14</value>
     </rating>
   </programme>
-  <channel id="AXN.(Axn).pe">
-    <display-name lang="es">AXN (Axn)</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" />
-    <url>http://www.movistar.com.pe</url>
-  </channel>
-  <channel id="AXN.HD.(AXNHD).pe">
-    <display-name lang="es">AXN HD (AXNHD)</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" />
-    <url>http://www.movistar.com.pe</url>
-  </channel>
   </tv>
