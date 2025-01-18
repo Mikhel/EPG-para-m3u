@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: python epg-grabber/getTVepg.py
+        run: python epg-grabber/IPTVepg.py
 
       - name: Force commit and push the changes (no history)
         run: |
