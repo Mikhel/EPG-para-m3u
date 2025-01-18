@@ -69,6 +69,7 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz',
