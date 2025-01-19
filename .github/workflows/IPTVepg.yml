@@ -6,7 +6,7 @@ name: IPTV EPG
 on:
   schedule:
     # Runs twice a day
-    - cron: "0 0/6 * * *"
+    - cron: "0 0/4 * * *"
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
