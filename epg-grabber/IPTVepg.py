@@ -80,6 +80,11 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
+    'https://i.mjh.nz/PlutoTV/mx.xml.gz',
+    'https://i.mjh.nz/PlutoTV/us.xml.gz',
+    'https://i.mjh.nz/SamsungTVPlus/us.xml.gz',
+    'https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml',
+    'https://i.mjh.nz/Plex/mx.xml.gz',
        ]
 
 if __name__ == "__main__":
