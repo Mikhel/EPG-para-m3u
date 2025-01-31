@@ -84,7 +84,7 @@ urls = [
     'https://i.mjh.nz/PlutoTV/us.xml.gz',
     'https://i.mjh.nz/SamsungTVPlus/us.xml.gz',
     'https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml',
-    'https://i.mjh.nz/Plex/mx.xml.gz',
+    'https://i.mjh.nz/Plex/all.xml.gz',
        ]
 
 if __name__ == "__main__":
