@@ -31,8 +31,8 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add M3U/SAM/*.*  # Asegúrate de que coincida con los nombres de los archivos descargados
-          git add M3U/PLUTO/*.*  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add M3U/SAM/*.m3u  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add M3U/PLUTO/*.m3u  # Asegúrate de que coincida con los nombres de los archivos descargados
           git commit -m "Add/update EPG data" || echo "No changes to commit"
           git push
         env:
