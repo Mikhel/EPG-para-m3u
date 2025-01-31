@@ -1,0 +1,40 @@
+name: Download M3U Files
+
+on:
+  schedule:
+    # Esta expresión cron ejecutará la acción todos los días a las 2:00 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Usa la versión de Python que necesites
+
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Download EPG files
+        run: python M3U/downloadm3u.py  # Asegúrate de que tu script maneje múltiples archivos
+        
+      - name: Commit downloaded EPG files
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add M3U/PLUTO/*.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add M3U/PLUTO/*.m3u  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add M3U/*.json  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git commit -m "Add/update EPG data" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Este token es proporcionado automáticamente por GitHub Actions
