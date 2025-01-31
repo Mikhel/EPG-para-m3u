@@ -5585,160 +5585,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20250129010000 -0600" stop="20250129013000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Estatus</title>
-  </programme>
-  <programme start="20250129013000 -0600" stop="20250129030000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20250129030000 -0600" stop="20250129040000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Cronicas</title>
-  </programme>
-  <programme start="20250129040000 -0600" stop="20250129043000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20250129043000 -0600" stop="20250129050000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Especial de R.T.C</title>
-  </programme>
-  <programme start="20250129050000 -0600" stop="20250129060000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20250129060000 -0600" stop="20250129063000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Corn y Peg</title>
-  </programme>
-  <programme start="20250129063000 -0600" stop="20250129073000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Oddbods</title>
-  </programme>
-  <programme start="20250129073000 -0600" stop="20250129080000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">PJ Masks: Héroes en Pijamas</title>
-    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks.</desc>
-    <credits>
-      <director>Christian De Vita</director>
-      <director>Wilson Dos Santos</director>
-      <writer>Romuald Racioppo</writer>
-      <producer>Guillaume Hellouin</producer>
-      <producer>Corinne Kouper</producer>
-      <composer>Eric Renwart</composer>
-      <composer>David Freedman</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
-    <country lang="es">Francia</country>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129080000 -0600" stop="20250129083000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Bugs y sus amigos a la obra</title>
-  </programme>
-  <programme start="20250129083000 -0600" stop="20250129090000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Peppa Pig</title>
-    <desc lang="es">Peppa es una cerdita adorable y descarada que vive con su Mamá, Papá y su hermano pequeño George. Las cosas favoritas de Peppa incluyen jugar, vestirse, pasar el día y saltar en charcos de lodo. Sus aventuras siempre terminan felices con fuertes risas.</desc>
-    <credits>
-      <director>Mark Baker</director>
-      <director>Neville Astley</director>
-      <writer>Mark Baker</writer>
-      <writer>Neville Astley</writer>
-      <producer>Phil Davies</producer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/peppa.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129090000 -0600" stop="20250129103000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Rugrats</title>
-  </programme>
-  <programme start="20250129103000 -0600" stop="20250129120000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Los Pitufos</title>
-  </programme>
-  <programme start="20250129120000 -0600" stop="20250129133000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <desc lang="es">Skipper, kowalski, Rico y Cabo – son una fuerza de ataque de élite (y adorable) con habilidades de comando de primer nivel y una sede de clase mundial en el zoológico de Central Park en Nueva York. ¡Lo único que encuentran más desafiante que llevar a cabo divertidas misiones secretas es soportar a su desagradable vecino lémur, el Rey Julien!</desc>
-    <credits>
-      <director>Bret Haaland</director>
-      <director>Nick Filippi</director>
-      <writer>Mark McCorkle</writer>
-      <writer>Bob Schooley</writer>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Ciencia Ficción</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_pinguinos_de_madagascar.jpg" />
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129133000 -0600" stop="20250129150000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Miraculous Ladybug</title>
-  </programme>
-  <programme start="20250129150000 -0600" stop="20250129160000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de.</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Faberbakke</actor>
-      <actor>Rodger Bumpass</actor>
-      <writer>Stephen Hillenburg</writer>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Infantil</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129160000 -0600" stop="20250129164500 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20250129164500 -0600" stop="20250129185000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Súper Agente 86</title>
-  </programme>
-  <programme start="20250129185000 -0600" stop="20250129210000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Atlas vs. Monterrey</title>
-    <desc lang="es">Desde el estadio Jalisco, ubicado en la ciudad de Guadalajara, Jalisco, México, se enfrentan los equipos Club Atlas de Guadalajara versus Club de Fútbol Monterrey.</desc>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/atlas_vs_monterrey.png" />
-  </programme>
-  <programme start="20250129210000 -0600" stop="20250129230500 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">U.N.A.M vs. Toluca
-En Vivo</title>
-  </programme>
-  <programme start="20250129230500 -0600" stop="20250130000000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Lalola</title>
-  </programme>
-  <programme start="20250130000000 -0600" stop="20250130030000 -0600" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
   <programme start="20250130030000 -0600" stop="20250130040000 -0600" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Cronicas</title>
   </programme>
@@ -6024,73 +5870,73 @@ En Vivo</title>
   <programme start="20250201231000 -0600" stop="20250202003000 -0600" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Invasión al hogar</title>
   </programme>
-  <programme start="20250129010000 -0600" stop="20250129020000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20250202003000 -0600" stop="20250202030000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20250129020000 -0600" stop="20250129040000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Fútbol Mexicano Liga Expansión</title>
-    <sub-title lang="es">Celaya vs. Venados</sub-title>
+  <programme start="20250202030000 -0600" stop="20250202040000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Cronicas</title>
   </programme>
-  <programme start="20250129040000 -0600" stop="20250129050000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20250202040000 -0600" stop="20250202043000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20250129050000 -0600" stop="20250129070000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Liga Mexicana Softbol</title>
-    <sub-title lang="es">Charros de Jalisco vs. Olmecas de Tabasco</sub-title>
+  <programme start="20250202043000 -0600" stop="20250202050000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Especial de R.T.C</title>
   </programme>
-  <programme start="20250129070000 -0600" stop="20250129080000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20250202050000 -0600" stop="20250202053000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Cronicas</title>
   </programme>
-  <programme start="20250129080000 -0600" stop="20250129090000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20250202053000 -0600" stop="20250202060000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20250129090000 -0600" stop="20250129110000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Baloncesto Liga ACB</title>
-    <sub-title lang="es">Gran Canaria vs. Tenerife</sub-title>
+  <programme start="20250202060000 -0600" stop="20250202073000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Las aventuras de Kid Danger</title>
   </programme>
-  <programme start="20250129110000 -0600" stop="20250129130000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Baloncesto Liga ACB</title>
-    <sub-title lang="es">Real Madrid vs. Leyma Básquet Coruña</sub-title>
+  <programme start="20250202073000 -0600" stop="20250202093000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Una Tarea Complicada</title>
   </programme>
-  <programme start="20250129130000 -0600" stop="20250129150000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Fútbol Mexicano Liga Expansión</title>
-    <sub-title lang="es">Atlético Morelia vs. Atlante</sub-title>
+  <programme start="20250202093000 -0600" stop="20250202113000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Todo eso</title>
   </programme>
-  <programme start="20250129150000 -0600" stop="20250129153000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Al Día</title>
+  <programme start="20250202113000 -0600" stop="20250202130000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Doogal Aventuras Peludas</title>
   </programme>
-  <programme start="20250129153000 -0600" stop="20250129160000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">El Quinto cuarto</title>
+  <programme start="20250202130000 -0600" stop="20250202143000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Alpha y Omega</title>
   </programme>
-  <programme start="20250129160000 -0600" stop="20250129163000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Al Día</title>
+  <programme start="20250202143000 -0600" stop="20250202170000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Godzilla</title>
+    <desc lang="es">El Gobierno francés hace pruebas con bombas radioactivas en el pacífico sur, sin darse cuenta dan vida a una nueva especie de lagartija que muta a un tamaño descomunal que ahora deberá ser detenida a como dé lugar antes que destruya totalmente la ciudad isla de Manhattan.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Matthew Broderick</actor>
+      <actor>Jean Reno</actor>
+      <actor>Maria Pitillo</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Kevin Dunn</actor>
+      <producer>Dean Devlin</producer>
+      <composer>David Arnold</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
   </programme>
-  <programme start="20250129163000 -0600" stop="20250129170000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Todo Deporte DW</title>
+  <programme start="20250202170000 -0600" stop="20250202194500 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Parque Jurásico 2</title>
   </programme>
-  <programme start="20250129170000 -0600" stop="20250129183000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol sin fronteras</title>
+  <programme start="20250202194500 -0600" stop="20250202214500 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Jurassic park 3</title>
   </programme>
-  <programme start="20250129183000 -0600" stop="20250129190000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">RPM</title>
-  </programme>
-  <programme start="20250129190000 -0600" stop="20250129200000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Ciclismo</title>
-    <sub-title lang="es">2025 Santos Tour Down Under: Women Race</sub-title>
-    <episode-num system="onscreen">S2025</episode-num>
-  </programme>
-  <programme start="20250129200000 -0600" stop="20250129210000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
-  </programme>
-  <programme start="20250129210000 -0600" stop="20250129230000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Fútbol Mexicano Liga Expansión</title>
-    <sub-title lang="es">Atlético Morelia vs. Atlante</sub-title>
-  </programme>
-  <programme start="20250129230000 -0600" stop="20250130000000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
-  </programme>
-  <programme start="20250130000000 -0600" stop="20250130010000 -0600" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20250202214500 -0600" stop="20250203000000 -0600" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">La leyenda de Tarzán</title>
   </programme>
   <programme start="20250130010000 -0600" stop="20250130030000 -0600" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Baloncesto Liga ACB</title>
@@ -6151,6 +5997,7 @@ En Vivo</title>
   </programme>
   <programme start="20250130200000 -0600" stop="20250130220000 -0600" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Liga Mexicana Softbol</title>
+    <sub-title lang="es">Algodoneros de Unión Laguna vs. Naranjeros de Hermosillo</sub-title>
   </programme>
   <programme start="20250130220000 -0600" stop="20250130230000 -0600" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Total</title>
@@ -6167,8 +6014,8 @@ En Vivo</title>
   </programme>
   <programme start="20250131010000 -0600" stop="20250131030000 -0600" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Arsenal TV</title>
-    <sub-title lang="es">Juego del Recuerdo: Arsenal vs. Liverpool</sub-title>
-    <episode-num system="onscreen">S2025 E14</episode-num>
+    <sub-title lang="es">Partido del recuerdo: Arsenal vs. Liverpool</sub-title>
+    <episode-num system="onscreen">S2023 E79</episode-num>
   </programme>
   <programme start="20250131030000 -0600" stop="20250131033000 -0600" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Al Día</title>
@@ -6272,311 +6119,52 @@ En Vivo</title>
     <title lang="es">Béisbol Serie del Caribe</title>
     <sub-title lang="es">México vs. Venezuela</sub-title>
   </programme>
-  <programme start="20250129060000 -0500" stop="20250129063000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20250202000000 -0600" stop="20250202030000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol Serie del Caribe</title>
+    <sub-title lang="es">República Dominicana vs. Japón</sub-title>
   </programme>
-  <programme start="20250129063000 -0500" stop="20250129070000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20250202030000 -0600" stop="20250202050000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Baloncesto Liga ACB</title>
+    <sub-title lang="es">Casademont Zaragoza vs. Universidad Católica de Murcia</sub-title>
   </programme>
-  <programme start="20250129070000 -0500" stop="20250129073000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Corn y Peg</title>
-    <desc lang="en">Dos mejores amigos, un unicornio y una pegaso, contribuyen con su bondad a que el mundo que los rodea sea un lugar mejor para todos.</desc>
-    <credits>
-      <actor>Jaiden Cannatelli</actor>
-      <actor>Shechinah Mpumlwana</actor>
-      <actor>Shayle Simons</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20250202050000 -0600" stop="20250202070000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Baloncesto Liga ACB</title>
+    <sub-title lang="es">Andorra vs. Valencia</sub-title>
   </programme>
-  <programme start="20250129073000 -0500" stop="20250129082500 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Oddbods</title>
-    <desc lang="en">Las aventuras y travesuras de los Oddbods, unos pequeños personajes coloridos que se toman la vida con mucho humor.</desc>
-    <credits>
-      <actor>Marlon Dance-Hooi</actor>
-      <actor>Nadia Ramlee</actor>
-      <actor>Jeremy Linn</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
+  <programme start="20250202070000 -0600" stop="20250202100000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol Serie del Caribe</title>
+    <sub-title lang="es">México vs. Venezuela</sub-title>
   </programme>
-  <programme start="20250129082500 -0500" stop="20250129083000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Bebés llorones lágrimas mágicas</title>
-    <desc lang="en">Pequeños bebés con grandes personalidades descubren un mundo donde las lágrimas son mágicas y tienen poderes especiales.</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Animated</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+  <programme start="20250202100000 -0600" stop="20250202120000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Baloncesto Liga ACB</title>
+    <sub-title lang="es">Barcelona vs. Bàsquet Manresa</sub-title>
   </programme>
-  <programme start="20250129083000 -0500" stop="20250129090000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">PJ Masks: Héroes en pijamas</title>
-    <desc lang="en">Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción.</desc>
-    <credits>
-      <actor>Jacob Ewaniuk</actor>
-      <actor>Kyle Harrison Breitkopf</actor>
-      <actor>Addison Holley</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20250202120000 -0600" stop="20250202140000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Fútbol Mexicano Liga Expansión</title>
+    <sub-title lang="es">Leones Negros vs. Tlaxcala</sub-title>
   </programme>
-  <programme start="20250129090000 -0500" stop="20250129093000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Bugs y sus amigos a la obra</title>
-    <desc lang="en">La pandilla utiliza sus increíbles vehículos para enfrentarse a las construcciones más locas mientras aprenden lecciones valiosas. Ellos nunca se darán por vencidos.</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Bob Bergen</actor>
-      <actor>Chandni Parekh</actor>
-    </credits>
-    <category lang="en">Children</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20250202140000 -0600" stop="20250202145000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Ciclismo</title>
+    <sub-title lang="es">2025 Santos Tour Down Under: Women Race</sub-title>
+    <episode-num system="onscreen">S2025</episode-num>
   </programme>
-  <programme start="20250129093000 -0500" stop="20250129100000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa, su familia y amigos encarnan valores que sirven de ejemplo a los más pequeños como el amor, la solidaridad, el diálogo familiar entre otros. Unos personajes simpáticos llenos de energía y actividad donde predomina el compañerismo.</desc>
-    <credits>
-      <actor>Amelie Bea Smith</actor>
-      <actor>Richard Ridings</actor>
-      <actor>Morwenna Banks</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20250202145000 -0600" stop="20250202180000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol Serie del Caribe</title>
+    <sub-title lang="es">Japón vs. Puerto Rico</sub-title>
   </programme>
-  <programme start="20250129100000 -0500" stop="20250129113000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Rugrats</title>
-    <desc lang="en">Unos bebés tienen grandes aventuras en el mundo de los adultos, donde todo lo que les rodea es más grande y misterioso.</desc>
-    <credits>
-      <actor>Elizabeth Daily</actor>
-      <actor>Christine Cavanaugh</actor>
-      <actor>Kath Soucie</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20250202180000 -0600" stop="20250202183000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">El Quinto cuarto</title>
   </programme>
-  <programme start="20250129113000 -0500" stop="20250129130000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Los pitufos</title>
-    <desc lang="en">Un portal mágico transporta a los pitufos a Manhattan, donde deben descubrir la forma de regresar a su aldea antes de que los encuentre el malvado mago Gargamel.</desc>
-    <credits>
-      <actor>Hank Azaria</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Jayma Mays</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>2.0/10</value>
-    </star-rating>
+  <programme start="20250202183000 -0600" stop="20250202185500 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Todo Deporte DW</title>
   </programme>
-  <programme start="20250129130000 -0500" stop="20250129143000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Los pingüinos de Madagascar</title>
-    <desc lang="en">Un grupo de pingüinos con un estilo muy peculiar se embarcan en realizar misiones secretas en un zoológico de Nueva York.</desc>
-    <credits>
-      <actor>Tom McGrath</actor>
-      <actor>Jeff Bennett</actor>
-      <actor>John DiMaggio</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
+  <programme start="20250202185500 -0600" stop="20250202210000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Fútbol Mexicano Liga Expansión</title>
+    <sub-title lang="es">Venados vs. Atlante</sub-title>
   </programme>
-  <programme start="20250129143000 -0500" stop="20250129160000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Miraculous</title>
-    <desc lang="en">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.</desc>
-    <credits>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129160000 -0500" stop="20250129170000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Bob Esponja</title>
-    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar.</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Rodger Bumpass</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129170000 -0500" stop="20250129174500 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">El Chavo Animado</title>
-    <desc lang="en">Después de más de 30 años de entretenimiento para grandes y pequeños con la serie "El Chavo del 8," Roberto Gómez Bolaños (mejor conocido como "Chespirito"), trae la versión animada de este famoso programa.</desc>
-    <credits>
-      <actor>Jesús Guzmán</actor>
-      <actor>Sebastián Llapur</actor>
-      <actor>Erica Edwards</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129174500 -0500" stop="20250129195000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Super agente 86</title>
-    <desc lang="en">Maxwell Smart es promovido a agente secreto. Smart mezcla inexperiencia, entusiasmo e ineptitud mientras él y su compañera, la Agente 99, luchan contra la maléfica organización KAOS.</desc>
-    <credits>
-      <actor>Steve Carell</actor>
-      <actor>Anne Hathaway</actor>
-      <actor>Dwayne Johnson</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129195000 -0500" stop="20250129220000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Live: Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Atlas vs. Monterrey</sub-title>
-    <desc lang="en">Jornada 4 del Torneo Clausura 2025 de la Liga MX. Atlas recibe a Monterrey en el estadio Jalisco, en Guadalajara, Jalisco. Encuentro disputado el 29 de enero de 2025.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20250129220000 -0500" stop="20250130000500 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Live: Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Pumas UNAM vs. Toluca</sub-title>
-    <desc lang="en">Jornada 4 del Torneo Clausura 2025 de la Liga MX. Pumas UNAM recibe a Toluca en el Estadio Olímpico Universitario, en Ciudad de México. Encuentro disputado el 29 de enero de 2025.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20250130000500 -0500" stop="20250130010000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Lalola</title>
-    <desc lang="en">La historia de Lalo, un hombre exitoso que cree que puede utilizar a las mujeres para satisfacer su ego, pero tras romperle el corazón a Romina, es convertido en una mujer, luego que ella acude a una bruja para que le de una lección.</desc>
-    <credits>
-      <actor>Bárbara de Regil</actor>
-      <actor>Alejandro de la Madrid</actor>
-      <actor>Alexis Ayala</actor>
-    </credits>
-    <category lang="en">Soaps</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130010000 -0500" stop="20250130013000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250130013000 -0500" stop="20250130020000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250130020000 -0500" stop="20250130023000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130023000 -0500" stop="20250130030000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130030000 -0500" stop="20250130033000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130033000 -0500" stop="20250130040000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130040000 -0500" stop="20250130043000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Crónicas</title>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130043000 -0500" stop="20250130050000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Crónicas</title>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130050000 -0500" stop="20250130053000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130053000 -0500" stop="20250130060000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Especial de R.T.C.</title>
-    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown />
+  <programme start="20250202210000 -0600" stop="20250203000000 -0600" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol Serie del Caribe</title>
+    <sub-title lang="es">República Dominicana vs. México</sub-title>
   </programme>
   <programme start="20250130060000 -0500" stop="20250130063000 -0500" channel="Canal.5.(XHPNH).mx">
     <title lang="en">Inova</title>
@@ -7319,24 +6907,18 @@ En Vivo</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20250201220500 -0500" stop="20250202001500 -0500" channel="Canal.5.(XHPNH).mx">
+  <programme start="20250201220500 -0500" stop="20250202001000 -0500" channel="Canal.5.(XHPNH).mx">
     <title lang="en">Live: Fútbol Mexicano Primera División</title>
     <sub-title lang="en">Toluca vs. Tigres U.A.N.L</sub-title>
     <desc lang="en">Jornada 5 del Torneo Clausura 2025 de la Liga MX. Toluca recibe a Tigres U.A.N.L. en el Estadio Nemesio Díez, en Toluca, Estado de México. Encuentro disputado el 1 de febrero de 2025.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20250202001500 -0500" stop="20250202013000 -0500" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Invasión al hogar</title>
-    <desc lang="en">Un especialista en sistemas de seguridad trata de ayudar a una mujer y su hijastro, cuando quedan a merced de tres expertos ladrones que se meten en su lujosa mansión en las afueras de la ciudad.</desc>
-    <credits>
-      <actor>Natasha Henstridge</actor>
-      <actor>Jason Patric</actor>
-      <actor>Scott Adkins</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
+  <programme start="20250202001000 -0500" stop="20250202013000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Boxeo</title>
+    <desc lang="en">Los combates más emocionantes del boxeo mundial.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
     <previously-shown />
   </programme>
   <programme start="20250202013000 -0500" stop="20250202020000 -0500" channel="Canal.5.(XHPNH).mx">
@@ -7394,87 +6976,247 @@ En Vivo</title>
     <category lang="en">Paid Program</category>
     <previously-shown />
   </programme>
-  <programme start="20250129001000 -0600" stop="20250129022000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Hasta los Huesos</title>
+  <programme start="20250202053000 -0500" stop="20250202060000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Especial de R.T.C.</title>
+    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown />
   </programme>
-  <programme start="20250129022000 -0600" stop="20250129041500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">The Field Guide To Evil</title>
+  <programme start="20250202060000 -0500" stop="20250202063000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Crónicas</title>
+    <category lang="en">News</category>
+    <previously-shown />
   </programme>
-  <programme start="20250129041500 -0600" stop="20250129060000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Experimentos Secretos</title>
+  <programme start="20250202063000 -0500" stop="20250202070000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
   </programme>
-  <programme start="20250129060000 -0600" stop="20250129063000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20250129063000 -0600" stop="20250129083500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Interpreters</title>
-  </programme>
-  <programme start="20250129083500 -0600" stop="20250129090500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20250129090500 -0600" stop="20250129105500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">13 Minutos Antes de Dormir</title>
-  </programme>
-  <programme start="20250129105500 -0600" stop="20250129110500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20250129110500 -0600" stop="20250129123000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Central Park Dark</title>
-  </programme>
-  <programme start="20250129123000 -0600" stop="20250129130000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20250129130000 -0600" stop="20250129143500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Kysya-Tufland</title>
-  </programme>
-  <programme start="20250129143500 -0600" stop="20250129144500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20250129144500 -0600" stop="20250129161500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">El día del juicio final</title>
-  </programme>
-  <programme start="20250129161500 -0600" stop="20250129174000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Ted Bundy y el Asesino de Green River</title>
-  </programme>
-  <programme start="20250129174000 -0600" stop="20250129190500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">The Slaughterhouse Killer</title>
-  </programme>
-  <programme start="20250129190500 -0600" stop="20250129205000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Mi ángel guardián</title>
-  </programme>
-  <programme start="20250129205000 -0600" stop="20250129222500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Stranded</title>
-  </programme>
-  <programme start="20250129222500 -0600" stop="20250130000000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">El Ascenso del Diablo</title>
-    <desc lang="es">Después de pasar tres años en prisión por la muerte de un niño de 8 años durante un exorcismo fallido, el Padre Lambert (Peter Jason) busca la redención de un joven padre soltero, Joel Clarke (Robert Kazinsky), a quien cree que ha sido marcado por el Diablo y convence a Joel de quien, sin su ayuda, perderá a su hijo para siempre. Pero hay una fuerza aún más oscura que pronto dará a conocer una terrible revelación.</desc>
+  <programme start="20250202070000 -0500" stop="20250202083000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Las aventuras de Kid Danger</title>
+    <desc lang="en">Henry Hart parece un niño corriente, pero en realidad es un superhéroe en prácticas que ayuda al Capitán Man a combatir contra malhechores y villanos. Sin embargo, ni sus amigos Charlotte y Jasper ni su hermanita Piper pueden descubrir su secreto.</desc>
     <credits>
-      <director>Pearry Reginald Teo</director>
-      <actor>Robert Kazinsky</actor>
-      <actor>Peter Jason</actor>
-      <actor>Hannah Ward</actor>
-      <actor>Caden Dragomer</actor>
-      <actor>Douglas Spain</actor>
-      <actor>Eileen Dietz</actor>
-      <actor>Margarita Reyes</actor>
-      <actor>Ashton Riordan Teo</actor>
-      <composer>Frederik Wiedmann</composer>
+      <actor>Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Michael D. Cohen</actor>
     </credits>
-    <date>2020</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Suspenso</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_ascenso_del_diablo.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="MX">
-      <value>R</value>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVY7</value>
     </rating>
-    <star-rating system="MX">
-      <value>4.0</value>
+  </programme>
+  <programme start="20250202083000 -0500" stop="20250202103000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Side Hustle, una tarea complicada</title>
+    <desc lang="en">Después de haber incendiado accidentalmente el bote del director, Lex, Presley y Munchy aceptarán cualquier empleo, por muy humillante que sea, para pagar la deuda que contrajeron.</desc>
+    <credits>
+      <actor>Annie LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Mitchell Berg</actor>
+    </credits>
+    <category lang="en">Children</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202103000 -0500" stop="20250202123000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Todo eso</title>
+    <desc lang="en">Una nueva versión de la serie "All That", la cual comenzó en 1994 y terminó en 2005. El novedoso programa regresa con una nueva generación de jóvenes actores cómicos.</desc>
+    <credits>
+      <actor>Ryan Alessi</actor>
+      <actor>Reece Caddell</actor>
+      <actor>Kate Godfrey</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Children</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202123000 -0500" stop="20250202140000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Doogal: Aventuras peludas</title>
+    <desc lang="en">Una jovencita y sus amigos deben evitar que un malvado brujo inicie otra era de hielo. Basada en la serie de TV.</desc>
+    <credits>
+      <actor>Daniel Tay</actor>
+      <actor>Jon Stewart</actor>
+      <actor>Whoopi Goldberg</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250130000000 -0600" stop="20250130015000 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Gehenna: Donde Vive la Muerte</title>
+  <programme start="20250202140000 -0500" stop="20250202153000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Alpha y Omega</title>
+    <desc lang="en">Después de que los oficiales del parque los trasladan a otra parte del país, un lobo despreocupado y su compañera deben encontrar la forma de regresar a su casa y evitar una guerra.</desc>
+    <credits>
+      <actor>Justin Long</actor>
+      <actor>Hayden Panettiere</actor>
+      <actor>Christina Ricci</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202153000 -0500" stop="20250202180000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">Godzilla, Rey de los Monstruos, surge para combatir a enemigos enormes y malos que se han estado alimentando con los reactores de una planta nuclear y ahora amenazan a la humanidad con aniquilarla.</desc>
+    <credits>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Elizabeth Olsen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202180000 -0500" stop="20250202204500 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Parque Jurásico 2: El mundo perdido</title>
+    <desc lang="en">Cuatro años después del desastre en el Parque Jurásico, Ian Malcolm llega a una isla situada en Costa Rica donde los dinosaurios, modificados genéticamente, viven y se reproducen en libertad.</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202204500 -0500" stop="20250202224500 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Jurassic Park 3</title>
+    <desc lang="en">El doctor Alan Grant, un experto paleontólogo, queda atrapado junto a un equipo de investigación en una isla poblada por dinosaurios. El grupo intenta salir con vida, pero no será sencillo.</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>William H. Macy</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202224500 -0500" stop="20250203010000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">La leyenda de Tarzán</title>
+    <desc lang="en">Muchos años después de haber dejado África, Tarzán regresa al Congo para servir como un emisario comercial, sin saber que en realidad es un peón del malévolo plan que ha trazado un capitán belga.</desc>
+    <credits>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Samuel L. Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250203010000 -0500" stop="20250203013000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203013000 -0500" stop="20250203020000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203020000 -0500" stop="20250203023000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203023000 -0500" stop="20250203030000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203030000 -0500" stop="20250203033000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203033000 -0500" stop="20250203040000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203040000 -0500" stop="20250203043000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Tuvalu</title>
+    <desc lang="en">Llamado Islas Ellice hasta 1978, Tuvalu es un país insular de Oceanía integrado dentro de la Polinesia.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Travel</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203043000 -0500" stop="20250203050000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Crónicas</title>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203050000 -0500" stop="20250203053000 -0500" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
   </programme>
   <programme start="20250130015000 -0600" stop="20250130035000 -0600" channel="Canal.Pánico.mx">
     <title lang="es">La Casa Del Deseo Violento</title>
@@ -47565,312 +47307,6 @@ En Vivo</title>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s116152_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20250129060000 -0500" stop="20250129063000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250129063000 -0500" stop="20250129070000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250129070000 -0500" stop="20250129073000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Corn y Peg</title>
-    <desc lang="en">Dos mejores amigos, un unicornio y una pegaso, contribuyen con su bondad a que el mundo que los rodea sea un lugar mejor para todos.</desc>
-    <credits>
-      <actor>Jaiden Cannatelli</actor>
-      <actor>Shechinah Mpumlwana</actor>
-      <actor>Shayle Simons</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129073000 -0500" stop="20250129082500 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Oddbods</title>
-    <desc lang="en">Las aventuras y travesuras de los Oddbods, unos pequeños personajes coloridos que se toman la vida con mucho humor.</desc>
-    <credits>
-      <actor>Marlon Dance-Hooi</actor>
-      <actor>Nadia Ramlee</actor>
-      <actor>Jeremy Linn</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129082500 -0500" stop="20250129083000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Bebés llorones lágrimas mágicas</title>
-    <desc lang="en">Pequeños bebés con grandes personalidades descubren un mundo donde las lágrimas son mágicas y tienen poderes especiales.</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Animated</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250129083000 -0500" stop="20250129090000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">PJ Masks: Héroes en pijamas</title>
-    <desc lang="en">Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción.</desc>
-    <credits>
-      <actor>Jacob Ewaniuk</actor>
-      <actor>Kyle Harrison Breitkopf</actor>
-      <actor>Addison Holley</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129090000 -0500" stop="20250129093000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Bugs y sus amigos a la obra</title>
-    <desc lang="en">La pandilla utiliza sus increíbles vehículos para enfrentarse a las construcciones más locas mientras aprenden lecciones valiosas. Ellos nunca se darán por vencidos.</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Bob Bergen</actor>
-      <actor>Chandni Parekh</actor>
-    </credits>
-    <category lang="en">Children</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129093000 -0500" stop="20250129100000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa, su familia y amigos encarnan valores que sirven de ejemplo a los más pequeños como el amor, la solidaridad, el diálogo familiar entre otros. Unos personajes simpáticos llenos de energía y actividad donde predomina el compañerismo.</desc>
-    <credits>
-      <actor>Amelie Bea Smith</actor>
-      <actor>Richard Ridings</actor>
-      <actor>Morwenna Banks</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129100000 -0500" stop="20250129113000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Rugrats</title>
-    <desc lang="en">Unos bebés tienen grandes aventuras en el mundo de los adultos, donde todo lo que les rodea es más grande y misterioso.</desc>
-    <credits>
-      <actor>Elizabeth Daily</actor>
-      <actor>Christine Cavanaugh</actor>
-      <actor>Kath Soucie</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129113000 -0500" stop="20250129130000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Los pitufos</title>
-    <desc lang="en">Un portal mágico transporta a los pitufos a Manhattan, donde deben descubrir la forma de regresar a su aldea antes de que los encuentre el malvado mago Gargamel.</desc>
-    <credits>
-      <actor>Hank Azaria</actor>
-      <actor>Neil Patrick Harris</actor>
-      <actor>Jayma Mays</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>2.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129130000 -0500" stop="20250129143000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Los pingüinos de Madagascar</title>
-    <desc lang="en">Un grupo de pingüinos con un estilo muy peculiar se embarcan en realizar misiones secretas en un zoológico de Nueva York.</desc>
-    <credits>
-      <actor>Tom McGrath</actor>
-      <actor>Jeff Bennett</actor>
-      <actor>John DiMaggio</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129143000 -0500" stop="20250129160000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Miraculous</title>
-    <desc lang="en">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.</desc>
-    <credits>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129160000 -0500" stop="20250129170000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Bob Esponja</title>
-    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar.</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Rodger Bumpass</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20250129170000 -0500" stop="20250129174500 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">El Chavo Animado</title>
-    <desc lang="en">Después de más de 30 años de entretenimiento para grandes y pequeños con la serie "El Chavo del 8," Roberto Gómez Bolaños (mejor conocido como "Chespirito"), trae la versión animada de este famoso programa.</desc>
-    <credits>
-      <actor>Jesús Guzmán</actor>
-      <actor>Sebastián Llapur</actor>
-      <actor>Erica Edwards</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
-  </programme>
-  <programme start="20250129174500 -0500" stop="20250129195000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Super agente 86</title>
-    <desc lang="en">Maxwell Smart es promovido a agente secreto. Smart mezcla inexperiencia, entusiasmo e ineptitud mientras él y su compañera, la Agente 99, luchan contra la maléfica organización KAOS.</desc>
-    <credits>
-      <actor>Steve Carell</actor>
-      <actor>Anne Hathaway</actor>
-      <actor>Dwayne Johnson</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129195000 -0500" stop="20250129220000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Live: Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Atlas vs. Monterrey</sub-title>
-    <desc lang="en">Jornada 4 del Torneo Clausura 2025 de la Liga MX. Atlas recibe a Monterrey en el estadio Jalisco, en Guadalajara, Jalisco. Encuentro disputado el 29 de enero de 2025.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20250129220000 -0500" stop="20250130000500 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Live: Fútbol Mexicano Primera División</title>
-    <sub-title lang="en">Pumas UNAM vs. Toluca</sub-title>
-    <desc lang="en">Jornada 4 del Torneo Clausura 2025 de la Liga MX. Pumas UNAM recibe a Toluca en el Estadio Olímpico Universitario, en Ciudad de México. Encuentro disputado el 29 de enero de 2025.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20250130000500 -0500" stop="20250130010000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Lalola</title>
-    <desc lang="en">La historia de Lalo, un hombre exitoso que cree que puede utilizar a las mujeres para satisfacer su ego, pero tras romperle el corazón a Romina, es convertido en una mujer, luego que ella acude a una bruja para que le de una lección.</desc>
-    <credits>
-      <actor>Bárbara de Regil</actor>
-      <actor>Alejandro de la Madrid</actor>
-      <actor>Alexis Ayala</actor>
-    </credits>
-    <category lang="en">Soaps</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130010000 -0500" stop="20250130013000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250130013000 -0500" stop="20250130020000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250130020000 -0500" stop="20250130023000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130023000 -0500" stop="20250130030000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130030000 -0500" stop="20250130033000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130033000 -0500" stop="20250130040000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130040000 -0500" stop="20250130043000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Crónicas</title>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130043000 -0500" stop="20250130050000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Crónicas</title>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130050000 -0500" stop="20250130053000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250130053000 -0500" stop="20250130060000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
-    <title lang="en">Especial de R.T.C.</title>
-    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
-    <category lang="en">Regular</category>
-    <previously-shown />
-  </programme>
   <programme start="20250130060000 -0500" stop="20250130063000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
     <title lang="en">Inova</title>
     <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
@@ -48682,6 +48118,248 @@ En Vivo</title>
     <previously-shown />
   </programme>
   <programme start="20250202050000 -0500" stop="20250202053000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250202053000 -0500" stop="20250202060000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Especial de R.T.C.</title>
+    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250202060000 -0500" stop="20250202063000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Crónicas</title>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250202063000 -0500" stop="20250202070000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250202070000 -0500" stop="20250202083000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Las aventuras de Kid Danger</title>
+    <desc lang="en">Henry Hart parece un niño corriente, pero en realidad es un superhéroe en prácticas que ayuda al Capitán Man a combatir contra malhechores y villanos. Sin embargo, ni sus amigos Charlotte y Jasper ni su hermanita Piper pueden descubrir su secreto.</desc>
+    <credits>
+      <actor>Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Michael D. Cohen</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20250202083000 -0500" stop="20250202103000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Side Hustle, una tarea complicada</title>
+    <desc lang="en">Después de haber incendiado accidentalmente el bote del director, Lex, Presley y Munchy aceptarán cualquier empleo, por muy humillante que sea, para pagar la deuda que contrajeron.</desc>
+    <credits>
+      <actor>Annie LeBlanc</actor>
+      <actor>Jayden Bartels</actor>
+      <actor>Mitchell Berg</actor>
+    </credits>
+    <category lang="en">Children</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202103000 -0500" stop="20250202123000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Todo eso</title>
+    <desc lang="en">Una nueva versión de la serie "All That", la cual comenzó en 1994 y terminó en 2005. El novedoso programa regresa con una nueva generación de jóvenes actores cómicos.</desc>
+    <credits>
+      <actor>Ryan Alessi</actor>
+      <actor>Reece Caddell</actor>
+      <actor>Kate Godfrey</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Children</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250202123000 -0500" stop="20250202140000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Doogal: Aventuras peludas</title>
+    <desc lang="en">Una jovencita y sus amigos deben evitar que un malvado brujo inicie otra era de hielo. Basada en la serie de TV.</desc>
+    <credits>
+      <actor>Daniel Tay</actor>
+      <actor>Jon Stewart</actor>
+      <actor>Whoopi Goldberg</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202140000 -0500" stop="20250202153000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Alpha y Omega</title>
+    <desc lang="en">Después de que los oficiales del parque los trasladan a otra parte del país, un lobo despreocupado y su compañera deben encontrar la forma de regresar a su casa y evitar una guerra.</desc>
+    <credits>
+      <actor>Justin Long</actor>
+      <actor>Hayden Panettiere</actor>
+      <actor>Christina Ricci</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202153000 -0500" stop="20250202180000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">Godzilla, Rey de los Monstruos, surge para combatir a enemigos enormes y malos que se han estado alimentando con los reactores de una planta nuclear y ahora amenazan a la humanidad con aniquilarla.</desc>
+    <credits>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Elizabeth Olsen</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202180000 -0500" stop="20250202204500 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Parque Jurásico 2: El mundo perdido</title>
+    <desc lang="en">Cuatro años después del desastre en el Parque Jurásico, Ian Malcolm llega a una isla situada en Costa Rica donde los dinosaurios, modificados genéticamente, viven y se reproducen en libertad.</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202204500 -0500" stop="20250202224500 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Jurassic Park 3</title>
+    <desc lang="en">El doctor Alan Grant, un experto paleontólogo, queda atrapado junto a un equipo de investigación en una isla poblada por dinosaurios. El grupo intenta salir con vida, pero no será sencillo.</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>William H. Macy</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250202224500 -0500" stop="20250203010000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">La leyenda de Tarzán</title>
+    <desc lang="en">Muchos años después de haber dejado África, Tarzán regresa al Congo para servir como un emisario comercial, sin saber que en realidad es un peón del malévolo plan que ha trazado un capitán belga.</desc>
+    <credits>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Samuel L. Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250203010000 -0500" stop="20250203013000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203013000 -0500" stop="20250203020000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203020000 -0500" stop="20250203023000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203023000 -0500" stop="20250203030000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250203030000 -0500" stop="20250203033000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203033000 -0500" stop="20250203040000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203040000 -0500" stop="20250203043000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Tuvalu</title>
+    <desc lang="en">Llamado Islas Ellice hasta 1978, Tuvalu es un país insular de Oceanía integrado dentro de la Polinesia.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Travel</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203043000 -0500" stop="20250203050000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
+    <title lang="en">Crónicas</title>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250203050000 -0500" stop="20250203053000 -0500" channel="Canal.5.(XHBR5).Nuevo.Laredo,.Mexico.us">
     <title lang="en">CV directo</title>
     <desc lang="en">Venta de productos de todo tipo.</desc>
     <category lang="en">Paid Program</category>
