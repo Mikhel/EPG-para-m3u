@@ -34,7 +34,7 @@ jobs:
           git add EPG/PLUTO/*.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
           git add EPG/PLUTO/*.m3u  # Asegúrate de que coincida con los nombres de los archivos descargados
           git add EPG/*.json  # Asegúrate de que coincida con los nombres de los archivos descargados
-          git add EPG/*.xml  # Asegúrate de que coincida con los nombres de los archivos descargados
+          git add EPG/*.xml.gz  # Asegúrate de que coincida con los nombres de los archivos descargados
           git commit -m "Add/update EPG data" || echo "No changes to commit"
           git push
         env:
