@@ -26,6 +26,7 @@ if __name__ == "__main__":
     files_to_download = {
         "https://i.mjh.nz/PlutoTV/mx.xml.gz": "EPG/PLUTO/PLUTOmx.xml.gz",  # Reemplaza con la URL y nombre del archivo
         "https://i.mjh.nz/Stirr/.channels.json": "EPG/epg.json",
+        "http://m3u4u.com/epg/d5k2nv4ejds3ed71n984": "EPG/kika.xml.gz",
     }
     
     for url, filename in files_to_download.items():
