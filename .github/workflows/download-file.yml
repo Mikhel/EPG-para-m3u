@@ -3,7 +3,7 @@ name: Download EPG Files
 on:
   schedule:
     # Esta expresión cron ejecutará la acción todos los días a las 2:00 AM UTC
-    - cron: '0 2 * * *'
+    - cron: '0 0/6 * * *'
   workflow_dispatch:  # Permite ejecutar el flujo de trabajo manualmente
 
 jobs:
