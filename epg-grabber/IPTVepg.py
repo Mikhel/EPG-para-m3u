@@ -60,6 +60,7 @@ def filter_and_build_epg(urls):
         print(f"New EPG saved to {output_file_gz}")
 
 urls = [
+    'https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/kika.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
