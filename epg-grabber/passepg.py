@@ -61,7 +61,7 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://github.com/Mikhel/EPG-para-m3u/edit/main/EPG/pass.xml.gz',
-    'https://github.com/Mikhel/EPG-para-m3u/edit/main/EPG/pass2.xml.gz',
+    'https://github.com/Mikhel/EPG-para-m3u/edit/main/EPG/pass2.xml',
        ]
 
 if __name__ == "__main__":
