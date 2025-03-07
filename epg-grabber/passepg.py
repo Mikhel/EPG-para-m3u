@@ -61,6 +61,8 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://github.com/Mikhel/EPG-para-m3u/edit/main/EPG/tvpass.xml',
+    "https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/tvpass.xml"
+    "https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/pass2.xml"
     'https://github.com/Mikhel/EPG-para-m3u/edit/main/EPG/pass2.xml',
        ]
 
