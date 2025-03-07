@@ -60,7 +60,7 @@ def filter_and_build_epg(urls):
         print(f"New EPG saved to {output_file_gz}")
 
 urls = [
-    "http://m3u4u.com/xml/4z2xnj7kxza24gxmyv15"
+    "https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/tvpass.xml"
        ]
 
 if __name__ == "__main__":
