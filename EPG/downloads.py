@@ -28,7 +28,6 @@ if __name__ == "__main__":
         "https://i.mjh.nz/Stirr/.channels.json": "EPG/epg.json",
         "http://m3u4u.com/epg/d5k2nv4ejds3ed71n984": "EPG/kika.xml.gz",
         "https://m3u4u.com/epg/4z2xnj7kxza24gxmyv15": "EPG/tvpass.xml.gz",
-        "https://m3u4u.com/xml/4z2xnj7kxza24gxmyv15": "EPG/tvpass.xml",
         "https://tvpass.org/epg.xml": "EPG/pass2.xml",
 
     }
