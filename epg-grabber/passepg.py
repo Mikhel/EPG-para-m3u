@@ -62,6 +62,9 @@ def filter_and_build_epg(urls):
 urls = [
     'https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/tvpass.xml.gz',
     'https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/pass2.xml',
+    'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
        ]
 
 if __name__ == "__main__":
