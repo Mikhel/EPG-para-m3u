@@ -775,11 +775,17 @@
         <title lang="en">Beisbol LMP</title>
         <desc lang="en">Beisbol LMP</desc>
     </programme>
-    <channel id="TSN3.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
+    <channel id="TSN1.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN3</display-name>
+    <display-name lang="en">TSN1</display-name>
+  </channel>
+  <channel id="TSN2.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN2</display-name>
   </channel>
   <channel id="Sportsnet.(West).-.Satellite/Digital.HD.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s70398_h15_ab.png" />
@@ -793,35 +799,29 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Sportsnet (West) - Satellite/Digital</display-name>
   </channel>
-  <channel id="TSN1.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN1</display-name>
-  </channel>
   <channel id="TSN4.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TSN4</display-name>
   </channel>
-  <channel id="Sportsnet.360.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s20203_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s20203_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Sportsnet 360</display-name>
-  </channel>
-  <channel id="TSN2.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN2</display-name>
-  </channel>
   <channel id="Sportsnet.(Pacific).-.Satellite/Digital.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18801_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18801_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Sportsnet (Pacific) - Satellite/Digital</display-name>
+  </channel>
+  <channel id="TSN3.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN3</display-name>
+  </channel>
+  <channel id="Sportsnet.360.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s20203_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s20203_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Sportsnet 360</display-name>
   </channel>
   <programme channel="TSN3.ca" start="20250309060000 -0400" stop="20250309070000 -0400">
     <title lang="en">SportsCentre</title>
