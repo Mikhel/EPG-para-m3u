@@ -11,7 +11,7 @@ https://jmp2.uk/sam-ES2600004BD.m3u8
 https://jmp2.uk/sam-ESBC40000248.m3u8
 #EXTINF:-1 channel-id="ES300034BT" tvg-id="ES300034BT" tvg-chno="4552" tvg-name="Actualidad 360" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png" group-title="Noticias", Actualidad 360
 https://jmp2.uk/sam-ES300034BT.m3u8
-#EXTINF:-1 channel-id="ES500005BP" tvg-id="ES500005BP" tvg-chno="4242" tvg-name="Águila Roja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250307T152232SQUARE.png" group-title="Serie", Águila Roja
+#EXTINF:-1 channel-id="ES500005BP" tvg-id="ES500005BP" tvg-chno="4242" tvg-name="Águila Roja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250408T021749SQUARE.png" group-title="Serie", Águila Roja
 https://jmp2.uk/sam-ES500005BP.m3u8
 #EXTINF:-1 channel-id="ES300029LP" tvg-id="ES300029LP" tvg-chno="4190" tvg-name="Anime Visión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Entretenimiento", Anime Visión
 https://jmp2.uk/sam-ES300029LP.m3u8
@@ -119,6 +119,8 @@ https://jmp2.uk/sam-ES300031A5.m3u8
 https://jmp2.uk/sam-ESBC27000040I.m3u8
 #EXTINF:-1 channel-id="ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-chno="4925" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20241022T050538SQUARE.png" group-title="Cine", Grjngo - Películas Del Oeste
 https://jmp2.uk/sam-ESBC2700002LO.m3u8
+#EXTINF:-1 channel-id="ES500002NY" tvg-id="ES500002NY" tvg-chno="4216" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png" group-title="Entretenimiento", H2O & Friends
+https://jmp2.uk/sam-ES500002NY.m3u8
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="4416" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 channel-id="ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-chno="4225" tvg-name="Hoguera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20250218T035942SQUARE.png" group-title="Entretenimiento", Hoguera
@@ -195,6 +197,16 @@ https://jmp2.uk/sam-ESBD2300003S5.m3u8
 https://jmp2.uk/sam-ES2600008NX.m3u8
 #EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="4420" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
+#EXTINF:-1 channel-id="ES33000079W" tvg-id="ES33000079W" tvg-chno="4291" tvg-name="RTVE Crimen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20250408T021801SQUARE.png" group-title="Crimen", RTVE Crimen
+https://jmp2.uk/sam-ES33000079W.m3u8
+#EXTINF:-1 channel-id="ES33000036Q" tvg-id="ES33000036Q" tvg-chno="4412" tvg-name="RTVE Docs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20250408T021804SQUARE.png" group-title="Documentales", RTVE Docs
+https://jmp2.uk/sam-ES33000036Q.m3u8
+#EXTINF:-1 channel-id="ES3300006QL" tvg-id="ES3300006QL" tvg-chno="4235" tvg-name="RTVE Época" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250408T021813SQUARE.png" group-title="Serie", RTVE Época
+https://jmp2.uk/sam-ES3300006QL.m3u8
+#EXTINF:-1 channel-id="ES3300004P0" tvg-id="ES3300004P0" tvg-chno="4106" tvg-name="RTVE Saber y Ganar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250408T021807SQUARE.png" group-title="Entretenimiento", RTVE Saber y Ganar
+https://jmp2.uk/sam-ES3300004P0.m3u8
+#EXTINF:-1 channel-id="ES33000058B" tvg-id="ES33000058B" tvg-chno="4866" tvg-name="RTVE Somos Cine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250408T021810SQUARE.png" group-title="Cine", RTVE Somos Cine
+https://jmp2.uk/sam-ES33000058B.m3u8
 #EXTINF:-1 channel-id="ESBA33000324U" tvg-id="ESBA33000324U" tvg-chno="4809" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Niños", Rugrats
 https://jmp2.uk/sam-ESBA33000324U.m3u8
 #EXTINF:-1 channel-id="ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-chno="4876" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png" group-title="Cine", Runtime
@@ -207,6 +219,8 @@ https://jmp2.uk/sam-ESBD8000033W.m3u8
 https://jmp2.uk/sam-ES700004C8.m3u8
 #EXTINF:-1 channel-id="ESBD800004KU" tvg-id="ESBD800004KU" tvg-chno="4886" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20250307T152211SQUARE.png" group-title="Cine", Runtime Romance
 https://jmp2.uk/sam-ESBD800004KU.m3u8
+#EXTINF:-1 channel-id="ES500004NO" tvg-id="ES500004NO" tvg-chno="4948" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png" group-title="Cine", Sci-Fi - Rakuten TV
+https://jmp2.uk/sam-ES500004NO.m3u8
 #EXTINF:-1 channel-id="ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-chno="4740" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Música", Sol Música
 https://jmp2.uk/sam-ESBD2300004Y7.m3u8
 #EXTINF:-1 channel-id="ES300003D4" tvg-id="ES300003D4" tvg-chno="4251" tvg-name="Sony One Éxitos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" group-title="Serie", Sony One Éxitos
@@ -241,8 +255,8 @@ https://jmp2.uk/sam-ESBD2600001ME.m3u8
 https://jmp2.uk/sam-ESAJ4500016BH.m3u8
 #EXTINF:-1 channel-id="ESBC43000013T" tvg-id="ESBC43000013T" tvg-chno="4265" tvg-name="Todo Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png" group-title="Telenovela", Todo Novelas
 https://jmp2.uk/sam-ESBC43000013T.m3u8
-#EXTINF:-1 channel-id="ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-chno="4656" tvg-name="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20241022T051126SQUARE.png" group-title="Deporte", Top Gear en Español
-https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
+#EXTINF:-1 channel-id="ES2700002YP" tvg-id="ES2700002YP" tvg-chno="4656" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250408T021820SQUARE.png" group-title="Deporte", Top Gear
+https://jmp2.uk/sam-ES2700002YP.m3u8
 #EXTINF:-1 channel-id="ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-chno="4694" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="Música", Trace Latina
 https://jmp2.uk/sam-ESBA3300042Y6.m3u8
 #EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="Música", Trace Urban
@@ -267,5 +281,5 @@ https://jmp2.uk/sam-ESBC170000388.m3u8
 https://jmp2.uk/sam-ESBA330004121.m3u8
 #EXTINF:-1 channel-id="ESBD2900001P9" tvg-id="ESBD2900001P9" tvg-chno="4673" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png" group-title="Deporte", World Poker Tour
 https://jmp2.uk/sam-ESBD2900001P9.m3u8
-#EXTINF:-1 channel-id="ESBA1400007MR" tvg-id="ESBA1400007MR" tvg-chno="4186" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20241106T142210SQUARE.png" group-title="Entretenimiento", Yu-Gi-Oh!
-https://jmp2.uk/sam-ESBA1400007MR.m3u8
+#EXTINF:-1 channel-id="ES7000056Z" tvg-id="ES7000056Z" tvg-chno="4186" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png" group-title="Entretenimiento", Yu-Gi-Oh!
+https://jmp2.uk/sam-ES7000056Z.m3u8
