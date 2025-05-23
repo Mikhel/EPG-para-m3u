@@ -36,7 +36,7 @@ if __name__ == "__main__":
       "https://tinyurl.com/multilista?region=mx&service=PlutoTV": "M3U/PLUTO/mx.m3u",
       "https://tinyurl.com/multilista?region=es&service=PlutoTV": "M3U/PLUTO/es.m3u",
       "https://tinyurl.com/multilista?region=all&service=Stirr": "M3U/STIR/all.m3u",
-      "https://tinyurl.com/multilista?region=all&service=Roku": "M3U/ROK/all.m3u",
+      "https://tinyurl.com/multilista?region=all&service=Plex": "M3U/ROK/plexall.m3u",
    }
     
     for url, filename in files_to_download.items():
