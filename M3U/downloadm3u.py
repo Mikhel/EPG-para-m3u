@@ -24,19 +24,21 @@ def download_file(url, filename):
 
 if __name__ == "__main__":
     files_to_download = {
-      "https://tinyurl.com/multilista?region=all&service=SamsungTVPlus": "M3U/SAM/samall.m3u",  # Reemplaza con la URL y nombre del archivo
-      "https://tinyurl.com/multilista?region=us&service=SamsungTVPlus": "M3U/SAM/samus.m3u",
-      "https://tinyurl.com/multilista?region=ca&service=SamsungTVPlus": "M3U/SAM/samca.m3u",
-      "https://tinyurl.com/multilista?region=gb&service=SamsungTVPlus": "M3U/SAM/samgb.m3u",
-      "https://tinyurl.com/multilista?region=es&service=SamsungTVPlus": "M3U/SAM/sames.m3u",
-      "https://tinyurl.com/multilista?region=all&service=PlutoTV": "M3U/PLUTO/all.m3u",
-      "https://tinyurl.com/multilista?region=us&service=PlutoTV": "M3U/PLUTO/us.m3u",
-      "https://tinyurl.com/multilista?region=ca&service=PlutoTV": "M3U/PLUTO/ca.m3u",
-      "https://tinyurl.com/multilista?region=gb&service=PlutoTV": "M3U/PLUTO/gb.m3u",
-      "https://tinyurl.com/multilista?region=mx&service=PlutoTV": "M3U/PLUTO/mx.m3u",
-      "https://tinyurl.com/multilista?region=es&service=PlutoTV": "M3U/PLUTO/es.m3u",
-      "https://tinyurl.com/multilista?region=all&service=Stirr": "M3U/STIR/all.m3u",
-      "https://tinyurl.com/multilista?region=all&service=Plex": "M3U/ROK/plexall.m3u",
+      "https://tinyurl.com/miklist?region=all&service=SamsungTVPlus": "M3U/SAM/samall.m3u",  # Reemplaza con la URL y nombre del archivo
+      "https://tinyurl.com/miklist?region=us&service=SamsungTVPlus": "M3U/SAM/samus.m3u",
+      "https://tinyurl.com/miklist?region=ca&service=SamsungTVPlus": "M3U/SAM/samca.m3u",
+      "https://tinyurl.com/miklist?region=gb&service=SamsungTVPlus": "M3U/SAM/samgb.m3u",
+      "https://tinyurl.com/miklist?region=es&service=SamsungTVPlus": "M3U/SAM/sames.m3u",
+      "https://tinyurl.com/miklist?region=all&service=PlutoTV": "M3U/PLUTO/all.m3u",
+      "https://tinyurl.com/miklist?region=us&service=PlutoTV": "M3U/PLUTO/us.m3u",
+      "https://tinyurl.com/miklist?region=ca&service=PlutoTV": "M3U/PLUTO/ca.m3u",
+      "https://tinyurl.com/miklist?region=gb&service=PlutoTV": "M3U/PLUTO/gb.m3u",
+      "https://tinyurl.com/miklist?region=mx&service=PlutoTV": "M3U/PLUTO/mx.m3u",
+      "https://tinyurl.com/miklist?region=es&service=PlutoTV": "M3U/PLUTO/es.m3u",
+      "https://tinyurl.com/miklist?region=all&service=Stirr": "M3U/STIR/all.m3u",
+      "https://tinyurl.com/miklist?region=all&service=Roku": "M3U/ROK/rokall.m3u",
+      "https://tinyurl.com/miklist?region=all&service=Tubi": "M3U/ROK/tubiall.m3u",
+      "https://tinyurl.com/miklist?region=mx&service=Plex": "M3U/ROK/plexmx.m3u",
    }
     
     for url, filename in files_to_download.items():
