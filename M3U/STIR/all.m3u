@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Stirr/all.xml.gz"
+#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name=" FOX45 WBFF Baltimore - Free Live Local News Stream" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350870gmiUn4zU2k-632x395-DPxYBp1Y.png" group-title="News Live, STIRR Cities",  FOX45 WBFF Baltimore - Free Live Local News Stream
+https://jmp2.uk/str-6489.m3u8
 #EXTINF:-1 channel-id="6513" tvg-id="6513" tvg-chno="924" tvg-name="10 NBC WJAR - (Providence, RI*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351091BkRmYuNTOi-632x395-Xc06SyPK.png" group-title="News Live, STIRR Cities", 10 NBC WJAR - (Providence, RI*)
 https://jmp2.uk/str-6513.m3u8
 #EXTINF:-1 channel-id="5734" tvg-id="5734" tvg-chno="760" tvg-name="4K Travel TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-632x395-I5f7f5UE.png" group-title="Travel Live", 4K Travel TV
@@ -29,8 +31,6 @@ https://jmp2.uk/str-6701.m3u8
 https://jmp2.uk/str-5721.m3u8
 #EXTINF:-1 channel-id="5289" tvg-id="5289" tvg-chno="600" tvg-name="AWE plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-632x395-hZUZLeO1.png" group-title="Entertainment Live", AWE plus
 https://jmp2.uk/str-5289.m3u8
-#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name="Baltimore News: Breaking, Weather & Sports | FOX 45" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350870gmiUn4zU2k-632x395-DPxYBp1Y.png" group-title="News Live, STIRR Cities", Baltimore News: Breaking, Weather & Sports | FOX 45
-https://jmp2.uk/str-6489.m3u8
 #EXTINF:-1 channel-id="6583" tvg-id="6583" tvg-chno="751" tvg-name="Bright Side" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757436mpMRHiHf9j-632x395-VnZS4Iyz.png" group-title="Entertainment Live", Bright Side
 https://jmp2.uk/str-6583.m3u8
 #EXTINF:-1 channel-id="6503" tvg-id="6503" tvg-chno="919" tvg-name="CBS 12 - WPEC - (West Palm Beach, FL*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351000z16Rpq428D-632x395-ao3xUbKv.png" group-title="News Live, STIRR Cities", CBS 12 - WPEC - (West Palm Beach, FL*)
@@ -41,7 +41,7 @@ https://jmp2.uk/str-6491.m3u8
 https://jmp2.uk/str-6509.m3u8
 #EXTINF:-1 channel-id="6523" tvg-id="6523" tvg-chno="929" tvg-name="CBS 4 News - KDBC - (El Paso, TX*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351176pv0jJkHwNT-632x395-6aFUJ4Fz.png" group-title="News Live, STIRR Cities", CBS 4 News - KDBC - (El Paso, TX*)
 https://jmp2.uk/str-6523.m3u8
-#EXTINF:-1 channel-id="6497" tvg-id="6497" tvg-chno="916" tvg-name="CBS Austin - KEYE - (Austin, TX*)	" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350953FSs2yv1VEZ-632x395-SHHVMC7p.png" group-title="News Live, STIRR Cities", CBS Austin - KEYE - (Austin, TX*)	
+#EXTINF:-1 channel-id="6497" tvg-id="6497" tvg-chno="916" tvg-name="CBS Austin - KEYE - (Austin, TX*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350953FSs2yv1VEZ-632x395-SHHVMC7p.png" group-title="News Live, STIRR Cities", CBS Austin - KEYE - (Austin, TX*)
 https://jmp2.uk/str-6497.m3u8
 #EXTINF:-1 channel-id="1072" tvg-id="1072" tvg-chno="320" tvg-name="Channel Fight" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-632x395-QdPPBYUX.jpeg" group-title="Sports Live", Channel Fight
 https://jmp2.uk/str-1072.m3u8
@@ -71,7 +71,7 @@ https://jmp2.uk/str-5309.m3u8
 https://jmp2.uk/str-5746.m3u8
 #EXTINF:-1 channel-id="5295" tvg-id="5295" tvg-chno="450" tvg-name="Equus TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-632x395-PEinLImR.png" group-title="Sports Live", Equus TV
 https://jmp2.uk/str-5295.m3u8
-#EXTINF:-1 channel-id="5716" tvg-id="5716" tvg-chno="205" tvg-name="EuroNews" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/171260816144iEUqMsLC-632x395-QbbvYd3B.png" group-title="News Live", EuroNews
+#EXTINF:-1 channel-id="5716" tvg-id="5716" tvg-chno="205" tvg-name="EuroNews - Watch Now Free" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/171260816144iEUqMsLC-632x395-QbbvYd3B.png" group-title="News Live", EuroNews - Watch Now Free
 https://jmp2.uk/str-5716.m3u8
 #EXTINF:-1 channel-id="1549" tvg-id="1549" tvg-chno="410" tvg-name="Extreme+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-632x395-HQwMXivD.jpeg" group-title="Sports Live", Extreme+
 https://jmp2.uk/str-1549.m3u8
@@ -111,8 +111,6 @@ https://jmp2.uk/str-5302.m3u8
 https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 channel-id="6585" tvg-id="6585" tvg-chno="166" tvg-name="Imagine PlayWorld" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757569jCf6Kb1V2s-632x395-d5jixmcy.png" group-title="Entertainment Live", Imagine PlayWorld
 https://jmp2.uk/str-6585.m3u8
-#EXTINF:-1 channel-id="7039" tvg-id="7039" tvg-chno="163" tvg-name="INFAST" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/1747704743fLgwTXg8yo-632x395-Dl2knGbh.png" group-title="Entertainment Live", INFAST
-https://jmp2.uk/str-7039.m3u8
 #EXTINF:-1 channel-id="7041" tvg-id="7041" tvg-chno="161" tvg-name="INTROUBLE" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/1747705458IXtqjENYGU-632x395-TF6DFmxw.png" group-title="Entertainment Live", INTROUBLE
 https://jmp2.uk/str-7041.m3u8
 #EXTINF:-1 channel-id="7043" tvg-id="7043" tvg-chno="160" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" group-title="Documentary Series, Entertainment Live", INWILD
