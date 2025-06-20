@@ -65,7 +65,7 @@ https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 channel-id="5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="301" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Comedia", FailArmy
 https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
-#EXTINF:-1 channel-id="660c29f80cd4630008f1547c" tvg-id="660c29f80cd4630008f1547c" tvg-chno="556" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG.png" group-title="Deportes", FIFA+
+#EXTINF:-1 channel-id="660c29f80cd4630008f1547c" tvg-id="660c29f80cd4630008f1547c" tvg-chno="556" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png" group-title="Deportes", FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
 #EXTINF:-1 channel-id="66a0f64dd5125900089dec28" tvg-id="66a0f64dd5125900089dec28" tvg-chno="506" tvg-name="Heidi y Marco" tvg-logo="https://images.pluto.tv/channels/66a0f64dd5125900089dec28/colorLogoPNG.png" group-title="Infantil", Heidi y Marco
 https://jmp2.uk/plu-66a0f64dd5125900089dec28.m3u8
@@ -185,6 +185,8 @@ https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 #EXTINF:-1 channel-id="5f1aab1d29b39600073e243f" tvg-id="5f1aab1d29b39600073e243f" tvg-chno="515" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Infantil", Pluto TV Kids
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:-1 channel-id="609e7e423e9173000706a681" tvg-id="609e7e423e9173000706a681" tvg-chno="513" tvg-name="Pluto TV Kids Classics" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Infantil", Pluto TV Kids Classics
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 channel-id="6228b6a38717420007375848" tvg-id="6228b6a38717420007375848" tvg-chno="512" tvg-name="Pluto TV Kids Ukraine" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="Infantil", Pluto TV Kids Ukraine
 https://jmp2.uk/plu-6228b6a38717420007375848.m3u8
 #EXTINF:-1 channel-id="67586a552fb8a100088f7703" tvg-id="67586a552fb8a100088f7703" tvg-chno="351" tvg-name="Pluto TV Miniseries" tvg-logo="https://images.pluto.tv/channels/67586a552fb8a100088f7703/colorLogoPNG.png" group-title="Multiseries", Pluto TV Miniseries
@@ -217,8 +219,6 @@ https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1 channel-id="5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="207" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Cine", Pluto TV Thrillers
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:-1 channel-id="609e7e423e9173000706a681" tvg-id="609e7e423e9173000706a681" tvg-chno="513" tvg-name="Pluto TV Toons Clásico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Infantil", Pluto TV Toons Clásico
-https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 channel-id="64a3f200f238ce0008d47247" tvg-id="64a3f200f238ce0008d47247" tvg-chno="254" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" group-title="Crimen y Misterio", Pluto TV True Crime
 https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
 #EXTINF:-1 channel-id="6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-chno="217" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Cine", Pluto TV Western
@@ -239,7 +239,7 @@ https://jmp2.uk/plu-6745f0643a61d40008a61510.m3u8
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 channel-id="6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-chno="213" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Cine", Runtime
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
-#EXTINF:-1 channel-id="676e7b4a4bd636000819c6a7" tvg-id="676e7b4a4bd636000819c6a7" tvg-chno="209" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Cine", SensaCine TV x Pluto
+#EXTINF:-1 channel-id="676e7b4a4bd636000819c6a7" tvg-id="676e7b4a4bd636000819c6a7" tvg-chno="21" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Nuevo en Pluto TV", SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 channel-id="6578836cdfed030008ce5bdb" tvg-id="6578836cdfed030008ce5bdb" tvg-chno="154" tvg-name="Sí quiero ese vestido" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="Entretenimiento", Sí quiero ese vestido
 https://jmp2.uk/plu-6578836cdfed030008ce5bdb.m3u8
@@ -249,7 +249,7 @@ https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 channel-id="65787ed36e4f6a000873ff40" tvg-id="65787ed36e4f6a000873ff40" tvg-chno="123" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65787ed36e4f6a000873ff40/colorLogoPNG.png" group-title="Ciencia Ficción", Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65787ed36e4f6a000873ff40.m3u8
-#EXTINF:-1 channel-id="65786b94cbd0d60008f7e4d9" tvg-id="65786b94cbd0d60008f7e4d9" tvg-chno="121" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG.png" group-title="Ciencia Ficción", Star Trek: The Next Generation
+#EXTINF:-1 channel-id="65786b94cbd0d60008f7e4d9" tvg-id="65786b94cbd0d60008f7e4d9" tvg-chno="121" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1750061298762.png" group-title="Ciencia Ficción", Star Trek: The Next Generation
 https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 #EXTINF:-1 channel-id="65787f2eb228b7000843fa5c" tvg-id="65787f2eb228b7000843fa5c" tvg-chno="122" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Ciencia Ficción", Star Trek: Voyager
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
