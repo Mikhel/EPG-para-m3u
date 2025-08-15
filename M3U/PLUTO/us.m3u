@@ -65,6 +65,8 @@ https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1 channel-id="5f4d83e0a382c00007bc02e7" tvg-id="5f4d83e0a382c00007bc02e7" tvg-chno="1150" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Drama", Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+#EXTINF:-1 channel-id="687ff00ff6bc08130f16ab81" tvg-id="687ff00ff6bc08130f16ab81" tvg-chno="2435" tvg-name="Beyond the Gates" tvg-logo="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png" group-title="Daytime TV", Beyond the Gates
+https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 channel-id="666cc97764aca60008c31cd7" tvg-id="666cc97764aca60008c31cd7" tvg-chno="1855" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/666cc97764aca60008c31cd7/colorLogoPNG.png" group-title="Big Brother Live", Big Brother
 https://jmp2.uk/plu-666cc97764aca60008c31cd7.m3u8
 #EXTINF:-1 channel-id="6661f11a41af6400080e90d8" tvg-id="6661f11a41af6400080e90d8" tvg-chno="1940" tvg-name="Big Brother" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="Competition Reality", Big Brother
@@ -117,8 +119,6 @@ https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
 #EXTINF:-1 channel-id="5eb1afb21486df0007abc57c" tvg-id="5eb1afb21486df0007abc57c" tvg-chno="5080" tvg-name="CBS News Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="Local News", CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
-#EXTINF:-1 channel-id="62cdc7c2a3e6270007f3f2f3" tvg-id="62cdc7c2a3e6270007f3f2f3" tvg-chno="2570" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png" group-title="News + Opinion", CBS News Boston
-https://jmp2.uk/plu-62cdc7c2a3e6270007f3f2f3.m3u8
 #EXTINF:-1 channel-id="5eb1af2ad345340008fccd1e" tvg-id="5eb1af2ad345340008fccd1e" tvg-chno="5090" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="Local News", CBS News Boston
 https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
 #EXTINF:-1 channel-id="5eb1aeb2fd4b8a00076c2047" tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-chno="5120" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="Local News", CBS News Chicago
@@ -133,6 +133,8 @@ https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
 #EXTINF:-1 channel-id="60fb299b79498900070b29e0" tvg-id="60fb299b79498900070b29e0" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="Local News", CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
+#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="2570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" group-title="News + Opinion", CBS News Miami
+https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 channel-id="5eb1b0bf2240d8000732a09c" tvg-id="5eb1b0bf2240d8000732a09c" tvg-chno="5170" tvg-name="CBS News Minnesota" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="Local News", CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 channel-id="5dc9b8223687ff000936ed79" tvg-id="5dc9b8223687ff000936ed79" tvg-chno="2550" tvg-name="CBS News New York" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" group-title="News + Opinion", CBS News New York
@@ -183,11 +185,11 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 channel-id="5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-chno="4680" tvg-name="CMT Equal Play" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music Videos", CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
-#EXTINF:-1 channel-id="5421f71da6af422839419cb3" tvg-id="5421f71da6af422839419cb3" tvg-chno="2533" tvg-name="CNN HEADLINES" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="News + Opinion", CNN HEADLINES
+#EXTINF:-1 channel-id="5421f71da6af422839419cb3" tvg-id="5421f71da6af422839419cb3" tvg-chno="2533" tvg-name="CNN HEADLINES" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png" group-title="News + Opinion", CNN HEADLINES
 https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
-#EXTINF:-1 channel-id="66e0b4536ad04d0008fff4b2" tvg-id="66e0b4536ad04d0008fff4b2" tvg-chno="3097" tvg-name="CNN Originals" tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG.png" group-title="History + Science", CNN Originals
+#EXTINF:-1 channel-id="66e0b4536ad04d0008fff4b2" tvg-id="66e0b4536ad04d0008fff4b2" tvg-chno="3097" tvg-name="CNN Originals" tvg-logo="https://images.pluto.tv/channels/66e0b4536ad04d0008fff4b2/colorLogoPNG_1755018282136.png" group-title="History + Science", CNN Originals
 https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
-#EXTINF:-1 channel-id="673248f9030a2c0008033af8" tvg-id="673248f9030a2c0008033af8" tvg-chno="4525" tvg-name="CNN XPRESS" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG.png" group-title="En Español", CNN XPRESS
+#EXTINF:-1 channel-id="673248f9030a2c0008033af8" tvg-id="673248f9030a2c0008033af8" tvg-chno="4525" tvg-name="CNN XPRESS" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" group-title="En Español", CNN XPRESS
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
 #EXTINF:-1 channel-id="5c37d6712de254456f7ec340" tvg-id="5c37d6712de254456f7ec340" tvg-chno="1290" tvg-name="Cold Case Files by A&E" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="True Crime", Cold Case Files by A&E
 https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8
@@ -557,6 +559,8 @@ https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 channel-id="63b48016d9dd51000828fa37" tvg-id="63b48016d9dd51000828fa37" tvg-chno="2990" tvg-name="POWERNATION" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="Sports", POWERNATION
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
+#EXTINF:-1 channel-id="68757c60552299d2b080eab6" tvg-id="68757c60552299d2b080eab6" tvg-chno="1876" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png" group-title="Competition Reality", Project Runway
+https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 #EXTINF:-1 channel-id="5bdcdf1e851dd5632e2c11d1" tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-chno="2500" tvg-name="QVC" tvg-logo="https://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" group-title="Daytime TV", QVC
 https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
 #EXTINF:-1 channel-id="67817323dd7846fe546940dd" tvg-id="67817323dd7846fe546940dd" tvg-chno="2505" tvg-name="QVC2" tvg-logo="https://images.pluto.tv/channels/67817323dd7846fe546940dd/colorLogoPNG.png" group-title="Daytime TV", QVC2
@@ -763,6 +767,8 @@ https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 #EXTINF:-1 channel-id="5e8df4bc16e34700077e77d3" tvg-id="5e8df4bc16e34700077e77d3" tvg-chno="791" tvg-name="Western TV" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Westerns", Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+#EXTINF:-1 channel-id="686c2677ed17cf4c900a496d" tvg-id="686c2677ed17cf4c900a496d" tvg-chno="1487" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/686c2677ed17cf4c900a496d/colorLogoPNG_1755124512679.png" group-title="Reality", Wicked Tuna
+https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8
 #EXTINF:-1 channel-id="5d48678d34ceb37d3c458a55" tvg-id="5d48678d34ceb37d3c458a55" tvg-chno="380" tvg-name="Wild 'N Out" tvg-logo="https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Comedy", Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1 channel-id="6661f88f3d173b000845958c" tvg-id="6661f88f3d173b000845958c" tvg-chno="830" tvg-name="Wild West TV" tvg-logo="https://images.pluto.tv/channels/6661f88f3d173b000845958c/colorLogoPNG.png" group-title="Westerns", Wild West TV
