@@ -15663,56 +15663,6 @@ En Vivo</title>
 		<display-name>MLB - New York Yankees</display-name>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</channel>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920201000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920231000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Los Angeles Angels at Colorado Rockies</title>
-		<desc lang="en">Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20250920231000 -0400" stop="20250921000000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Los Angeles Angels at Colorado Rockies possible Extra Innings</title>
-		<desc lang="en">Los Angeles Angels at Colorado Rockies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
 	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-LosAngelesAngels.us">
 		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/21/2025 03:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/21/2025 03:10 PM (US/Eastern)</desc>
@@ -16084,78 +16034,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Seattle Mariners at Houston Astros</title>
-		<desc lang="en">Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Seattle Mariners at Houston Astros possible Extra Innings</title>
-		<desc lang="en">Seattle Mariners at Houston Astros possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921180000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20250921180000 -0400" stop="20250921190000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20250921130000 -0400" stop="20250921190000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -16491,71 +16391,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Toronto Blue Jays at Kansas City Royals</title>
-		<desc lang="en">Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Toronto Blue Jays at Kansas City Royals possible Extra Innings</title>
-		<desc lang="en">Toronto Blue Jays at Kansas City Royals possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -16898,71 +16755,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250920131000 -0400" stop="20250920161000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Atlanta Braves at Detroit Tigers</title>
-		<desc lang="en">Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250920161000 -0400" stop="20250920170000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Atlanta Braves at Detroit Tigers possible Extra Innings</title>
-		<desc lang="en">Atlanta Braves at Detroit Tigers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250920170000 -0400" stop="20250920180000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20250920180000 -0400" stop="20250921000000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20250921120000 -0400" stop="20250921134000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -17305,71 +17112,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920191500 -0400" stop="20250920221500 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Milwaukee Brewers at St. Louis Cardinals</title>
-		<desc lang="en">Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920221500 -0400" stop="20250920230000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Milwaukee Brewers at St. Louis Cardinals possible Extra Innings</title>
-		<desc lang="en">Milwaukee Brewers at St. Louis Cardinals possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141500 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20250921130000 -0400" stop="20250921141500 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -17705,71 +17469,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/20/2025 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/20/2025 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920191500 -0400" stop="20250920221500 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Milwaukee Brewers at St. Louis Cardinals</title>
-		<desc lang="en">Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920221500 -0400" stop="20250920230000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Milwaukee Brewers at St. Louis Cardinals possible Extra Innings</title>
-		<desc lang="en">Milwaukee Brewers at St. Louis Cardinals possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-St.LouisCardinals.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-St.LouisCardinals.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-St.LouisCardinals.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141500 -0400" channel="MLB-St.LouisCardinals.us">
+	<programme start="20250921130000 -0400" stop="20250921141500 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals at 09/21/2025 02:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Milwaukee Brewers at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/21/2025 02:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -18112,71 +17833,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920184000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920184000 -0400" stop="20250920214000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Chicago Cubs at Cincinnati Reds</title>
-		<desc lang="en">Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920214000 -0400" stop="20250920220000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Chicago Cubs at Cincinnati Reds possible Extra Innings</title>
-		<desc lang="en">Chicago Cubs at Cincinnati Reds possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920220000 -0400" stop="20250920230000 -0400" channel="MLB-ChicagoCubs.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-ChicagoCubs.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
 	</programme>
-	<programme start="20250920230000 -0400" stop="20250921050000 -0400" channel="MLB-ChicagoCubs.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-ChicagoCubs.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
 	</programme>
-	<programme start="20250921050000 -0400" stop="20250921110000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250921110000 -0400" stop="20250921134000 -0400" channel="MLB-ChicagoCubs.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-ChicagoCubs.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -18518,56 +18189,6 @@ En Vivo</title>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920201000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920231000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Philadelphia Phillies at Arizona Diamondbacks</title>
-		<desc lang="en">Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20250920231000 -0400" stop="20250921000000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Philadelphia Phillies at Arizona Diamondbacks possible Extra Innings</title>
-		<desc lang="en">Philadelphia Phillies at Arizona Diamondbacks possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
 	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-ArizonaDiamondbacks.us">
 		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/21/2025 04:10 PM (US/Eastern)</title>
@@ -18926,78 +18547,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920211000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250920211000 -0400" stop="20250921001000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">San Francisco Giants at Los Angeles Dodgers</title>
-		<desc lang="en">San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250921001000 -0400" stop="20250921010000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">San Francisco Giants at Los Angeles Dodgers possible Extra Innings</title>
-		<desc lang="en">San Francisco Giants at Los Angeles Dodgers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20250921010000 -0400" stop="20250921020000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20250921020000 -0400" stop="20250921080000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20250921080000 -0400" stop="20250921140000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20250921140000 -0400" stop="20250921161000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20250921130000 -0400" stop="20250921161000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -19340,78 +18911,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920211000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/20/2025 09:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/20/2025 09:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250920211000 -0400" stop="20250921001000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">San Francisco Giants at Los Angeles Dodgers</title>
-		<desc lang="en">San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250921001000 -0400" stop="20250921010000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">San Francisco Giants at Los Angeles Dodgers possible Extra Innings</title>
-		<desc lang="en">San Francisco Giants at Los Angeles Dodgers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20250921010000 -0400" stop="20250921020000 -0400" channel="MLB-SanFranciscoGiants.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20250921020000 -0400" stop="20250921080000 -0400" channel="MLB-SanFranciscoGiants.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20250921080000 -0400" stop="20250921140000 -0400" channel="MLB-SanFranciscoGiants.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20250921140000 -0400" stop="20250921161000 -0400" channel="MLB-SanFranciscoGiants.us">
+	<programme start="20250921130000 -0400" stop="20250921161000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Next game: San Francisco Giants at Los Angeles Dodgers at 09/21/2025 04:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Francisco Giants at Los Angeles Dodgers @ Dodger Stadium in Los Angeles on MLB.TV at 09/21/2025 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -19747,86 +19268,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920141000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920141000 -0400" stop="20250920201000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header)</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">6</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920210000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920210000 -0400" stop="20250920191000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250921011000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header)</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">6</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250921011000 -0400" stop="20250921020000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20250921020000 -0400" stop="20250921030000 -0400" channel="MLB-ClevelandGuardians.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-ClevelandGuardians.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250921030000 -0400" stop="20250921090000 -0400" channel="MLB-ClevelandGuardians.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-ClevelandGuardians.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250921090000 -0400" stop="20250921141000 -0400" channel="MLB-ClevelandGuardians.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
+	</programme>
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-ClevelandGuardians.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -20119,78 +19582,71 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250927220000 -0400" stop="20250927230000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Next game: Texas Rangers at Cleveland Guardians at 09/28/2025 03:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Texas Rangers at Cleveland Guardians @ Progressive Field in Cleveland on MLB.TV at 09/28/2025 03:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250927230000 -0400" stop="20250928050000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Next game: Texas Rangers at Cleveland Guardians at 09/28/2025 03:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Texas Rangers at Cleveland Guardians @ Progressive Field in Cleveland on MLB.TV at 09/28/2025 03:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250928050000 -0400" stop="20250928110000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Next game: Texas Rangers at Cleveland Guardians at 09/28/2025 03:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Texas Rangers at Cleveland Guardians @ Progressive Field in Cleveland on MLB.TV at 09/28/2025 03:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250928110000 -0400" stop="20250928151000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Next game: Texas Rangers at Cleveland Guardians at 09/28/2025 03:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Texas Rangers at Cleveland Guardians @ Progressive Field in Cleveland on MLB.TV at 09/28/2025 03:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Seattle Mariners at Houston Astros</title>
-		<desc lang="en">Seattle Mariners at Houston Astros @ Daikin Park in Houston on ERADM</desc>
+	<programme start="20250928151000 -0400" stop="20250928181000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Texas Rangers at Cleveland Guardians</title>
+		<desc lang="en">Texas Rangers at Cleveland Guardians @ Progressive Field in Cleveland on MLB.TV</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Seattle Mariners at Houston Astros possible Extra Innings</title>
-		<desc lang="en">Seattle Mariners at Houston Astros possible Extra Innings</desc>
+	<programme start="20250928181000 -0400" stop="20250928190000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Texas Rangers at Cleveland Guardians possible Extra Innings</title>
+		<desc lang="en">Texas Rangers at Cleveland Guardians possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921180000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20250921180000 -0400" stop="20250921190000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20250921130000 -0400" stop="20250921190000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Houston Astros at 09/21/2025 07:00 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Houston Astros @ Daikin Park in Houston on ESPN at 09/21/2025 07:00 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -20533,71 +19989,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Miami Marlins at Texas Rangers</title>
-		<desc lang="en">Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Miami Marlins at Texas Rangers possible Extra Innings</title>
-		<desc lang="en">Miami Marlins at Texas Rangers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-MiamiMarlins.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-MiamiMarlins.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-MiamiMarlins.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921143500 -0400" channel="MLB-MiamiMarlins.us">
+	<programme start="20250921130000 -0400" stop="20250921143500 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -20933,71 +20346,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920161000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920161000 -0400" stop="20250920191000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Washington Nationals at New York Mets</title>
-		<desc lang="en">Washington Nationals at New York Mets @ Citi Field in Queens on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920200000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Washington Nationals at New York Mets possible Extra Innings</title>
-		<desc lang="en">Washington Nationals at New York Mets possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250920200000 -0400" stop="20250920210000 -0400" channel="MLB-NewYorkMets.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-NewYorkMets.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20250920210000 -0400" stop="20250921030000 -0400" channel="MLB-NewYorkMets.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-NewYorkMets.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20250921030000 -0400" stop="20250921090000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20250921090000 -0400" stop="20250921134000 -0400" channel="MLB-NewYorkMets.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-NewYorkMets.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -21333,71 +20696,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920161000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/20/2025 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLBN at 09/20/2025 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920161000 -0400" stop="20250920191000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Washington Nationals at New York Mets</title>
-		<desc lang="en">Washington Nationals at New York Mets @ Citi Field in Queens on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920200000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Washington Nationals at New York Mets possible Extra Innings</title>
-		<desc lang="en">Washington Nationals at New York Mets possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250920200000 -0400" stop="20250920210000 -0400" channel="MLB-WashingtonNationals.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-WashingtonNationals.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20250920210000 -0400" stop="20250921030000 -0400" channel="MLB-WashingtonNationals.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-WashingtonNationals.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20250921030000 -0400" stop="20250921090000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20250921090000 -0400" stop="20250921134000 -0400" channel="MLB-WashingtonNationals.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-WashingtonNationals.us">
 		<title lang="en">Next game: Washington Nationals at New York Mets at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Washington Nationals at New York Mets @ Citi Field in Queens on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -21733,71 +21046,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">New York Yankees at Baltimore Orioles</title>
-		<desc lang="en">New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">New York Yankees at Baltimore Orioles possible Extra Innings</title>
-		<desc lang="en">New York Yankees at Baltimore Orioles possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-BaltimoreOrioles.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-BaltimoreOrioles.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-BaltimoreOrioles.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-BaltimoreOrioles.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20250921120000 -0400" stop="20250921133500 -0400" channel="MLB-BaltimoreOrioles.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-BaltimoreOrioles.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -22140,71 +21403,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">San Diego Padres at Chicago White Sox</title>
-		<desc lang="en">San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">San Diego Padres at Chicago White Sox possible Extra Innings</title>
-		<desc lang="en">San Diego Padres at Chicago White Sox possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-SanDiegoPadres.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-SanDiegoPadres.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-SanDiegoPadres.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141000 -0400" channel="MLB-SanDiegoPadres.us">
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -22539,56 +21759,6 @@ En Vivo</title>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920201000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920231000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Philadelphia Phillies at Arizona Diamondbacks</title>
-		<desc lang="en">Philadelphia Phillies at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20250920231000 -0400" stop="20250921000000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Philadelphia Phillies at Arizona Diamondbacks possible Extra Innings</title>
-		<desc lang="en">Philadelphia Phillies at Arizona Diamondbacks possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
 	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Philadelphia Phillies at Arizona Diamondbacks at 09/21/2025 04:10 PM (US/Eastern)</title>
@@ -22954,71 +22124,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920184000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920184000 -0400" stop="20250920214000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Athletics Athletics at Pittsburgh Pirates</title>
-		<desc lang="en">Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920214000 -0400" stop="20250920220000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Athletics Athletics at Pittsburgh Pirates possible Extra Innings</title>
-		<desc lang="en">Athletics Athletics at Pittsburgh Pirates possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250920220000 -0400" stop="20250920230000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20250920230000 -0400" stop="20250921050000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20250921050000 -0400" stop="20250921110000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/21/2025 01:35 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20250921110000 -0400" stop="20250921133500 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Athletics Athletics at Pittsburgh Pirates at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Athletics Athletics at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -23361,71 +22481,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Miami Marlins at Texas Rangers</title>
-		<desc lang="en">Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Miami Marlins at Texas Rangers possible Extra Innings</title>
-		<desc lang="en">Miami Marlins at Texas Rangers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921143500 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20250921130000 -0400" stop="20250921143500 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Miami Marlins at Texas Rangers at 09/21/2025 02:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Miami Marlins at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/21/2025 02:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -23761,78 +22838,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Boston Red Sox at Tampa Bay Rays</title>
-		<desc lang="en">Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</title>
-		<desc lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921180000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20250921180000 -0400" stop="20250921193500 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20250921130000 -0400" stop="20250921190000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -24168,78 +23195,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Boston Red Sox at Tampa Bay Rays</title>
-		<desc lang="en">Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</title>
-		<desc lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-BostonRedSox.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-BostonRedSox.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-BostonRedSox.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921180000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
-	</programme>
-	<programme start="20250921180000 -0400" stop="20250921193500 -0400" channel="MLB-BostonRedSox.us">
+	<programme start="20250921130000 -0400" stop="20250921190000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/21/2025 07:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ George M. Steinbrenner Field in Tampa on MLB.TV at 09/21/2025 07:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -24575,71 +23552,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920184000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/20/2025 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV at 09/20/2025 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920184000 -0400" stop="20250920214000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Chicago Cubs at Cincinnati Reds</title>
-		<desc lang="en">Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920214000 -0400" stop="20250920220000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Chicago Cubs at Cincinnati Reds possible Extra Innings</title>
-		<desc lang="en">Chicago Cubs at Cincinnati Reds possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920220000 -0400" stop="20250920230000 -0400" channel="MLB-CincinnatiReds.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-CincinnatiReds.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20250920230000 -0400" stop="20250921050000 -0400" channel="MLB-CincinnatiReds.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-CincinnatiReds.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20250921050000 -0400" stop="20250921110000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250921110000 -0400" stop="20250921134000 -0400" channel="MLB-CincinnatiReds.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-CincinnatiReds.us">
 		<title lang="en">Next game: Chicago Cubs at Cincinnati Reds at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Cincinnati Reds @ Great American Ball Park in Cincinnati on MLBN at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -24974,56 +23901,6 @@ En Vivo</title>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920190000 -0400" stop="20250920201000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/20/2025 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/20/2025 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920231000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Los Angeles Angels at Colorado Rockies</title>
-		<desc lang="en">Los Angeles Angels at Colorado Rockies @ Coors Field in Denver on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20250920231000 -0400" stop="20250921000000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Los Angeles Angels at Colorado Rockies possible Extra Innings</title>
-		<desc lang="en">Los Angeles Angels at Colorado Rockies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
 	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Next game: Los Angeles Angels at Colorado Rockies at 09/21/2025 03:10 PM (US/Eastern)</title>
@@ -25389,71 +24266,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Toronto Blue Jays at Kansas City Royals</title>
-		<desc lang="en">Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Toronto Blue Jays at Kansas City Royals possible Extra Innings</title>
-		<desc lang="en">Toronto Blue Jays at Kansas City Royals possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-KansasCityRoyals.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-KansasCityRoyals.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-KansasCityRoyals.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141000 -0400" channel="MLB-KansasCityRoyals.us">
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Next game: Toronto Blue Jays at Kansas City Royals at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Toronto Blue Jays at Kansas City Royals @ Kauffman Stadium in Kansas City on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -25796,71 +24630,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/20/2025 01:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN at 09/20/2025 01:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250920131000 -0400" stop="20250920161000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Atlanta Braves at Detroit Tigers</title>
-		<desc lang="en">Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250920161000 -0400" stop="20250920170000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Atlanta Braves at Detroit Tigers possible Extra Innings</title>
-		<desc lang="en">Atlanta Braves at Detroit Tigers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250920170000 -0400" stop="20250920180000 -0400" channel="MLB-DetroitTigers.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-DetroitTigers.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
 	</programme>
-	<programme start="20250920180000 -0400" stop="20250921000000 -0400" channel="MLB-DetroitTigers.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-DetroitTigers.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20250921120000 -0400" stop="20250921134000 -0400" channel="MLB-DetroitTigers.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-DetroitTigers.us">
 		<title lang="en">Next game: Atlanta Braves at Detroit Tigers at 09/21/2025 01:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Atlanta Braves at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/21/2025 01:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -26196,86 +24980,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920141000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 02:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 02:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920141000 -0400" stop="20250920201000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header)</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">6</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920201000 -0400" stop="20250920210000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920210000 -0400" stop="20250920191000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250920191000 -0400" stop="20250921011000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header)</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) @ Target Field in Minneapolis on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">6</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250921011000 -0400" stop="20250921020000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</title>
-		<desc lang="en">Cleveland Guardians at Minnesota Twins (Double Header) possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20250921020000 -0400" stop="20250921030000 -0400" channel="MLB-MinnesotaTwins.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-MinnesotaTwins.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250921030000 -0400" stop="20250921090000 -0400" channel="MLB-MinnesotaTwins.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-MinnesotaTwins.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250921090000 -0400" stop="20250921141000 -0400" channel="MLB-MinnesotaTwins.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
+	</programme>
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-MinnesotaTwins.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -26575,71 +25301,71 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250927220000 -0400" stop="20250927230000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Next game: Minnesota Twins at Philadelphia Phillies at 09/28/2025 03:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Minnesota Twins at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/28/2025 03:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250927230000 -0400" stop="20250928050000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Next game: Minnesota Twins at Philadelphia Phillies at 09/28/2025 03:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Minnesota Twins at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/28/2025 03:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250928050000 -0400" stop="20250928110000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Next game: Minnesota Twins at Philadelphia Phillies at 09/28/2025 03:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Minnesota Twins at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/28/2025 03:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/20/2025 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/20/2025 07:10 PM (US/Eastern)</desc>
+	<programme start="20250928110000 -0400" stop="20250928150500 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Next game: Minnesota Twins at Philadelphia Phillies at 09/28/2025 03:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Minnesota Twins at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/28/2025 03:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920191000 -0400" stop="20250920221000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">San Diego Padres at Chicago White Sox</title>
-		<desc lang="en">San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV</desc>
+	<programme start="20250928150500 -0400" stop="20250928180500 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Minnesota Twins at Philadelphia Phillies</title>
+		<desc lang="en">Minnesota Twins at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920221000 -0400" stop="20250920230000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">San Diego Padres at Chicago White Sox possible Extra Innings</title>
-		<desc lang="en">San Diego Padres at Chicago White Sox possible Extra Innings</desc>
+	<programme start="20250928180500 -0400" stop="20250928190000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Minnesota Twins at Philadelphia Phillies possible Extra Innings</title>
+		<desc lang="en">Minnesota Twins at Philadelphia Phillies possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20250921120000 -0400" stop="20250921141000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20250921130000 -0400" stop="20250921141000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: San Diego Padres at Chicago White Sox at 09/21/2025 02:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/21/2025 02:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -26968,71 +25694,21 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20250920000000 -0400" stop="20250920010000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920010000 -0400" stop="20250920070000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920070000 -0400" stop="20250920130000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920130000 -0400" stop="20250920190000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/20/2025 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN at 09/20/2025 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920190500 -0400" stop="20250920220500 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">New York Yankees at Baltimore Orioles</title>
-		<desc lang="en">New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLBN</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920220500 -0400" stop="20250920230000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">New York Yankees at Baltimore Orioles possible Extra Innings</title>
-		<desc lang="en">New York Yankees at Baltimore Orioles possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250920230000 -0400" stop="20250921000000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20250921000000 -0400" stop="20250921010000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20250921000000 -0400" stop="20250921060000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20250921010000 -0400" stop="20250921070000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20250921060000 -0400" stop="20250921120000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20250921120000 -0400" stop="20250921133500 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20250921070000 -0400" stop="20250921130000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Baltimore Orioles at 09/21/2025 01:35 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Baltimore Orioles @ Oriole Park at Camden Yards in Baltimore on MLB.TV at 09/21/2025 01:35 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
