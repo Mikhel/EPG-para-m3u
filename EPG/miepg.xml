@@ -3044,34 +3044,6 @@ En Vivo</title>
 		<display-name>MLB - New York Yankees</display-name>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</channel>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
-		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
-		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
-		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
-		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-LosAngelesAngels.us">
 		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
 		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
@@ -3240,33 +3212,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Future Events for Houston Astros not found yet</title>
-		<desc lang="en">Future Events for Houston Astros not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-LosAngelesAngels.us">
+		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
+		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Future Events for Houston Astros not found yet</title>
-		<desc lang="en">Future Events for Houston Astros not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-LosAngelesAngels.us">
+		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
+		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Future Events for Houston Astros not found yet</title>
-		<desc lang="en">Future Events for Houston Astros not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-LosAngelesAngels.us">
+		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
+		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Future Events for Houston Astros not found yet</title>
-		<desc lang="en">Future Events for Houston Astros not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-LosAngelesAngels.us">
+		<title lang="en">Future Events for Los Angeles Angels not found yet</title>
+		<desc lang="en">Future Events for Los Angeles Angels not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Future Events for Houston Astros not found yet</title>
@@ -3436,78 +3408,56 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Future Events for Houston Astros not found yet</title>
+		<desc lang="en">Future Events for Houston Astros not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Future Events for Houston Astros not found yet</title>
+		<desc lang="en">Future Events for Houston Astros not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Future Events for Houston Astros not found yet</title>
+		<desc lang="en">Future Events for Houston Astros not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004160800 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Future Events for Houston Astros not found yet</title>
+		<desc lang="en">Future Events for Houston Astros not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20251004160800 -0400" stop="20251004190800 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">New York Yankees at Toronto Blue Jays</title>
-		<desc lang="en">New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20251004190800 -0400" stop="20251004200000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">New York Yankees at Toronto Blue Jays possible Extra Innings</title>
-		<desc lang="en">New York Yankees at Toronto Blue Jays possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20251004200000 -0400" stop="20251004210000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20251004210000 -0400" stop="20251005030000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20251005010000 -0400" stop="20251005070000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20251005030000 -0400" stop="20251005090000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20251005070000 -0400" stop="20251005130000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20251005090000 -0400" stop="20251005150000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
-	</programme>
-	<programme start="20251005150000 -0400" stop="20251005160800 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20251005130000 -0400" stop="20251005160800 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -3924,34 +3874,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Future Events for Atlanta Braves not found yet</title>
-		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Future Events for Atlanta Braves not found yet</title>
-		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Future Events for Atlanta Braves not found yet</title>
-		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Future Events for Atlanta Braves not found yet</title>
-		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Future Events for Atlanta Braves not found yet</title>
 		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
@@ -4120,57 +4042,35 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Future Events for Atlanta Braves not found yet</title>
+		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Future Events for Atlanta Braves not found yet</title>
+		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Future Events for Atlanta Braves not found yet</title>
+		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004140800 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Future Events for Atlanta Braves not found yet</title>
+		<desc lang="en">Future Events for Atlanta Braves not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20251004140800 -0400" stop="20251004170800 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Chicago Cubs at Milwaukee Brewers</title>
-		<desc lang="en">Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20251004170800 -0400" stop="20251004180000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Chicago Cubs at Milwaukee Brewers possible Extra Innings</title>
-		<desc lang="en">Chicago Cubs at Milwaukee Brewers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251004190000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/06/2025 09:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/06/2025 09:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
-	</programme>
-	<programme start="20251004190000 -0400" stop="20251005010000 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/06/2025 09:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/06/2025 09:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -4636,34 +4536,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
-		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
-		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
-		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
-		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
 		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
@@ -4832,57 +4704,35 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-St.LouisCardinals.us">
+		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
+		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-St.LouisCardinals.us">
+		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
+		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-St.LouisCardinals.us">
+		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
+		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004140800 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/04/2025 02:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/04/2025 02:08 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-St.LouisCardinals.us">
+		<title lang="en">Future Events for St. Louis Cardinals not found yet</title>
+		<desc lang="en">Future Events for St. Louis Cardinals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20251004140800 -0400" stop="20251004170800 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Chicago Cubs at Milwaukee Brewers</title>
-		<desc lang="en">Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20251004170800 -0400" stop="20251004180000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Chicago Cubs at Milwaukee Brewers possible Extra Innings</title>
-		<desc lang="en">Chicago Cubs at Milwaukee Brewers possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251004190000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/06/2025 09:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/06/2025 09:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20251004190000 -0400" stop="20251005010000 -0400" channel="MLB-ChicagoCubs.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-ChicagoCubs.us">
 		<title lang="en">Next game: Chicago Cubs at Milwaukee Brewers at 10/06/2025 09:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago Cubs at Milwaukee Brewers @ American Family Field in Milwaukee on TBS at 10/06/2025 09:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -5348,34 +5198,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
-		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
-		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
-		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
-		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-ArizonaDiamondbacks.us">
 		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
 		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
@@ -5544,106 +5366,84 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-ArizonaDiamondbacks.us">
+		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
+		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-ArizonaDiamondbacks.us">
+		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
+		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-ArizonaDiamondbacks.us">
+		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
+		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004183800 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-ArizonaDiamondbacks.us">
+		<title lang="en">Future Events for Arizona Diamondbacks not found yet</title>
+		<desc lang="en">Future Events for Arizona Diamondbacks not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20251004183800 -0400" stop="20251004213800 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Los Angeles Dodgers at Philadelphia Phillies</title>
-		<desc lang="en">Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20251004213800 -0400" stop="20251004220000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Los Angeles Dodgers at Philadelphia Phillies possible Extra Innings</title>
-		<desc lang="en">Los Angeles Dodgers at Philadelphia Phillies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20251004220000 -0400" stop="20251004230000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251004230000 -0400" stop="20251005050000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251005010000 -0400" stop="20251005070000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251005050000 -0400" stop="20251005110000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251005070000 -0400" stop="20251005130000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251005110000 -0400" stop="20251005170000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251005130000 -0400" stop="20251005190000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251005170000 -0400" stop="20251005230000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251005190000 -0400" stop="20251006010000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251005230000 -0400" stop="20251006050000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251006010000 -0400" stop="20251006070000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251006050000 -0400" stop="20251006110000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251006070000 -0400" stop="20251006130000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251006110000 -0400" stop="20251006170000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20251006170000 -0400" stop="20251006180800 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20251006130000 -0400" stop="20251006180800 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -6060,34 +5860,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Future Events for San Francisco Giants not found yet</title>
-		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Future Events for San Francisco Giants not found yet</title>
-		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Future Events for San Francisco Giants not found yet</title>
-		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Future Events for San Francisco Giants not found yet</title>
-		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Future Events for San Francisco Giants not found yet</title>
 		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
@@ -6256,33 +6028,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
-		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-SanFranciscoGiants.us">
+		<title lang="en">Future Events for San Francisco Giants not found yet</title>
+		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
-		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-SanFranciscoGiants.us">
+		<title lang="en">Future Events for San Francisco Giants not found yet</title>
+		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
-		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-SanFranciscoGiants.us">
+		<title lang="en">Future Events for San Francisco Giants not found yet</title>
+		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
-		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-SanFranciscoGiants.us">
+		<title lang="en">Future Events for San Francisco Giants not found yet</title>
+		<desc lang="en">Future Events for San Francisco Giants not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-ClevelandGuardians.us">
 		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
@@ -6452,55 +6224,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
+		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
+		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
+		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004190000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-ClevelandGuardians.us">
+		<title lang="en">Future Events for Cleveland Guardians not found yet</title>
+		<desc lang="en">Future Events for Cleveland Guardians not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20251004190000 -0400" stop="20251004203800 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20251004203800 -0400" stop="20251004233800 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Detroit Tigers at Seattle Mariners</title>
-		<desc lang="en">Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20251004233800 -0400" stop="20251005000000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Detroit Tigers at Seattle Mariners possible Extra Innings</title>
-		<desc lang="en">Detroit Tigers at Seattle Mariners possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/05/2025 08:03 PM (US/Eastern)</title>
@@ -6940,34 +6690,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Future Events for Miami Marlins not found yet</title>
-		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Future Events for Miami Marlins not found yet</title>
-		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Future Events for Miami Marlins not found yet</title>
-		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Future Events for Miami Marlins not found yet</title>
-		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Future Events for Miami Marlins not found yet</title>
 		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
@@ -7136,33 +6858,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Future Events for New York Mets not found yet</title>
-		<desc lang="en">Future Events for New York Mets not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-MiamiMarlins.us">
+		<title lang="en">Future Events for Miami Marlins not found yet</title>
+		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Future Events for New York Mets not found yet</title>
-		<desc lang="en">Future Events for New York Mets not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-MiamiMarlins.us">
+		<title lang="en">Future Events for Miami Marlins not found yet</title>
+		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Future Events for New York Mets not found yet</title>
-		<desc lang="en">Future Events for New York Mets not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-MiamiMarlins.us">
+		<title lang="en">Future Events for Miami Marlins not found yet</title>
+		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Future Events for New York Mets not found yet</title>
-		<desc lang="en">Future Events for New York Mets not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-MiamiMarlins.us">
+		<title lang="en">Future Events for Miami Marlins not found yet</title>
+		<desc lang="en">Future Events for Miami Marlins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-NewYorkMets.us">
 		<title lang="en">Future Events for New York Mets not found yet</title>
@@ -7332,33 +7054,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Future Events for Washington Nationals not found yet</title>
-		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-NewYorkMets.us">
+		<title lang="en">Future Events for New York Mets not found yet</title>
+		<desc lang="en">Future Events for New York Mets not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Future Events for Washington Nationals not found yet</title>
-		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-NewYorkMets.us">
+		<title lang="en">Future Events for New York Mets not found yet</title>
+		<desc lang="en">Future Events for New York Mets not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Future Events for Washington Nationals not found yet</title>
-		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-NewYorkMets.us">
+		<title lang="en">Future Events for New York Mets not found yet</title>
+		<desc lang="en">Future Events for New York Mets not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Future Events for Washington Nationals not found yet</title>
-		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-NewYorkMets.us">
+		<title lang="en">Future Events for New York Mets not found yet</title>
+		<desc lang="en">Future Events for New York Mets not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-WashingtonNationals.us">
 		<title lang="en">Future Events for Washington Nationals not found yet</title>
@@ -7528,33 +7250,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
-		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-WashingtonNationals.us">
+		<title lang="en">Future Events for Washington Nationals not found yet</title>
+		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
-		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-WashingtonNationals.us">
+		<title lang="en">Future Events for Washington Nationals not found yet</title>
+		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
-		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-WashingtonNationals.us">
+		<title lang="en">Future Events for Washington Nationals not found yet</title>
+		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
-		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-WashingtonNationals.us">
+		<title lang="en">Future Events for Washington Nationals not found yet</title>
+		<desc lang="en">Future Events for Washington Nationals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-BaltimoreOrioles.us">
 		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
@@ -7724,33 +7446,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Future Events for San Diego Padres not found yet</title>
-		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-BaltimoreOrioles.us">
+		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
+		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Future Events for San Diego Padres not found yet</title>
-		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-BaltimoreOrioles.us">
+		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
+		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Future Events for San Diego Padres not found yet</title>
-		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-BaltimoreOrioles.us">
+		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
+		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Future Events for San Diego Padres not found yet</title>
-		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-BaltimoreOrioles.us">
+		<title lang="en">Future Events for Baltimore Orioles not found yet</title>
+		<desc lang="en">Future Events for Baltimore Orioles not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Future Events for San Diego Padres not found yet</title>
@@ -7920,106 +7642,84 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-SanDiegoPadres.us">
+		<title lang="en">Future Events for San Diego Padres not found yet</title>
+		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-SanDiegoPadres.us">
+		<title lang="en">Future Events for San Diego Padres not found yet</title>
+		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-SanDiegoPadres.us">
+		<title lang="en">Future Events for San Diego Padres not found yet</title>
+		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004183800 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/04/2025 06:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/04/2025 06:38 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-SanDiegoPadres.us">
+		<title lang="en">Future Events for San Diego Padres not found yet</title>
+		<desc lang="en">Future Events for San Diego Padres not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20251004183800 -0400" stop="20251004213800 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Los Angeles Dodgers at Philadelphia Phillies</title>
-		<desc lang="en">Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20251004213800 -0400" stop="20251004220000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Los Angeles Dodgers at Philadelphia Phillies possible Extra Innings</title>
-		<desc lang="en">Los Angeles Dodgers at Philadelphia Phillies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20251004220000 -0400" stop="20251004230000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251004230000 -0400" stop="20251005050000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251005010000 -0400" stop="20251005070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251005050000 -0400" stop="20251005110000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251005070000 -0400" stop="20251005130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251005110000 -0400" stop="20251005170000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251005130000 -0400" stop="20251005190000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251005170000 -0400" stop="20251005230000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251005190000 -0400" stop="20251006010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251005230000 -0400" stop="20251006050000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251006010000 -0400" stop="20251006070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251006050000 -0400" stop="20251006110000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251006070000 -0400" stop="20251006130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251006110000 -0400" stop="20251006170000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20251006170000 -0400" stop="20251006180800 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20251006130000 -0400" stop="20251006180800 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies at 10/06/2025 06:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on TBS at 10/06/2025 06:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -8436,34 +8136,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
-		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
-		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
-		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
-		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
 		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
@@ -8632,33 +8304,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Future Events for Texas Rangers not found yet</title>
-		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
+		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Future Events for Texas Rangers not found yet</title>
-		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
+		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Future Events for Texas Rangers not found yet</title>
-		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
+		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Future Events for Texas Rangers not found yet</title>
-		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Future Events for Pittsburgh Pirates not found yet</title>
+		<desc lang="en">Future Events for Pittsburgh Pirates not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Future Events for Texas Rangers not found yet</title>
@@ -8828,33 +8500,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
-		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Future Events for Texas Rangers not found yet</title>
+		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
-		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Future Events for Texas Rangers not found yet</title>
+		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
-		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Future Events for Texas Rangers not found yet</title>
+		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
-		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Future Events for Texas Rangers not found yet</title>
+		<desc lang="en">Future Events for Texas Rangers not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
@@ -9024,33 +8696,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Future Events for Boston Red Sox not found yet</title>
-		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
+		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Future Events for Boston Red Sox not found yet</title>
-		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
+		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Future Events for Boston Red Sox not found yet</title>
-		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
+		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Future Events for Boston Red Sox not found yet</title>
-		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Future Events for Tampa Bay Rays not found yet</title>
+		<desc lang="en">Future Events for Tampa Bay Rays not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Future Events for Boston Red Sox not found yet</title>
@@ -9220,33 +8892,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
-		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-BostonRedSox.us">
+		<title lang="en">Future Events for Boston Red Sox not found yet</title>
+		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
-		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-BostonRedSox.us">
+		<title lang="en">Future Events for Boston Red Sox not found yet</title>
+		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
-		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-BostonRedSox.us">
+		<title lang="en">Future Events for Boston Red Sox not found yet</title>
+		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
-		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-BostonRedSox.us">
+		<title lang="en">Future Events for Boston Red Sox not found yet</title>
+		<desc lang="en">Future Events for Boston Red Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-CincinnatiReds.us">
 		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
@@ -9416,33 +9088,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Future Events for Colorado Rockies not found yet</title>
-		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-CincinnatiReds.us">
+		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
+		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Future Events for Colorado Rockies not found yet</title>
-		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-CincinnatiReds.us">
+		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
+		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Future Events for Colorado Rockies not found yet</title>
-		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-CincinnatiReds.us">
+		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
+		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Future Events for Colorado Rockies not found yet</title>
-		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-CincinnatiReds.us">
+		<title lang="en">Future Events for Cincinnati Reds not found yet</title>
+		<desc lang="en">Future Events for Cincinnati Reds not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Future Events for Colorado Rockies not found yet</title>
@@ -9612,33 +9284,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Future Events for Kansas City Royals not found yet</title>
-		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Future Events for Colorado Rockies not found yet</title>
+		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Future Events for Kansas City Royals not found yet</title>
-		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Future Events for Colorado Rockies not found yet</title>
+		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Future Events for Kansas City Royals not found yet</title>
-		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Future Events for Colorado Rockies not found yet</title>
+		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Future Events for Kansas City Royals not found yet</title>
-		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Future Events for Colorado Rockies not found yet</title>
+		<desc lang="en">Future Events for Colorado Rockies not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Future Events for Kansas City Royals not found yet</title>
@@ -9808,55 +9480,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-KansasCityRoyals.us">
+		<title lang="en">Future Events for Kansas City Royals not found yet</title>
+		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-KansasCityRoyals.us">
+		<title lang="en">Future Events for Kansas City Royals not found yet</title>
+		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-KansasCityRoyals.us">
+		<title lang="en">Future Events for Kansas City Royals not found yet</title>
+		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004190000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-KansasCityRoyals.us">
+		<title lang="en">Future Events for Kansas City Royals not found yet</title>
+		<desc lang="en">Future Events for Kansas City Royals not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20251004190000 -0400" stop="20251004203800 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/04/2025 08:38 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1 at 10/04/2025 08:38 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20251004203800 -0400" stop="20251004233800 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Detroit Tigers at Seattle Mariners</title>
-		<desc lang="en">Detroit Tigers at Seattle Mariners @ T-Mobile Park in Seattle on FS1</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20251004233800 -0400" stop="20251005000000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Detroit Tigers at Seattle Mariners possible Extra Innings</title>
-		<desc lang="en">Detroit Tigers at Seattle Mariners possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-DetroitTigers.us">
 		<title lang="en">Next game: Detroit Tigers at Seattle Mariners at 10/05/2025 08:03 PM (US/Eastern)</title>
@@ -10296,34 +9946,6 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Future Events for Minnesota Twins not found yet</title>
-		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Future Events for Minnesota Twins not found yet</title>
-		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Future Events for Minnesota Twins not found yet</title>
-		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Future Events for Minnesota Twins not found yet</title>
-		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-MinnesotaTwins.us">
 		<title lang="en">Future Events for Minnesota Twins not found yet</title>
 		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
@@ -10492,33 +10114,33 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004060000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Future Events for Chicago White Sox not found yet</title>
-		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Future Events for Minnesota Twins not found yet</title>
+		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20251004060000 -0400" stop="20251004120000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Future Events for Chicago White Sox not found yet</title>
-		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Future Events for Minnesota Twins not found yet</title>
+		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20251004120000 -0400" stop="20251004180000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Future Events for Chicago White Sox not found yet</title>
-		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Future Events for Minnesota Twins not found yet</title>
+		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20251004180000 -0400" stop="20251005000000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Future Events for Chicago White Sox not found yet</title>
-		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-MinnesotaTwins.us">
+		<title lang="en">Future Events for Minnesota Twins not found yet</title>
+		<desc lang="en">Future Events for Minnesota Twins not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
 	<programme start="20251005000000 -0400" stop="20251005060000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Future Events for Chicago White Sox not found yet</title>
@@ -10688,78 +10310,56 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20251004000000 -0400" stop="20251004010000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011000000 -0400" stop="20251011060000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Future Events for Chicago White Sox not found yet</title>
+		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20251004010000 -0400" stop="20251004070000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011060000 -0400" stop="20251011120000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Future Events for Chicago White Sox not found yet</title>
+		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20251004070000 -0400" stop="20251004130000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011120000 -0400" stop="20251011180000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Future Events for Chicago White Sox not found yet</title>
+		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20251004130000 -0400" stop="20251004160800 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/04/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX at 10/04/2025 04:08 PM (US/Eastern)</desc>
+	<programme start="20251011180000 -0400" stop="20251012000000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Future Events for Chicago White Sox not found yet</title>
+		<desc lang="en">Future Events for Chicago White Sox not found yet</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20251004160800 -0400" stop="20251004190800 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">New York Yankees at Toronto Blue Jays</title>
-		<desc lang="en">New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FOX</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20251004190800 -0400" stop="20251004200000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">New York Yankees at Toronto Blue Jays possible Extra Innings</title>
-		<desc lang="en">New York Yankees at Toronto Blue Jays possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20251004200000 -0400" stop="20251004210000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20251005000000 -0400" stop="20251005010000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20251004210000 -0400" stop="20251005030000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20251005010000 -0400" stop="20251005070000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20251005030000 -0400" stop="20251005090000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20251005070000 -0400" stop="20251005130000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20251005090000 -0400" stop="20251005150000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20251005150000 -0400" stop="20251005160800 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20251005130000 -0400" stop="20251005160800 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Yankees at Toronto Blue Jays at 10/05/2025 04:08 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Yankees at Toronto Blue Jays @ Rogers Centre in Toronto on FS1 at 10/05/2025 04:08 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
