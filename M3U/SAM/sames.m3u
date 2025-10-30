@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/es.xml.gz"
 #EXTINF:-1 channel-id="ES26000025M" tvg-id="ES26000025M" tvg-chno="4201" tvg-name="¡Hola! Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" group-title="Entretenimiento", ¡Hola! Play
 https://jmp2.uk/sam-ES26000025M.m3u8
+#EXTINF:-1 channel-id="ES260001081" tvg-id="ES260001081" tvg-chno="4852" tvg-name="100% Navidad - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251028T011440SQUARE.png" group-title="Cine", 100% Navidad - Rakuten TV
+https://jmp2.uk/sam-ES260001081.m3u8
 #EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="4551" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20250819T033224SQUARE.png" group-title="Noticias", 24H
 https://jmp2.uk/sam-ESBC4100004J1.m3u8
 #EXTINF:-1 channel-id="ES4700001VS" tvg-id="ES4700001VS" tvg-chno="4219" tvg-name="2M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20250218T035951SQUARE.png" group-title="Entretenimiento", 2M
@@ -21,7 +23,7 @@ https://jmp2.uk/sam-ES3000288I.m3u8
 https://jmp2.uk/sam-ESBD1300004IG.m3u8
 #EXTINF:-1 channel-id="ES17000065P" tvg-id="ES17000065P" tvg-chno="4774" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="Niños", BABY SHARK TV
 https://jmp2.uk/sam-ES17000065P.m3u8
-#EXTINF:-1 channel-id="ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-chno="4002" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251013T053435SQUARE.png" group-title="Serie", Baywatch – Los Vigilantes de la Playa
+#EXTINF:-1 channel-id="ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-chno="4237" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20251028T011342SQUARE.png" group-title="Serie", Baywatch – Los Vigilantes de la Playa
 https://jmp2.uk/sam-ESBD1300001EP.m3u8
 #EXTINF:-1 channel-id="ES3200001F1" tvg-id="ES3200001F1" tvg-chno="4488" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20250923T011545SQUARE.png" group-title="Documentales", BBC Earth
 https://jmp2.uk/sam-ES3200001F1.m3u8
@@ -43,9 +45,9 @@ https://jmp2.uk/sam-ESBD3000002GP.m3u8
 https://jmp2.uk/sam-ES3000008O8.m3u8
 #EXTINF:-1 channel-id="ESBC2700012RP" tvg-id="ESBC2700012RP" tvg-chno="4904" tvg-name="Cine Feel Good – Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="Cine", Cine Feel Good – Verdi TV
 https://jmp2.uk/sam-ESBC2700012RP.m3u8
-#EXTINF:-1 channel-id="ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-chno="4949" tvg-name="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20250805T005125SQUARE.png" group-title="Cine", Cine Friki
+#EXTINF:-1 channel-id="ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-chno="4001" tvg-name="Cine Friki" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251028T011345SQUARE.png" group-title="Cine", Cine Friki
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
-#EXTINF:-1 channel-id="ES2300005G7" tvg-id="ES2300005G7" tvg-chno="4926" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20250826T004840SQUARE.png" group-title="Cine", Cine Western
+#EXTINF:-1 channel-id="ES2300005G7" tvg-id="ES2300005G7" tvg-chno="4002" tvg-name="Cine Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251028T011347SQUARE.png" group-title="Cine", Cine Western
 https://jmp2.uk/sam-ES2300005G7.m3u8
 #EXTINF:-1 channel-id="ESBC2700011AZ" tvg-id="ESBC2700011AZ" tvg-chno="4872" tvg-name="Cines Verdi TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine", Cines Verdi TV
 https://jmp2.uk/sam-ESBC2700011AZ.m3u8
@@ -95,8 +97,6 @@ https://jmp2.uk/sam-ESBA3300029UG.m3u8
 https://jmp2.uk/sam-ESBC1400001L8.m3u8
 #EXTINF:-1 channel-id="ESBC39000033J" tvg-id="ESBC39000033J" tvg-chno="4555" tvg-name="El País" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" group-title="Noticias", El País
 https://jmp2.uk/sam-ESBC39000033J.m3u8
-#EXTINF:-1 channel-id="ES260001081" tvg-id="ES260001081" tvg-chno="4825" tvg-name="En Familia - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20250107T024924SQUARE.png" group-title="Niños", En Familia - Rakuten TV
-https://jmp2.uk/sam-ES260001081.m3u8
 #EXTINF:-1 channel-id="ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-chno="4213" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="Entretenimiento", Encantador de Perros
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
 #EXTINF:-1 channel-id="ES26000068D" tvg-id="ES26000068D" tvg-chno="4004" tvg-name="Estilo y Vida – Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento", Estilo y Vida – Rakuten TV
@@ -105,7 +105,7 @@ https://jmp2.uk/sam-ES26000068D.m3u8
 https://jmp2.uk/sam-ES260000968.m3u8
 #EXTINF:-1 channel-id="ESBA1400006NP" tvg-id="ESBA1400006NP" tvg-chno="4160" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20241022T050721SQUARE.png" group-title="Comedia", FailArmy
 https://jmp2.uk/sam-ESBA1400006NP.m3u8
-#EXTINF:-1 channel-id="ESBC2700009B4" tvg-id="ESBC2700009B4" tvg-chno="4001" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251013T053441SQUARE.png" group-title="Deporte", FIFA+
+#EXTINF:-1 channel-id="ESBC2700009B4" tvg-id="ESBC2700009B4" tvg-chno="4641" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png" group-title="Deporte", FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTINF:-1 channel-id="ES2200001SF" tvg-id="ES2200001SF" tvg-chno="4223" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png" group-title="Entretenimiento", Fireplace Vibes
 https://jmp2.uk/sam-ES2200001SF.m3u8
@@ -123,7 +123,7 @@ https://jmp2.uk/sam-ES300032LR.m3u8
 https://jmp2.uk/sam-ES300031A5.m3u8
 #EXTINF:-1 channel-id="ESBC27000040I" tvg-id="ESBC27000040I" tvg-chno="4515" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png" group-title="Viajes y Cocina", GoUSA TV
 https://jmp2.uk/sam-ESBC27000040I.m3u8
-#EXTINF:-1 channel-id="ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-chno="4003" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251013T053444SQUARE.png" group-title="Cine", Grjngo - Películas Del Oeste
+#EXTINF:-1 channel-id="ESBC2700002LO" tvg-id="ESBC2700002LO" tvg-chno="4925" tvg-name="Grjngo - Películas Del Oeste" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20251028T011352SQUARE.png" group-title="Cine", Grjngo - Películas Del Oeste
 https://jmp2.uk/sam-ESBC2700002LO.m3u8
 #EXTINF:-1 channel-id="ES500002NY" tvg-id="ES500002NY" tvg-chno="4216" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png" group-title="Entretenimiento", H2O & Friends
 https://jmp2.uk/sam-ES500002NY.m3u8
@@ -131,7 +131,7 @@ https://jmp2.uk/sam-ES500002NY.m3u8
 https://jmp2.uk/sam-ES12000024R.m3u8
 #EXTINF:-1 channel-id="ESBA3300028OE" tvg-id="ESBA3300028OE" tvg-chno="4823" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png" group-title="Niños", iCarly
 https://jmp2.uk/sam-ESBA3300028OE.m3u8
-#EXTINF:-1 channel-id="ES24000028L" tvg-id="ES24000028L" tvg-chno="4346" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20250729T045102SQUARE.png" group-title="Documentales", Ice Pilots
+#EXTINF:-1 channel-id="ES24000028L" tvg-id="ES24000028L" tvg-chno="4003" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251028T011354SQUARE.png" group-title="Documentales", Ice Pilots
 https://jmp2.uk/sam-ES24000028L.m3u8
 #EXTINF:-1 channel-id="ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-chno="4203" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Entretenimiento", Ideas en 5 Minutos
 https://jmp2.uk/sam-ESBC3500002PW.m3u8
@@ -297,6 +297,8 @@ https://jmp2.uk/sam-ESBA3300043M0.m3u8
 https://jmp2.uk/sam-ESBC1700004PX.m3u8
 #EXTINF:-1 channel-id="ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-chno="4683" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Música", Vevo Latino
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
+#EXTINF:-1 channel-id="ES35000016A" tvg-id="ES35000016A" tvg-chno="4010" tvg-name="Vevo Navidad" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES35000016A_20251028T011357SQUARE.png" group-title="Música", Vevo Navidad
+https://jmp2.uk/sam-ES35000016A.m3u8
 #EXTINF:-1 channel-id="ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-chno="4689" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Música", Vevo Pop
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
 #EXTINF:-1 channel-id="ESBD230000289" tvg-id="ESBD230000289" tvg-chno="4685" tvg-name="Vevo Retro" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png" group-title="Música", Vevo Retro
