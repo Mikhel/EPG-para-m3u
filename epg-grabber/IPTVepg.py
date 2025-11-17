@@ -61,6 +61,7 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://github.com/Mikhel/EPG-para-m3u/raw/refs/heads/main/EPG/kika.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
@@ -76,7 +77,6 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz',
