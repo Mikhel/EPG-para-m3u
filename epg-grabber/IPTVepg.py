@@ -1,4 +1,4 @@
-import os
+8import os
 import gzip
 import xml.etree.ElementTree as ET
 import requests
@@ -84,7 +84,7 @@ urls = [
     'https://i.mjh.nz/PlutoTV/mx.xml.gz',
     'https://i.mjh.nz/PlutoTV/us.xml.gz',
     'https://i.mjh.nz/SamsungTVPlus/us.xml.gz',
-    'https://github.com/BuddyChewChew/tubi-scraper/raw/refs/heads/main/tubi_epg.xml'
+    'https://github.com/BuddyChewChew/tubi-scraper/raw/refs/heads/main/tubi_epg.xml',
     'https://i.mjh.nz/Plex/all.xml.gz',
        ]
 
