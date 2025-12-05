@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Stirr/all.xml.gz"
 #EXTINF:-1 channel-id="7299" tvg-id="7299" tvg-chno="649" tvg-name=" Absinthe TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513347374BoKLSMGOD-632x395-YAp2s0PW.png" group-title="Other",  Absinthe TV
 https://jmp2.uk/str-7299.m3u8
-#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name=" FOX45 WBFF Baltimore - Free Live Local News Stream" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350870gmiUn4zU2k-632x395-DPxYBp1Y.png" group-title="News Flash Live, STIRR Cities",  FOX45 WBFF Baltimore - Free Live Local News Stream
+#EXTINF:-1 channel-id="6489" tvg-id="6489" tvg-chno="912" tvg-name=" FOX45 WBFF Baltimore" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350870gmiUn4zU2k-632x395-DPxYBp1Y.png" group-title="News Flash Live, STIRR Cities",  FOX45 WBFF Baltimore
 https://jmp2.uk/str-6489.m3u8
 #EXTINF:-1 channel-id="6513" tvg-id="6513" tvg-chno="924" tvg-name="10 NBC WJAR - (Providence, RI*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351091BkRmYuNTOi-632x395-Xc06SyPK.png" group-title="News Flash Live, STIRR Cities", 10 NBC WJAR - (Providence, RI*)
 https://jmp2.uk/str-6513.m3u8
 #EXTINF:-1 channel-id="6593" tvg-id="6593" tvg-chno="225" tvg-name="123 GO!" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737758246VwehlduQvI-632x395-9fLmAxyk.png" group-title="Entertainment Live", 123 GO!
 https://jmp2.uk/str-6593.m3u8
-#EXTINF:-1 channel-id="5734" tvg-id="5734" tvg-chno="704" tvg-name="4K Travel TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-632x395-I5f7f5UE.png" group-title="Pack your Bag Travel", 4K Travel TV
+#EXTINF:-1 channel-id="5734" tvg-id="5734" tvg-chno="704" tvg-name="4K Travel TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-632x395-I5f7f5UE.png" group-title="Other", 4K Travel TV
 https://jmp2.uk/str-5734.m3u8
 #EXTINF:-1 channel-id="6581" tvg-id="6581" tvg-chno="503" tvg-name="5-Minute Crafts" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737755649zG7KSo4xYG-632x395-RJ2EhbuI.png" group-title="Other", 5-Minute Crafts
 https://jmp2.uk/str-6581.m3u8
@@ -35,6 +35,10 @@ https://jmp2.uk/str-7321.m3u8
 https://jmp2.uk/str-5721.m3u8
 #EXTINF:-1 channel-id="5289" tvg-id="5289" tvg-chno="600" tvg-name="AWE plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-632x395-hZUZLeO1.png" group-title="Entertainment Live", AWE plus
 https://jmp2.uk/str-5289.m3u8
+#EXTINF:-1 channel-id="7529" tvg-id="7529" tvg-chno="156" tvg-name="Beyond Paranormal" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764786735elYBuzdHAg-632x395-zkqQjK4B.jpeg" group-title="Crime Files", Beyond Paranormal
+https://jmp2.uk/str-7529.m3u8
+#EXTINF:-1 channel-id="7539" tvg-id="7539" tvg-chno="217" tvg-name="Black Enterprise Streaming Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764790200FM7VViGtn4-632x395-ksPuZGP9.jpeg" group-title="Finance and Business", Black Enterprise Streaming Network
+https://jmp2.uk/str-7539.m3u8
 #EXTINF:-1 channel-id="6503" tvg-id="6503" tvg-chno="919" tvg-name="CBS 12 - WPEC - (West Palm Beach, FL*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351000z16Rpq428D-632x395-ao3xUbKv.png" group-title="News Flash Live, STIRR Cities", CBS 12 - WPEC - (West Palm Beach, FL*)
 https://jmp2.uk/str-6503.m3u8
 #EXTINF:-1 channel-id="6491" tvg-id="6491" tvg-chno="913" tvg-name="CBS 2 News - KUTV - (Salt Lake City, UT*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350887ZkFUYGUdXa-632x395-oKZTGdpH.png" group-title="News Flash Live, STIRR Cities", CBS 2 News - KUTV - (Salt Lake City, UT*)
@@ -47,7 +51,7 @@ https://jmp2.uk/str-6523.m3u8
 https://jmp2.uk/str-6497.m3u8
 #EXTINF:-1 channel-id="1072" tvg-id="1072" tvg-chno="320" tvg-name="Channel Fight" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-632x395-QdPPBYUX.jpeg" group-title="Sports Live", Channel Fight
 https://jmp2.uk/str-1072.m3u8
-#EXTINF:-1 channel-id="6633" tvg-id="6633" tvg-chno="481" tvg-name="Cigar TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743025853olSvQn6rQh-632x395-A5RUxENZ.png" group-title="Food and Fitness Live", Cigar TV
+#EXTINF:-1 channel-id="6633" tvg-id="6633" tvg-chno="481" tvg-name="Cigar TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743025853olSvQn6rQh-632x395-po3CLLsB.png" group-title="Food and Fitness Live", Cigar TV
 https://jmp2.uk/str-6633.m3u8
 #EXTINF:-1 channel-id="5745" tvg-id="5745" tvg-chno="645" tvg-name="Cowboy Movie Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-632x395-XDAKvIe3.jpeg" group-title="Entertainment Live", Cowboy Movie Channel
 https://jmp2.uk/str-5745.m3u8
@@ -67,7 +71,7 @@ https://jmp2.uk/str-6759.m3u8
 https://jmp2.uk/str-5739.m3u8
 #EXTINF:-1 channel-id="7277" tvg-id="7277" tvg-chno="307" tvg-name="DRIVE+SPEED" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751328558AyhaPQ1LiV-632x395-EDGyK2eH.png" group-title="Sports Live", DRIVE+SPEED
 https://jmp2.uk/str-7277.m3u8
-#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="88" tvg-name="Drone TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/170871539370SyzUanQG-632x395-Cklwrb0M.jpeg" group-title="Documentary Series, Sports Live, Entertainment Live, Science to Space, Amplified", Drone TV
+#EXTINF:-1 channel-id="5407" tvg-id="5407" tvg-chno="88" tvg-name="Drone TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/170871539370SyzUanQG-632x395-Cklwrb0M.jpeg" group-title="Documentary Series, Sports Live, Entertainment Live", Drone TV
 https://jmp2.uk/str-5407.m3u8
 #EXTINF:-1 channel-id="5309" tvg-id="5309" tvg-chno="150" tvg-name="Electric Now" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/12/1707778246xXhtikOiSH-632x395-0dhqM9JH.jpeg" group-title="Entertainment Live", Electric Now
 https://jmp2.uk/str-5309.m3u8
@@ -75,6 +79,8 @@ https://jmp2.uk/str-5309.m3u8
 https://jmp2.uk/str-7309.m3u8
 #EXTINF:-1 channel-id="5746" tvg-id="5746" tvg-chno="120" tvg-name="ENCORE+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614773d0hO0AsmYW-632x395-60QerY1j.jpeg" group-title="Entertainment Live", ENCORE+
 https://jmp2.uk/str-5746.m3u8
+#EXTINF:-1 channel-id="7537" tvg-id="7537" tvg-chno="216" tvg-name="EntrepreneurTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764790044vOw038SRbF-632x395-zXTyA7Lz.png" group-title="Finance and Business", EntrepreneurTV
+https://jmp2.uk/str-7537.m3u8
 #EXTINF:-1 channel-id="5295" tvg-id="5295" tvg-chno="450" tvg-name="Equus TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-632x395-UZubIuj9.jpeg" group-title="Sports Live", Equus TV
 https://jmp2.uk/str-5295.m3u8
 #EXTINF:-1 channel-id="1549" tvg-id="1549" tvg-chno="410" tvg-name="Extreme+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-632x395-QL1Qv0mt.png" group-title="Sports Live", Extreme+
@@ -91,7 +97,7 @@ https://jmp2.uk/str-771.m3u8
 https://jmp2.uk/str-7281.m3u8
 #EXTINF:-1 channel-id="6519" tvg-id="6519" tvg-chno="927" tvg-name="FOX 11 - WLUK - (Green Bay, WI*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351145DklcPHt7Wf-632x395-xCEmkPLl.png" group-title="News Flash Live, STIRR Cities", FOX 11 - WLUK - (Green Bay, WI*)
 https://jmp2.uk/str-6519.m3u8
-#EXTINF:-1 channel-id="7053" tvg-id="7053" tvg-chno="950" tvg-name="FOX 11 - WLUK - (Green Bay, WI*) #2" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/23/1747960036MVufANiDnv-632x395-W11I1mNX.png" group-title="Science to Space, Amplified", FOX 11 - WLUK - (Green Bay, WI*) #2
+#EXTINF:-1 channel-id="7053" tvg-id="7053" tvg-chno="950" tvg-name="FOX 11 - WLUK - (Green Bay, WI*) #2" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/23/1747960036MVufANiDnv-632x395-W11I1mNX.png" group-title="Other", FOX 11 - WLUK - (Green Bay, WI*) #2
 https://jmp2.uk/str-7053.m3u8
 #EXTINF:-1 channel-id="6511" tvg-id="6511" tvg-chno="923" tvg-name="Fox 25 - KOKH - (Oklahoma City, OK*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/17353510655ywbSea9hO-632x395-T3tmNo1K.png" group-title="News Flash Live, STIRR Cities", Fox 25 - KOKH - (Oklahoma City, OK*)
 https://jmp2.uk/str-6511.m3u8
@@ -107,11 +113,11 @@ https://jmp2.uk/str-6411.m3u8
 https://jmp2.uk/str-6430.m3u8
 #EXTINF:-1 channel-id="7283" tvg-id="7283" tvg-chno="406" tvg-name="Goal TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330357iXZkoSrM4n-632x395-HqNW8IE7.png" group-title="Sports Live", Goal TV
 https://jmp2.uk/str-7283.m3u8
-#EXTINF:-1 channel-id="5453" tvg-id="5453" tvg-chno="705" tvg-name="Gotraveler" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-632x395-LMeNMg3D.jpeg" group-title="Pack your Bag Travel", Gotraveler
+#EXTINF:-1 channel-id="5453" tvg-id="5453" tvg-chno="705" tvg-name="Gotraveler" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-632x395-LMeNMg3D.jpeg" group-title="Other", Gotraveler
 https://jmp2.uk/str-5453.m3u8
 #EXTINF:-1 channel-id="7295" tvg-id="7295" tvg-chno="221" tvg-name="Gritos TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/175133329604Wbbc77Ol-632x395-zvCg8vlF.png" group-title="Paranormal Series", Gritos TV
 https://jmp2.uk/str-7295.m3u8
-#EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="H20 TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-fuPt0lAQ.jpeg" group-title="Pack your Bag Travel", H20 TV
+#EXTINF:-1 channel-id="7319" tvg-id="7319" tvg-chno="703" tvg-name="H20 TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-fuPt0lAQ.jpeg" group-title="Other", H20 TV
 https://jmp2.uk/str-7319.m3u8
 #EXTINF:-1 channel-id="5291" tvg-id="5291" tvg-chno="510" tvg-name="Home Shopping Network" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/170743599023pPRmXtWB-632x395-pfsSQfRk.png" group-title="Shopping Live", Home Shopping Network
 https://jmp2.uk/str-5291.m3u8
@@ -129,13 +135,13 @@ https://jmp2.uk/str-5302.m3u8
 https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 channel-id="6585" tvg-id="6585" tvg-chno="166" tvg-name="Imagine PlayWorld" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757569jCf6Kb1V2s-632x395-d5jixmcy.png" group-title="Entertainment Live", Imagine PlayWorld
 https://jmp2.uk/str-6585.m3u8
-#EXTINF:-1 channel-id="7047" tvg-id="7047" tvg-chno="701" tvg-name="INTRAVEL" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477078184RXzq0eKZD-632x395-EqTlmjkv.png" group-title="Entertainment Live, Pack your Bag Travel", INTRAVEL
+#EXTINF:-1 channel-id="7047" tvg-id="7047" tvg-chno="701" tvg-name="INTRAVEL" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477078184RXzq0eKZD-632x395-EqTlmjkv.png" group-title="Entertainment Live", INTRAVEL
 https://jmp2.uk/str-7047.m3u8
 #EXTINF:-1 channel-id="7041" tvg-id="7041" tvg-chno="161" tvg-name="INTROUBLE" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/1747705458IXtqjENYGU-632x395-TF6DFmxw.png" group-title="Entertainment Live", INTROUBLE
 https://jmp2.uk/str-7041.m3u8
 #EXTINF:-1 channel-id="7043" tvg-id="7043" tvg-chno="160" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" group-title="Documentary Series, Entertainment Live", INWILD
 https://jmp2.uk/str-7043.m3u8
-#EXTINF:-1 channel-id="7045" tvg-id="7045" tvg-chno="162" tvg-name="INWONDER" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/1747707146vA1Bdh6xxa-632x395-Q2ndw1PL.png" group-title="Entertainment Live, Science to Space, Amplified", INWONDER
+#EXTINF:-1 channel-id="7045" tvg-id="7045" tvg-chno="162" tvg-name="INWONDER" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/1747707146vA1Bdh6xxa-632x395-Q2ndw1PL.png" group-title="Entertainment Live", INWONDER
 https://jmp2.uk/str-7045.m3u8
 #EXTINF:-1 channel-id="5428" tvg-id="5428" tvg-chno="615" tvg-name="JLTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-632x395-SXIeuCM9.png" group-title="Entertainment Live", JLTV
 https://jmp2.uk/str-5428.m3u8
@@ -191,7 +197,7 @@ https://jmp2.uk/str-6477.m3u8
 https://jmp2.uk/str-6475.m3u8
 #EXTINF:-1 channel-id="5730" tvg-id="5730" tvg-chno="310" tvg-name="Nitro TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-632x395-zNVVdCN6.jpeg" group-title="Sports Live", Nitro TV
 https://jmp2.uk/str-5730.m3u8
-#EXTINF:-1 channel-id="6414" tvg-id="6414" tvg-chno="214" tvg-name="NTD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/12/17208180961n32NRsxVG-632x395-BxX0LQvE.jpeg" group-title="News Flash Live", NTD
+#EXTINF:-1 channel-id="6414" tvg-id="6414" tvg-chno="214" tvg-name="NTD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/12/17208180961n32NRsxVG-632x395-fcsKAZkt.png" group-title="News Flash Live", NTD
 https://jmp2.uk/str-6414.m3u8
 #EXTINF:-1 channel-id="5288" tvg-id="5288" tvg-chno="200" tvg-name="OAN plus" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-632x395-av3fl5D7.png" group-title="News Flash Live", OAN plus
 https://jmp2.uk/str-5288.m3u8
@@ -215,9 +221,11 @@ https://jmp2.uk/str-6435.m3u8
 https://jmp2.uk/str-5421.m3u8
 #EXTINF:-1 channel-id="7325" tvg-id="7325" tvg-chno="202" tvg-name="Real America’s Voice" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/10/03/1759524468BaayAcSDGG-632x395-ISb1eojJ.jpeg" group-title="Other", Real America’s Voice
 https://jmp2.uk/str-7325.m3u8
+#EXTINF:-1 channel-id="7531" tvg-id="7531" tvg-chno="126" tvg-name="Real Crime Uncovered " tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764789007pwsk21GTYS-632x395-580tVXoj.jpeg" group-title="Crime Files", Real Crime Uncovered 
+https://jmp2.uk/str-7531.m3u8
 #EXTINF:-1 channel-id="5430" tvg-id="5430" tvg-chno="110" tvg-name="RightNow TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/07/1709832676KjRR7jMuCJ-632x395-9bxy1pZC.jpeg" group-title="Entertainment Live", RightNow TV
 https://jmp2.uk/str-5430.m3u8
-#EXTINF:-1 channel-id="5408" tvg-id="5408" tvg-chno="702" tvg-name="RVTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/1708719883hRITv8N8eW-632x395-atbpfmDX.png" group-title="Entertainment Live, Pack your Bag Travel", RVTV
+#EXTINF:-1 channel-id="5408" tvg-id="5408" tvg-chno="702" tvg-name="RVTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/1708719883hRITv8N8eW-632x395-atbpfmDX.png" group-title="Entertainment Live", RVTV
 https://jmp2.uk/str-5408.m3u8
 #EXTINF:-1 channel-id="7271" tvg-id="7271" tvg-chno="204" tvg-name="Salem News Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/30/17513045433QRNuo2M3W-632x395-iaU9RyeO.jpeg" group-title="News Flash Live", Salem News Channel
 https://jmp2.uk/str-7271.m3u8
@@ -231,7 +239,7 @@ https://jmp2.uk/str-6587.m3u8
 https://jmp2.uk/str-6637.m3u8
 #EXTINF:-1 channel-id="6639" tvg-id="6639" tvg-chno="154" tvg-name="Sooner: Next Gen" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743027644FKMTmvF1Qg-632x395-YTaQiCRQ.png" group-title="Other", Sooner: Next Gen
 https://jmp2.uk/str-6639.m3u8
-#EXTINF:-1 channel-id="7291" tvg-id="7291" tvg-chno="624" tvg-name="Space Series" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513321722Mytcp0Foz-632x395-PeDesbYO.png" group-title="Science to Space, Amplified", Space Series
+#EXTINF:-1 channel-id="7291" tvg-id="7291" tvg-chno="624" tvg-name="Space Series" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513321722Mytcp0Foz-632x395-PeDesbYO.png" group-title="Other", Space Series
 https://jmp2.uk/str-7291.m3u8
 #EXTINF:-1 channel-id="6424" tvg-id="6424" tvg-chno="306" tvg-name="SPEED SPORT 1" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/31/1722458403rVipSpep8n-632x395-BZDxNYWC.png" group-title="Other", SPEED SPORT 1
 https://jmp2.uk/str-6424.m3u8
@@ -255,12 +263,16 @@ https://jmp2.uk/str-6425.m3u8
 https://jmp2.uk/str-6427.m3u8
 #EXTINF:-1 channel-id="6426" tvg-id="6426" tvg-chno="800" tvg-name="TRACE Urban" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png" group-title="Music Live", TRACE Urban
 https://jmp2.uk/str-6426.m3u8
+#EXTINF:-1 channel-id="7533" tvg-id="7533" tvg-chno="706" tvg-name="Travel Escapes" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764789328DaIfQnuyPK-632x395-1FLBgaMd.jpeg" group-title="Other", Travel Escapes
+https://jmp2.uk/str-7533.m3u8
 #EXTINF:-1 channel-id="7323" tvg-id="7323" tvg-chno="172" tvg-name="Unchained TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/18/1758218677PhBCj6xdwX-632x395-4CXDvMhO.jpeg" group-title="Food and Fitness Live", Unchained TV
 https://jmp2.uk/str-7323.m3u8
 #EXTINF:-1 channel-id="7017" tvg-id="7017" tvg-chno="158" tvg-name="Unleashed by DOGTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/09/1746751234uEBPtBEMaA-632x395-mcNbsBAL.jpeg" group-title="Entertainment Live", Unleashed by DOGTV
 https://jmp2.uk/str-7017.m3u8
 #EXTINF:-1 channel-id="6921" tvg-id="6921" tvg-chno="201" tvg-name="USA Today" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/07/1746577448QWkEIwQinU-632x395-DCFOtDQe.png" group-title="News Flash Live", USA Today
 https://jmp2.uk/str-6921.m3u8
+#EXTINF:-1 channel-id="7535" tvg-id="7535" tvg-chno="215" tvg-name="Valuetainment" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/12/03/1764789552W0JVI6E0uI-632x395-bAQ1IoRT.png" group-title="News Flash Live, Finance and Business", Valuetainment
+https://jmp2.uk/str-7535.m3u8
 #EXTINF:-1 channel-id="6479" tvg-id="6479" tvg-chno="907" tvg-name="WDIO ABC News - (Duluth, MN)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/17353496094emCwd2CUc-632x395-i3ZYZG0i.png" group-title="News Flash Live, STIRR Cities", WDIO ABC News - (Duluth, MN)
 https://jmp2.uk/str-6479.m3u8
 #EXTINF:-1 channel-id="7327" tvg-id="7327" tvg-chno="203" tvg-name="Weather Nation" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/10/03/1759524727xhRYTHIkrs-632x395-s43CEByf.jpeg" group-title="News Flash Live", Weather Nation
@@ -269,7 +281,7 @@ https://jmp2.uk/str-7327.m3u8
 https://jmp2.uk/str-6595.m3u8
 #EXTINF:-1 channel-id="7061" tvg-id="7061" tvg-chno="159" tvg-name="Wild Nature " tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/05/1749167295EbIcuYKFtn-632x395-ZRlhd6wj.png" group-title="Other", Wild Nature 
 https://jmp2.uk/str-7061.m3u8
-#EXTINF:-1 channel-id="6439" tvg-id="6439" tvg-chno="103" tvg-name="Wild TV: Nonstop Outdoor Action & Adventure" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731450734sR0YMSWnS6-632x395-8NHdzJSa.png" group-title="Entertainment Live", Wild TV: Nonstop Outdoor Action & Adventure
+#EXTINF:-1 channel-id="6439" tvg-id="6439" tvg-chno="103" tvg-name="Wild TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731450734sR0YMSWnS6-632x395-8NHdzJSa.png" group-title="Entertainment Live", Wild TV
 https://jmp2.uk/str-6439.m3u8
 #EXTINF:-1 channel-id="7269" tvg-id="7269" tvg-chno="170" tvg-name="Wine, Watches & Whiskey" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/25/1750885233DF8Mu6diDN-632x395-OtKoYPkk.png" group-title="Food and Fitness Live", Wine, Watches & Whiskey
 https://jmp2.uk/str-7269.m3u8
