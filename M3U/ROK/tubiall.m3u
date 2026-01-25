@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2026-01-20T02:22:00.962231
+# Generated on 2026-01-25T02:33:29.564082
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -283,6 +283,8 @@ https://live-manifest.production-public.tubi.io/live/db531789-62a9-4855-9aed-02b
 https://live-manifest.production-public.tubi.io/live/196721fd-dabe-4799-8edc-d8e70f63eb31/playlist.m3u8
 #EXTINF:-1 tvg-id="650666" tvg-logo="https://canvas-lb.tubitv.com/opts/r5v1Bfy6wRbIBQ==/ff6398da-6988-4b07-85ed-d732eb70b6aa/CHgQeDoFMS4xLjhAAQ==" group-title="Games & Competition",The Masked Singer
 https://live-manifest.production-public.tubi.io/live/0e38deb7-55a8-4ae3-a6a7-295b4fd8d0fc/playlist.m3u8
+#EXTINF:-1 tvg-id="400000249" tvg-logo="https://canvas-lb.tubitv.com/opts/stWz8KMI6K0AIQ==/7c1bdfbc-0f08-4323-8737-5e90b6a0a0ac/CHgQeDoFMS4xLjhAAQ==" group-title="Games & Competition",The Price Is Right: The Barker Era
+https://live-manifest.production-public.tubi.io/live/86825bf7-8e1c-4fbe-ac23-01faa48ebee4/playlist.m3u8
 #EXTINF:-1 tvg-id="724210" tvg-logo="https://canvas-lb.tubitv.com/opts/DOQgBnhhr4GJgw==/e80bdb91-a817-463c-84b6-f3e4be903428/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV",The Rifleman
 https://live-manifest.production-public.tubi.io/live/a4fbd2ea-9b37-4cad-86fb-221be1efbc9f/playlist.m3u8
 #EXTINF:-1 tvg-id="555129" tvg-logo="https://canvas-lb.tubitv.com/opts/vZzWno5NjFrM6w==/a9b7d587-ab4a-4d4d-bc0d-6f14da292f9f/CHgQeDoFMS4xLjhAAQ==" group-title="National News",theGrio
