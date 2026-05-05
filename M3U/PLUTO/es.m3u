@@ -45,8 +45,6 @@ https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 channel-id="629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-chno="302" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png" group-title="Anime", Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 channel-id="69b030eea9b840a456a1eff3" tvg-id="69b030eea9b840a456a1eff3" tvg-chno="21" tvg-name="Dirigido por Alfred Hitchcock" tvg-logo="https://images.pluto.tv/channels/69b030eea9b840a456a1eff3/colorLogoPNG_1776087479822.png" group-title="Nuevo en Pluto TV", Dirigido por Alfred Hitchcock
-https://jmp2.uk/plu-69b030eea9b840a456a1eff3.m3u8
 #EXTINF:-1 channel-id="685a996c7c4f2ad40cb4f276" tvg-id="685a996c7c4f2ad40cb4f276" tvg-chno="301" tvg-name="Dragon Ball" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png" group-title="Anime", Dragon Ball
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 #EXTINF:-1 channel-id="68e8fd7c3ede4398bc69af93" tvg-id="68e8fd7c3ede4398bc69af93" tvg-chno="300" tvg-name="Dragon Ball Z" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png" group-title="Anime", Dragon Ball Z
@@ -75,6 +73,8 @@ https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
 #EXTINF:-1 channel-id="660c29f80cd4630008f1547c" tvg-id="660c29f80cd4630008f1547c" tvg-chno="557" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png" group-title="Deportes", FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
+#EXTINF:-1 channel-id="69bd2cc70b6c04b3e635ba29" tvg-id="69bd2cc70b6c04b3e635ba29" tvg-chno="20" tvg-name="Goku Day" tvg-logo="https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png" group-title="Nuevo en Pluto TV", Goku Day
+https://jmp2.uk/plu-69bd2cc70b6c04b3e635ba29.m3u8
 #EXTINF:-1 channel-id="68779a09c691b3f0964127c6" tvg-id="68779a09c691b3f0964127c6" tvg-chno="507" tvg-name="Heidi" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" group-title="Infantil", Heidi
 https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
 #EXTINF:-1 channel-id="67517f923a61d40008c451f0" tvg-id="67517f923a61d40008c451f0" tvg-chno="424" tvg-name="Historia y Vida" tvg-logo="https://images.pluto.tv/channels/67517f923a61d40008c451f0/colorLogoPNG.png" group-title="Documentales", Historia y Vida
@@ -91,7 +91,7 @@ https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
 #EXTINF:-1 channel-id="61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-chno="513" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantil", Las Tortugas Ninja
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-#EXTINF:-1 channel-id="6964d2179ba4ac18051a18ce" tvg-id="6964d2179ba4ac18051a18ce" tvg-chno="20" tvg-name="Léo Mattéï: Brigada de protección" tvg-logo="https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1774344400865.png" group-title="Nuevo en Pluto TV", Léo Mattéï: Brigada de protección
+#EXTINF:-1 channel-id="6964d2179ba4ac18051a18ce" tvg-id="6964d2179ba4ac18051a18ce" tvg-chno="113" tvg-name="Léo Mattéï: Brigada de protección" tvg-logo="https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1774344400865.png" group-title="Policiacas", Léo Mattéï: Brigada de protección
 https://jmp2.uk/plu-6964d2179ba4ac18051a18ce.m3u8
 #EXTINF:-1 channel-id="5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-chno="121" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="Crimen y Misterio", Los archivos del FBI
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
@@ -265,6 +265,8 @@ https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 channel-id="685a995b460ac82fa504342c" tvg-id="685a995b460ac82fa504342c" tvg-chno="52" tvg-name="The Good Wife" tvg-logo="https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png" group-title="Series Míticas", The Good Wife
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+#EXTINF:-1 channel-id="6793ac47f5c74bff95d18a99" tvg-id="6793ac47f5c74bff95d18a99" tvg-chno="21" tvg-name="TOP BARÇA" tvg-logo="https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png" group-title="Nuevo en Pluto TV", TOP BARÇA
+https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8
 #EXTINF:-1 channel-id="60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-chno="166" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png" group-title="Entretenimiento", Top Gear
 https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 #EXTINF:-1 channel-id="67921b873de7c8cf94233f52" tvg-id="67921b873de7c8cf94233f52" tvg-chno="555" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png" group-title="Deportes", UFC
