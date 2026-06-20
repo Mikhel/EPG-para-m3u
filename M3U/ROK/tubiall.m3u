@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2026-06-15T05:15:04.271688
+# Generated on 2026-06-20T04:21:45.480642
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/PkGioxw_qoRs4Q==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="National News",ABC News Live
@@ -11,8 +11,6 @@ https://live-manifest.production-public.tubi.io/live/f1e8b38c-7c04-4630-9d0d-763
 https://live-manifest.production-public.tubi.io/live/89665105-448b-4e13-b89a-127f3eed0e45/playlist.m3u8
 #EXTINF:-1 tvg-id="653208" tvg-logo="https://canvas-lb.tubitv.com/opts/5dQ1izCyXmvqBg==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Always Funny
 https://live-manifest.production-public.tubi.io/live/6181c031-9a68-4206-b0e6-7655f96ab6bc/playlist.m3u8
-#EXTINF:-1 tvg-id="400000295" tvg-logo="https://canvas-lb.tubitv.com/opts/7qSNHXFtmWebGw==/8fd7e5c9-2383-4d34-80ce-b41b5326c193/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Always On | FIFA World Cup™ '26
-https://live-manifest.production-public.tubi.io/live/ce1a1d86-9cb9-4783-861c-50c1b5062980/playlist.m3u8
 #EXTINF:-1 tvg-id="691129" tvg-logo="https://canvas-lb.tubitv.com/opts/W9ioP8rN2WZEdQ==/9804e812-0cda-4c43-b18e-ed951546a0b6/CHgQeDoFMS4xLjlAAQ==" group-title="Good Eats",America's Test Kitchen
 https://live-manifest.production-public.tubi.io/live/c1bdcaaf-728a-4656-9763-f766ea7a12e0/playlist.m3u8
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/nDFPtoJN0b7OYw==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Anger Management
@@ -329,6 +327,8 @@ https://live-manifest.production-public.tubi.io/live/54b35cf2-e260-4770-80c7-6a0
 https://live-manifest.production-public.tubi.io/live/3c0e97d2-21cc-49dd-a486-c268b0c2b93b/playlist.m3u8
 #EXTINF:-1 tvg-id="680705" tvg-logo="https://canvas-lb.tubitv.com/opts/cMalDW-Z-wT0Nw==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjlAAQ==" group-title="Classic TV",Wanted: Dead or Alive
 https://live-manifest.production-public.tubi.io/live/f4c47d84-a50e-4053-8fd5-827f2e62a401/playlist.m3u8
+#EXTINF:-1 tvg-id="400000294" tvg-logo="https://canvas-lb.tubitv.com/opts/yeAV3-c2XWfYzw==/e9cd4624-20d8-421b-b5ed-282769cf2f57/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Watch AEW
+https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
 #EXTINF:-1 tvg-id="400000000" tvg-logo="https://canvas-lb.tubitv.com/opts/URb2SUqoOhNp3Q==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjlAAQ==" group-title="Lifestyle",Waypoint TV
 https://live-manifest.production-public.tubi.io/live/d419b6d7-3ede-4ca6-9d7c-3f34b039f7ab/playlist.m3u8
 #EXTINF:-1 tvg-id="715945" tvg-logo="https://canvas-lb.tubitv.com/opts/DuU9Cn6o7BqCBg==/2f1fd1c5-7bdc-475f-841f-9a2a9f3ae75b/CHgQeDoFMS4xLjlAAQ==" group-title="Lifestyle",Welcome Home
