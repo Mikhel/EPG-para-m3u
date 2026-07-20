@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2026-07-15T03:16:03.208220
+# Generated on 2026-07-20T03:49:53.568171
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/PkGioxw_qoRs4Q==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjlAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==" group-title="National News",ABC News Live
@@ -90,7 +90,7 @@ https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c2
 #EXTINF:-1 tvg-id="400000098" tvg-logo="https://canvas-lb.tubitv.com/opts/rb2kTcyckd-Ltg==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjlAAQ==" group-title="Reality",Deal Zone
 https://live-manifest.production-public.tubi.io/live/feb7d8d7-6cde-4351-87e8-4afb3626e950/playlist.m3u8
 #EXTINF:-1 tvg-id="400000117" tvg-logo="https://canvas-lb.tubitv.com/opts/ADqkOoAZL-RKoA==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjlAAQ==" group-title="Pop Culture",Def Jam
-https://live-manifest.production-public.tubi.io/live/979c72f9-6121-428b-a47c-4e251e8b7c63/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/d0b9327a-57b9-4669-8b1f-7594af85f612/playlist.m3u8
 #EXTINF:-1 tvg-id="400000108" tvg-logo="https://canvas-lb.tubitv.com/opts/TA-WoDn6tYKtCQ==/e1fddeac-4117-45e8-a880-d46000b4fcda/CHgQeDoFMS4xLjlAAQ==" group-title="Reality",Discovery Turbo TV
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-id="400000088" tvg-logo="https://canvas-lb.tubitv.com/opts/Er-hEK6ElFu0BA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjlAAQ==" group-title="Reality",Dog the Bounty Hunter
@@ -255,8 +255,6 @@ https://live-manifest.production-public.tubi.io/live/83325caf-81ea-40fa-8013-851
 https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8
 #EXTINF:-1 tvg-id="400000046" tvg-logo="https://canvas-lb.tubitv.com/opts/-1nseJGZfQ7nOQ==/168854e2-e698-4fee-8e2a-5e21c7b278c4/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",PGA TOUR
 https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
-#EXTINF:-1 tvg-id="400000157" tvg-logo="https://canvas-lb.tubitv.com/opts/ePzKM5wASsCWaw==/c41d5617-9035-4146-bafa-be2d9de2968c/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",PLL Network
-https://live-manifest.production-public.tubi.io/live/a85525c7-da51-4d48-87bc-d5de1e7ca02f/playlist.m3u8
 #EXTINF:-1 tvg-id="400000045" tvg-logo="https://canvas-lb.tubitv.com/opts/MBvtJt_BcDScDg==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",PokerGO
 https://live-manifest.production-public.tubi.io/live/66b710ce-f250-41d7-a052-7c4353f5e77d/playlist.m3u8
 #EXTINF:-1 tvg-id="613762" tvg-logo="https://canvas-lb.tubitv.com/opts/0eZIOEWFj-zM3A==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",Real Madrid
