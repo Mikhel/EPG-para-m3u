@@ -799,123 +799,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20260812003000 -0500" stop="20260812010000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Contacto deportivo
-En Vivo</title>
-  </programme>
-  <programme start="20260812010000 -0500" stop="20260812020000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20260812020000 -0500" stop="20260812023000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Estatus</title>
-  </programme>
-  <programme start="20260812023000 -0500" stop="20260812040000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20260812040000 -0500" stop="20260812050000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Cronicas</title>
-  </programme>
-  <programme start="20260812050000 -0500" stop="20260812053000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20260812053000 -0500" stop="20260812060000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Especial de R.T.C</title>
-  </programme>
-  <programme start="20260812060000 -0500" stop="20260812070000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20260812070000 -0500" stop="20260812080000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">PJ Masks: Héroes en Pijamas</title>
-    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks.</desc>
-    <credits>
-      <director>Christian De Vita</director>
-      <director>Wilson Dos Santos</director>
-      <writer>Romuald Racioppo</writer>
-      <producer>Guillaume Hellouin</producer>
-      <producer>Corinne Kouper</producer>
-      <composer>Eric Renwart</composer>
-      <composer>David Freedman</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Fantasía</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
-    <country lang="es">Francia</country>
-    <rating system="MX">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20260812080000 -0500" stop="20260812090000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">El Diario de las Hadas</title>
-  </programme>
-  <programme start="20260812090000 -0500" stop="20260812093000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Rugrats</title>
-  </programme>
-  <programme start="20260812093000 -0500" stop="20260812100000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Bely y Beto</title>
-  </programme>
-  <programme start="20260812100000 -0500" stop="20260812110000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Kung Fu Panda El Caballero</title>
-  </programme>
-  <programme start="20260812110000 -0500" stop="20260812123000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Las aventuras del Gato</title>
-  </programme>
-  <programme start="20260812123000 -0500" stop="20260812140000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Viva el rey Julien</title>
-  </programme>
-  <programme start="20260812140000 -0500" stop="20260812153000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Sonic Boom</title>
-    <desc lang="es">Sonic, Tails, Amy, Knucles y Sticks viven en la Isla de Bygone, defendiéndola de varias amenazas, incluyendo los ataques del malvado científico el Doctor Eggman y sus creaciones roboticas.</desc>
-    <date>2014</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Caricatura</category>
-    <category lang="es">Dibujo Animado</category>
-    <category lang="es">Infantil</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/sonic_boom.jpg" />
-  </programme>
-  <programme start="20260812153000 -0500" stop="20260812170000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Miraculous Ladybug</title>
-  </programme>
-  <programme start="20260812170000 -0500" stop="20260812183000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.La serie animada de.</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Faberbakke</actor>
-      <actor>Rodger Bumpass</actor>
-      <writer>Stephen Hillenburg</writer>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Animación</category>
-    <category lang="es">Comedia</category>
-    <category lang="es">Familia</category>
-    <category lang="es">Infantil</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
-    <star-rating system="MX">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20260812183000 -0500" stop="20260812200000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">La Belleza de Gangnam</title>
-  </programme>
-  <programme start="20260812200000 -0500" stop="20260812210000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Un Paso Hacia Ti</title>
-  </programme>
-  <programme start="20260812210000 -0500" stop="20260812230000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">Garra vs. Veneno Guerreros</title>
-  </programme>
-  <programme start="20260812230000 -0500" stop="20260813003000 -0500" channel="Canal.5.de.México.(XHGC).mx">
-    <title lang="es">La Casa de los Famosos México</title>
-  </programme>
   <programme start="20260813003000 -0500" stop="20260813010000 -0500" channel="Canal.5.de.México.(XHGC).mx">
     <title lang="es">Contacto deportivo
 En Vivo</title>
@@ -1257,73 +1140,119 @@ En Vivo</title>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/atlas_vs_tigres.png" />
   </programme>
-  <programme start="20260812010000 -0500" stop="20260812023000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol</title>
-    <sub-title lang="es">Serie del Caribe Kids: México Rojo vs. Puerto Rico</sub-title>
+  <programme start="20260816001000 -0500" stop="20260816013000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Asalto al Camión Blindado</title>
   </programme>
-  <programme start="20260812023000 -0500" stop="20260812040000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol sin fronteras</title>
+  <programme start="20260816013000 -0500" stop="20260816053000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20260812040000 -0500" stop="20260812050000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20260816053000 -0500" stop="20260816060000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Especial de R.T.C</title>
   </programme>
-  <programme start="20260812050000 -0500" stop="20260812053000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Al Día</title>
+  <programme start="20260816060000 -0500" stop="20260816063000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Cronicas</title>
   </programme>
-  <programme start="20260812053000 -0500" stop="20260812063000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20260816063000 -0500" stop="20260816070000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20260812063000 -0500" stop="20260812070000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Todo Deporte DW</title>
+  <programme start="20260816070000 -0500" stop="20260816090000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por la noche, luchando contra el crimen como un equipo conocido como PJ Masks.</desc>
+    <credits>
+      <director>Christian De Vita</director>
+      <director>Wilson Dos Santos</director>
+      <writer>Romuald Racioppo</writer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
   </programme>
-  <programme start="20260812070000 -0500" stop="20260812080000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20260816090000 -0500" stop="20260816095500 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">T.U.F.F. Puppy</title>
   </programme>
-  <programme start="20260812080000 -0500" stop="20260812103000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol</title>
-    <sub-title lang="es">Serie del Caribe Kids: México Verde vs. República Dominicana</sub-title>
+  <programme start="20260816095500 -0500" stop="20260816120000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Racing Club vs. Villarreal
+En Vivo</title>
   </programme>
-  <programme start="20260812103000 -0500" stop="20260812130000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol</title>
-    <sub-title lang="es">Serie del Caribe Kids: México Rojo vs. Puerto Rico</sub-title>
+  <programme start="20260816120000 -0500" stop="20260816133000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Las Tortugas Ninja</title>
+    <desc lang="es">¡Conoce a las tortugas ninja mutantes adolescentes, los reptiles más irreverentes del universo! Leonardo, Michelangelo, Raphael y Donatello. Antes fueron pequeñas tortugas de una tienda de mascotas, que tras un accidente son arrojadas a la alcantarilla de la ciudad, donde una formula las transforma en tortugas mutantes. Luchando por el bien contra el malévolo Shredder y su Technodrome, estos atrevidos temerarios amantes de la pizza son un cuarteto divertido y fenomenal.</desc>
+    <credits>
+      <director>Bill Wolf</director>
+      <director>Tony Love</director>
+      <producer>Mark Freedman</producer>
+      <producer>Fred Wolf</producer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Chuck Lorre</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/las_tortugas_ninja.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
   </programme>
-  <programme start="20260812130000 -0500" stop="20260812151500 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Liga Mexicana de Beisbol</title>
-    <sub-title lang="es">Primer playoff, Zona Norte: Toros de Tijuana vs. Algodoneros del Unión Laguna</sub-title>
+  <programme start="20260816133000 -0500" stop="20260816154500 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Gremlins</title>
   </programme>
-  <programme start="20260812151500 -0500" stop="20260812154500 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Al Día</title>
+  <programme start="20260816154500 -0500" stop="20260816175000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Gremlins 2</title>
   </programme>
-  <programme start="20260812154500 -0500" stop="20260812183000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol</title>
-    <sub-title lang="es">Serie del Caribe Kids: Puerto Rico vs. Panamá</sub-title>
+  <programme start="20260816175000 -0500" stop="20260816200000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">América vs. Atlético San Luis</title>
   </programme>
-  <programme start="20260812183000 -0500" stop="20260812200000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol sin fronteras</title>
+  <programme start="20260816200000 -0500" stop="20260816220500 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Santos vs. Guadalajara
+En Vivo</title>
   </programme>
-  <programme start="20260812200000 -0500" stop="20260812230000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Liga Mexicana de Beisbol</title>
-    <sub-title lang="es">Primer playoff, Zona Norte: Toros de Tijuana vs. Algodoneros del Unión Laguna</sub-title>
+  <programme start="20260816220500 -0500" stop="20260816234500 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Favor peligroso</title>
   </programme>
-  <programme start="20260812230000 -0500" stop="20260813000000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20260816234500 -0500" stop="20260817013000 -0500" channel="Canal.5.de.México.(XHGC).mx">
+    <title lang="es">Curva peligrosa</title>
   </programme>
-  <programme start="20260813000000 -0500" stop="20260813010000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260813010000 -0500" stop="20260813030000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol</title>
     <sub-title lang="es">Serie del Caribe Kids: México Rojo vs. México Verde</sub-title>
   </programme>
-  <programme start="20260813010000 -0500" stop="20260813023000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Béisbol</title>
-    <sub-title lang="es">Serie del Caribe Kids: México Rojo vs. México Verde</sub-title>
-  </programme>
-  <programme start="20260813023000 -0500" stop="20260813040000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260813030000 -0500" stop="20260813043000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol sin fronteras</title>
   </programme>
-  <programme start="20260813040000 -0500" stop="20260813050000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260813043000 -0500" stop="20260813053000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Total</title>
   </programme>
-  <programme start="20260813050000 -0500" stop="20260813060000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
+  <programme start="20260813053000 -0500" stop="20260813060000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Tvc Deportes Al Día</title>
   </programme>
   <programme start="20260813060000 -0500" stop="20260813080000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol</title>
@@ -1354,32 +1283,32 @@ En Vivo</title>
   <programme start="20260813193000 -0500" stop="20260813200000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Liga Premier Tv</title>
   </programme>
-  <programme start="20260813200000 -0500" stop="20260813230000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260813200000 -0500" stop="20260813233000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Liga Mexicana de Beisbol</title>
     <sub-title lang="es">Primer playoff, Zona Norte: Toros de Tijuana vs. Algodoneros del Unión Laguna</sub-title>
   </programme>
-  <programme start="20260813230000 -0500" stop="20260814000000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260813233000 -0500" stop="20260814003000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Total</title>
   </programme>
-  <programme start="20260814000000 -0500" stop="20260814010000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260814003000 -0500" stop="20260814010000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol</title>
     <sub-title lang="es">Serie del Caribe Kids: Panamá vs. México Rojo</sub-title>
   </programme>
-  <programme start="20260814010000 -0500" stop="20260814023000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260814010000 -0500" stop="20260814030000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol</title>
     <sub-title lang="es">Serie del Caribe Kids: Panamá vs. México Rojo</sub-title>
   </programme>
-  <programme start="20260814023000 -0500" stop="20260814040000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260814030000 -0500" stop="20260814043000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Béisbol sin fronteras</title>
   </programme>
-  <programme start="20260814040000 -0500" stop="20260814050000 -0500" channel="Canal.TVC.Deportes.mx">
-    <title lang="es">Tvc Deportes Total</title>
-  </programme>
-  <programme start="20260814050000 -0500" stop="20260814053000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260814043000 -0500" stop="20260814050000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Al Día</title>
   </programme>
-  <programme start="20260814053000 -0500" stop="20260814063000 -0500" channel="Canal.TVC.Deportes.mx">
+  <programme start="20260814050000 -0500" stop="20260814060000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Total</title>
+  </programme>
+  <programme start="20260814060000 -0500" stop="20260814063000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">RPM</title>
   </programme>
   <programme start="20260814063000 -0500" stop="20260814073000 -0500" channel="Canal.TVC.Deportes.mx">
     <title lang="es">Tvc Deportes Total</title>
@@ -1471,315 +1400,54 @@ En Vivo</title>
     <title lang="es">Liga Mexicana de Beisbol</title>
     <sub-title lang="es">Primer playoff, Zona Norte: Algodoneros del Unión Laguna vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20260812060000 -0400" stop="20260812063000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
+  <programme start="20260816003000 -0500" stop="20260816010000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids: Semifinal 2</sub-title>
   </programme>
-  <programme start="20260812063000 -0400" stop="20260812070000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Especial de R.T.C.</title>
-    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
-    <category lang="en">Instructional</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg" />
-    <previously-shown />
+  <programme start="20260816010000 -0500" stop="20260816030000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids: Semifinal 2</sub-title>
   </programme>
-  <programme start="20260812070000 -0400" stop="20260812073000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20260816030000 -0500" stop="20260816060000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Rodeo</title>
+    <sub-title lang="es">LVIII Campeonato Estatal</sub-title>
+    <episode-num system="onscreen">S2026 E5</episode-num>
   </programme>
-  <programme start="20260812073000 -0400" stop="20260812080000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
+  <programme start="20260816060000 -0500" stop="20260816080000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Fútbol Español</title>
+    <sub-title lang="es">Copa Federación: México FC vs. Las Rozas</sub-title>
   </programme>
-  <programme start="20260812080000 -0400" stop="20260812090000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">PJ Masks: Héroes en pijamas</title>
-    <desc lang="en">Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción.</desc>
-    <credits>
-      <actor>Jacob Ewaniuk</actor>
-      <actor>Kyle Breitkopf</actor>
-      <actor>Addison Holley</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12115698_b_v12_cb.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20260816080000 -0500" stop="20260816103000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids: Semifinal 1</sub-title>
   </programme>
-  <programme start="20260812090000 -0400" stop="20260812100000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Dew Drop Diaries</title>
-    <desc lang="en">Estas diminutas hadas ayudan en secreto a las familias humanas con las pequeñas cosas que a menudo se les escapan de las manos.</desc>
-    <credits>
-      <actor>Scarlett Estevez</actor>
-      <actor>ViviAnn Yee</actor>
-      <actor>Sydney Mikayla</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24915041_b_v12_ai.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20260816103000 -0500" stop="20260816130000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids: Semifinal 2</sub-title>
   </programme>
-  <programme start="20260812100000 -0400" stop="20260812103000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Rugrats</title>
-    <desc lang="en">Unos bebés tienen grandes aventuras en el mundo de los adultos, donde todo lo que les rodea es más grande y misterioso.</desc>
-    <credits>
-      <actor>E.G. Daily</actor>
-      <actor>Christine Cavanaugh</actor>
-      <actor>Kath Soucie</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184031_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20260816130000 -0500" stop="20260816160000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Liga Mexicana de Beisbol</title>
+    <sub-title lang="es">Primer playoff, Zona Norte: Algodoneros del Unión Laguna vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20260812103000 -0400" stop="20260812110000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">El show de Bely y Beto</title>
-    <desc lang="en">Bely cuida a Beto, un niño juguetón e hiperactivo, y le enseña cosas buenas y positivas. Un espacio donde todos se divierten y aprenden.</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p375787_b_v8_aa.jpg" />
-    <previously-shown />
+  <programme start="20260816160000 -0500" stop="20260816183000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids, tercer lugar: Equipos por confirmar</sub-title>
   </programme>
-  <programme start="20260812110000 -0400" stop="20260812120000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
-    <desc lang="en">El legendario guerrero Po se une a un caballero inglés en una misión global para rescatar armas mágicas, restaurar su reputación y salvar el mundo.</desc>
-    <credits>
-      <actor>Jack Black</actor>
-      <actor>Rita Ora</actor>
-      <actor>Rahnuma Panthaky</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22331161_b_v12_ac.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
+  <programme start="20260816183000 -0500" stop="20260816190000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol: Previa</title>
+    <sub-title lang="es">Liga Mexicana de Béisbol: Playoffs desde Tijuana</sub-title>
+    <episode-num system="onscreen">S2026</episode-num>
   </programme>
-  <programme start="20260812120000 -0400" stop="20260812133000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Las aventuras del Gato con Botas</title>
-    <desc lang="en">El Gato con Botas rescata a la bella princesa Dulcinea de la mano de unos ladrones. El gato acompaña a la princesa a su ciudad natal, donde, sin querer, destroza el conjuro protector, por lo que se verá obligado a proteger a la ciudad.</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Jayma Mays</actor>
-      <actor>Laraine Newman</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11401268_b_v8_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY</value>
-    </rating>
+  <programme start="20260816190000 -0500" stop="20260816220000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Liga Mexicana de Beisbol</title>
+    <sub-title lang="es">Primer playoff, Zona Norte: Algodoneros del Unión Laguna vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20260812133000 -0400" stop="20260812150000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Viva el rey Julien</title>
-    <desc lang="en">Las aventuras de Julien, el nuevo rey de la selva, que ha decidido transformar el reino en una zona de fiesta.</desc>
-    <credits>
-      <actor>Danny Jacobs</actor>
-      <actor>Andy Richter</actor>
-      <actor>Kevin Michael Richardson</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11233187_b_v8_bi.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
+  <programme start="20260816220000 -0500" stop="20260816223000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Béisbol</title>
+    <sub-title lang="es">Serie del Caribe Kids: Final</sub-title>
   </programme>
-  <programme start="20260812150000 -0400" stop="20260812163000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Sonic Boom</title>
-    <desc lang="en">Las aventuras de Sonic el Erizo y sus amigos, contra el malvado Dr. Eggman.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Colleen O'Shaughnessey</actor>
-      <actor>Travis Willingham</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11213272_b_v8_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20260812163000 -0400" stop="20260812180000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Miraculous</title>
-    <desc lang="en">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.</desc>
-    <credits>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12274735_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20260812180000 -0400" stop="20260812193000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Bob Esponja</title>
-    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar.</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Rodger Bumpass</actor>
-    </credits>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184854_b_v11_be.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVY7</value>
-    </rating>
-  </programme>
-  <programme start="20260812193000 -0400" stop="20260812210000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">La belleza de Gangnam</title>
-    <desc lang="en">Como resultado del bullying que sufre, una joven decide someterse a cirugía estética. Sin embargo, aún deberá enfrentar nuevas adversidades.</desc>
-    <credits>
-      <actor>Im Soo-hyang</actor>
-      <actor>Cha Eun-woo</actor>
-      <actor>Jo Woo-ri</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16346618_b_v8_af.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260812210000 -0400" stop="20260812220000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Un paso hacia ti, bailar, bailar</title>
-    <desc lang="en">Kevin, un chico de barrio, irrumpe en el mundo del ballet con un talento que rompe reglas. Entre amor, traiciones y una lucha por su identidad, deberá decidir si pertenece o si nació para cambiarlo todo.</desc>
-    <credits>
-      <actor>Davi Ulloa</actor>
-      <actor>Pamela Cervantes</actor>
-      <actor>Alex Cortés</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33364958_b_v8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260812220000 -0400" stop="20260813000000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Garra vs. Veneno: Guerreros mundiales</title>
-    <desc lang="en">En esta entrega, 26 atletas de alto rendimiento se dividirán en dos bandos emblemáticos: Leones y Cobras. Los dos equipos pondrán a prueba su fuerza física y destreza mental en una competencia cargada de adrenalina y suspenso.</desc>
-    <category lang="en">Game Shows</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33091346_b_v8_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20260813000000 -0400" stop="20260813013000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">La casa de los famosos México: Galas estelares</title>
-    <desc lang="en">Diferentes celebridades conviven en una misma casa, observadas por cámaras las 24 horas. Tienen que superar pruebas, hacer estrategias y eliminarse entre sí para que solo uno sea el ganador de la casa más famosa de México.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24831511_b_v8_ah.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20260813013000 -0400" stop="20260813020000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Live: Contacto deportivo</title>
-    <desc lang="en">El destino obligado de los amantes del deporte para estar al día con las noticias más importantes y los partidos más destacados de todos los principales deportes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11530834_b_v12_ae.jpg" />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20260813020000 -0400" stop="20260813023000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260813023000 -0400" stop="20260813030000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Inova</title>
-    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260813030000 -0400" stop="20260813033000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260813033000 -0400" stop="20260813040000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260813040000 -0400" stop="20260813043000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260813043000 -0400" stop="20260813050000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20260813050000 -0400" stop="20260813053000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">Crónicas</title>
-    <desc lang="en">Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Local</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28785242_b_v7_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20260813053000 -0400" stop="20260813060000 -0400" channel="Canal.5.(XHPNH).mx">
-    <title lang="en">CV directo</title>
-    <desc lang="en">Venta de productos de todo tipo.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
-    <previously-shown />
+  <programme start="20260816223000 -0500" stop="20260817000000 -0500" channel="Canal.TVC.Deportes.mx">
+    <title lang="es">Baloncesto Big 3</title>
   </programme>
   <programme start="20260813060000 -0400" stop="20260813063000 -0400" channel="Canal.5.(XHPNH).mx">
     <title lang="en">CV directo</title>
@@ -2659,50 +2327,255 @@ En Vivo</title>
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20260812001100 -0600" stop="20260812015800 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">New Religion</title>
+  <programme start="20260816053000 -0400" stop="20260816060000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20260812015800 -0600" stop="20260812033200 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">The Goldsmith</title>
+  <programme start="20260816060000 -0400" stop="20260816063000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20260812033200 -0600" stop="20260812052200 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Lobos</title>
+  <programme start="20260816063000 -0400" stop="20260816070000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Especial de R.T.C.</title>
+    <desc lang="en">Contenidos audiovisuales en los cuales se abordan temas de interés general para informar, educar y entretener al espectador, con notas, entrevistas, testimonios y algo más.</desc>
+    <category lang="en">Instructional</category>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p380178_b_v8_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20260812052200 -0600" stop="20260812070900 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Mi ángel guardián</title>
+  <programme start="20260816070000 -0400" stop="20260816073000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Crónicas</title>
+    <desc lang="en">Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28785242_b_v7_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20260812070900 -0600" stop="20260812083200 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">No Descanses en Paz</title>
+  <programme start="20260816073000 -0400" stop="20260816080000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20260812083200 -0600" stop="20260812100500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">En Tierra de Nadie: El Amanecer de Reeker</title>
+  <programme start="20260816080000 -0400" stop="20260816100000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">PJ Masks: Héroes en pijamas</title>
+    <desc lang="en">Connor, Amaya y Greg se ponen sus pijamas y activan sus amuletos animales, que los llevan a ser sus alter egos durante la noche, embarcándose en aventuras de superhéroes llenas de acción.</desc>
+    <credits>
+      <actor>Jacob Ewaniuk</actor>
+      <actor>Kyle Breitkopf</actor>
+      <actor>Addison Holley</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12115698_b_v12_cb.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVY</value>
+    </rating>
   </programme>
-  <programme start="20260812100500 -0600" stop="20260812114700 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Hija</title>
+  <programme start="20260816100000 -0400" stop="20260816105500 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">T.U.F.F. Puppy</title>
+    <desc lang="en">El cachorro Dudley es reclutado para proteger su ciudad natal y derrotar a unos agentes de una malvada organización animal.</desc>
+    <credits>
+      <actor>Jerry Trainor</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8277474_b_v12_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVY7</value>
+    </rating>
   </programme>
-  <programme start="20260812114700 -0600" stop="20260812132700 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Mom</title>
+  <programme start="20260816105500 -0400" stop="20260816130000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Live: Fútbol LaLiga</title>
+    <sub-title lang="en">Real Racing vs. Villarreal CF</sub-title>
+    <desc lang="en">Jornada 1 de la temporada 2026-27 de LaLiga 2026-27. Real Racing se enfrenta a Villarreal CF. Desde el estadio El Sardinero.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3609994_b_v12_cm.jpg" />
   </programme>
-  <programme start="20260812132700 -0600" stop="20260812145400 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Un Bosque Misterioso</title>
+  <programme start="20260816130000 -0400" stop="20260816143000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Las Tortugas Ninja</title>
+    <desc lang="en">Leo, Raph, Mikey y Donnie son tortugas mutantes que han sido entrenadas en el arte del ninjutsu por su sensei rata, el Maestro Splinter. Viven en su guarida en las alcantarillas y emergen para luchar contra los villanos de la ciudad de Nueva York.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9583989_b_v8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20260812145400 -0600" stop="20260812163400 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Arbor Demon</title>
+  <programme start="20260816143000 -0400" stop="20260816164500 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Gremlins</title>
+    <desc lang="en">Una población pintoresca se transforma en un lugar terrorífico tras la llegada de una criatura algo inusual.</desc>
+    <credits>
+      <actor>Zach Galligan</actor>
+      <actor>Phoebe Cates</actor>
+      <actor>Hoyt Axton</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8660_p_v8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20260812163400 -0600" stop="20260812180800 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">La herencia</title>
+  <programme start="20260816164500 -0400" stop="20260816185000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Gremlins 2: la nueva generación</title>
+    <desc lang="en">Un rascacielos moderno es el trasfondo de la continuación satírica de la horda de Gremlins, los destructivos diablillos.</desc>
+    <credits>
+      <actor>Zach Galligan</actor>
+      <actor>Phoebe Cates</actor>
+      <actor>John Glover</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12530_p_v8_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20260812180800 -0600" stop="20260812194200 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Niña Buena, Niña Mala</title>
+  <programme start="20260816185000 -0400" stop="20260816210000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Live: Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">América vs. Atlético San Luis</sub-title>
+    <desc lang="en">Acción de la jornada 4 del Torneo Apertura 2026. América busca retener el liderato y San Luis su primera victoria.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9208870_b_v12_ac.jpg" />
   </programme>
-  <programme start="20260812194200 -0600" stop="20260812211800 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">El Aro: Resurrección</title>
+  <programme start="20260816210000 -0400" stop="20260816230000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Live: Fútbol Mexicano Primera División</title>
+    <sub-title lang="en">Santos Laguna vs. Chivas de Guadalajara</sub-title>
+    <desc lang="en">Acción de la jornada 4 del Torneo Apertura 2026. Santos busca su primera victoria y Chivas ganar tras empatar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9208870_b_v12_ac.jpg" />
   </programme>
-  <programme start="20260812211800 -0600" stop="20260812230300 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Sadako: El Aro Capítulo Final</title>
+  <programme start="20260816230000 -0400" stop="20260817004500 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Favor peligroso</title>
+    <desc lang="en">Una confiada mujer de Atlanta permite a un encantador desconocido usar el teléfono de su casa y pronto cree en el adagio "ninguna buena acción queda sin castigo" cuando él se apodera de su casa y aterroriza a su familia.</desc>
+    <credits>
+      <actor>Idris Elba</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Leslie Bibb</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10231046_p_v8_al.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20260812230300 -0600" stop="20260813004500 -0600" channel="Canal.Pánico.mx">
-    <title lang="es">Vampiro</title>
+  <programme start="20260817004500 -0400" stop="20260817020000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Curva peligrosa</title>
+    <desc lang="en">Una joven mujer queda atrapada en su carro destrozado después de que un hombre causa un accidente.</desc>
+    <credits>
+      <actor>Julianne Hough</actor>
+      <actor>Teddy Sears</actor>
+      <actor>Madalyn Horcher</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12400274_k_h10_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20260817020000 -0400" stop="20260817023000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20260817023000 -0400" stop="20260817030000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20260817030000 -0400" stop="20260817033000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20260817033000 -0400" stop="20260817040000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Inova</title>
+    <desc lang="en">Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p408068_b_v8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20260817040000 -0400" stop="20260817043000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260817043000 -0400" stop="20260817050000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">CV directo</title>
+    <desc lang="en">Venta de productos de todo tipo.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346430_b_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260817050000 -0400" stop="20260817053000 -0400" channel="Canal.5.(XHPNH).mx">
+    <title lang="en">Crónicas</title>
+    <desc lang="en">Historias que hacen historia: una mirada profunda a los sucesos que impactan en la vida diaria de las personas.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28785242_b_v7_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
   </programme>
   <programme start="20260813004500 -0600" stop="20260813023600 -0600" channel="Canal.Pánico.mx">
     <title lang="es">Masacre Redwood: Aniquilación</title>
@@ -2919,6 +2792,96 @@ En Vivo</title>
   </programme>
   <programme start="20260815230200 -0600" stop="20260816005500 -0600" channel="Canal.Pánico.mx">
     <title lang="es">Los misteriosos asesinatos de Limehouse</title>
+  </programme>
+  <programme start="20260816005500 -0600" stop="20260816023000 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">El mundo maravilloso de Willy</title>
+  </programme>
+  <programme start="20260816023000 -0600" stop="20260816041500 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Vivarium</title>
+    <desc lang="es">Una joven que, junto con su novio, busca desesperadamente el hogar perfecto para comenzar. Después de seguir a un misterioso agente de bienes raíces en un nuevo desarrollo de viviendas, la pareja se encuentra atrapada en un vecindario suburbano constantemente cambiante pero frustrantemente idéntico.</desc>
+    <credits>
+      <director>Lorcan Finnegan</director>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Imogen Poots</actor>
+      <actor>Jonathan Aris</actor>
+      <actor>Senan Jennings</actor>
+      <actor>Eanna Hardwicke</actor>
+      <producer>Brandon McCarthy</producer>
+      <producer>John McDonnell</producer>
+      <composer>Kristian Eidnes Andersen</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/vivarium.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260816041500 -0600" stop="20260816054000 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Sweet Home</title>
+  </programme>
+  <programme start="20260816054000 -0600" stop="20260816072800 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">La espera</title>
+  </programme>
+  <programme start="20260816072800 -0600" stop="20260816085700 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Ted Bundy y el Asesino de Green River</title>
+  </programme>
+  <programme start="20260816085700 -0600" stop="20260816104700 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">La Cuidadora de la Mansión Garret</title>
+  </programme>
+  <programme start="20260816104700 -0600" stop="20260816123600 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Malasaña 32</title>
+    <desc lang="es">A finales de los años 70 la familia Olmedo compra un antiguo piso en el número 32 de la calle Manuela Malasaña de Madrid. Atrás dejan el pueblo en busca de la prosperidad que parece ofrecerles la capital. Pero, hay algo que la familia Olmedo no sabe: en la casa que han comprado, no están solos… Algo que desconocen va a poner en peligro sus vidas y tendrán que defenderse.¿Y si los más terrorífico de la ciudad no estuviera fuera… sino dentro de tu casa?</desc>
+    <credits>
+      <director>Albert Pintó</director>
+      <actor>Begoña Vargas</actor>
+      <actor>Iván Marcos</actor>
+      <actor>Bea Segura</actor>
+      <actor>Sergio Castellanos</actor>
+      <actor>José Luis de Madariaga</actor>
+      <actor>Iván Renedo</actor>
+      <actor>Javier Botet</actor>
+      <actor>María Ballesteros</actor>
+      <composer>Lucas Peire</composer>
+      <composer>Frank Montasell</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/malasana_32.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260816123600 -0600" stop="20260816141400 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Razors: The Return Of Jack the Ripper</title>
+  </programme>
+  <programme start="20260816141400 -0600" stop="20260816160500 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">King On Screen</title>
+  </programme>
+  <programme start="20260816160500 -0600" stop="20260816173300 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">The Lift: El Ascensor Del Diablo</title>
+  </programme>
+  <programme start="20260816173300 -0600" stop="20260816191300 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Te veo</title>
+  </programme>
+  <programme start="20260816191300 -0600" stop="20260816204100 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">It Came From Below</title>
+  </programme>
+  <programme start="20260816204100 -0600" stop="20260816221700 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">Reeker: Noche Diabólica</title>
+  </programme>
+  <programme start="20260816221700 -0600" stop="20260817001600 -0600" channel="Canal.Pánico.mx">
+    <title lang="es">The Field Guide To Evil</title>
   </programme>
   <channel id="MLB-LosAngelesAngels.us">
 		<display-name>MLB - Los Angeles Angels</display-name>
