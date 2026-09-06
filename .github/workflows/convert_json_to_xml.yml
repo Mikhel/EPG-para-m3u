@@ -35,7 +35,7 @@ jobs:
         run: python EPG/convert.py
 
       - name: Upload XML output
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: epg.xml
           path: epg.xml
