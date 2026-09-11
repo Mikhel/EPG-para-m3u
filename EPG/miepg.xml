@@ -3029,35 +3029,7 @@ En Vivo</title>
 		<display-name>MLB - New York Yankees</display-name>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</channel>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-LosAngelesAngels.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-LosAngelesAngels.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-LosAngelesAngels.us">
 		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -3443,78 +3415,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/laa.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260910130500 -0400" stop="20260910160500 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Houston Astros at Philadelphia Phillies</title>
-		<desc lang="en">Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260910160500 -0400" stop="20260910170000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Houston Astros at Philadelphia Phillies possible Extra Innings</title>
-		<desc lang="en">Houston Astros at Philadelphia Phillies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260910170000 -0400" stop="20260910180000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910180000 -0400" stop="20260911000000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260911120000 -0400" stop="20260911180000 -0400" channel="MLB-HoustonAstros.us">
-		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
-	</programme>
-	<programme start="20260911180000 -0400" stop="20260911191000 -0400" channel="MLB-HoustonAstros.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-HoustonAstros.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -3850,35 +3772,50 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919010000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
+	<programme start="20260919010000 -0400" stop="20260919070000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
+	<programme start="20260919070000 -0400" stop="20260919130000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-TorontoBlueJays.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
+	<programme start="20260919130000 -0400" stop="20260919190000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
 	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-TorontoBlueJays.us">
+	<programme start="20260919191000 -0400" stop="20260919221000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Atlanta Braves at Houston Astros</title>
+		<desc lang="en">Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+	</programme>
+	<programme start="20260919221000 -0400" stop="20260919230000 -0400" channel="MLB-HoustonAstros.us">
+		<title lang="en">Atlanta Braves at Houston Astros possible Extra Innings</title>
+		<desc lang="en">Atlanta Braves at Houston Astros possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/hou.png" />
+	</programme>
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-TorontoBlueJays.us">
 		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -4278,78 +4215,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tor.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910121500 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260910121500 -0400" stop="20260910151500 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Tampa Bay Rays at Atlanta Braves</title>
-		<desc lang="en">Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260910151500 -0400" stop="20260910160000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Tampa Bay Rays at Atlanta Braves possible Extra Innings</title>
-		<desc lang="en">Tampa Bay Rays at Atlanta Braves possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260910160000 -0400" stop="20260910170000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910170000 -0400" stop="20260910230000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910230000 -0400" stop="20260911050000 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260911050000 -0400" stop="20260911110000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260911110000 -0400" stop="20260911170000 -0400" channel="MLB-AtlantaBraves.us">
-		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
-	</programme>
-	<programme start="20260911170000 -0400" stop="20260911191500 -0400" channel="MLB-AtlantaBraves.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-AtlantaBraves.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -4699,35 +4586,50 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919010000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919010000 -0400" stop="20260919070000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919070000 -0400" stop="20260919130000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-MilwaukeeBrewers.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919130000 -0400" stop="20260919190000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Next game: Atlanta Braves at Houston Astros at 09/19/2026 07:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV at 09/19/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
 	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-MilwaukeeBrewers.us">
+	<programme start="20260919191000 -0400" stop="20260919221000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Atlanta Braves at Houston Astros</title>
+		<desc lang="en">Atlanta Braves at Houston Astros @ Daikin Park in Houston on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
+	</programme>
+	<programme start="20260919221000 -0400" stop="20260919230000 -0400" channel="MLB-AtlantaBraves.us">
+		<title lang="en">Atlanta Braves at Houston Astros possible Extra Innings</title>
+		<desc lang="en">Atlanta Braves at Houston Astros possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/atl.png" />
+	</programme>
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-MilwaukeeBrewers.us">
 		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -5134,35 +5036,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mil.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-St.LouisCardinals.us">
-		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-St.LouisCardinals.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-St.LouisCardinals.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -5569,35 +5443,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/stl.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-ChicagoCubs.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-ChicagoCubs.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-ChicagoCubs.us">
 		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -6011,35 +5857,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chc.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-ArizonaDiamondbacks.us">
-		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-ArizonaDiamondbacks.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-ArizonaDiamondbacks.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -6446,35 +6264,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/ari.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-LosAngelesDodgers.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-LosAngelesDodgers.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-LosAngelesDodgers.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -6853,35 +6643,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/lad.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-SanFranciscoGiants.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-SanFranciscoGiants.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-SanFranciscoGiants.us">
 		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -7295,35 +7057,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sf.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-ClevelandGuardians.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-ClevelandGuardians.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-ClevelandGuardians.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -7730,78 +7464,35 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cle.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910161000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910161000 -0400" stop="20260910191000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Texas Rangers at Seattle Mariners</title>
-		<desc lang="en">Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910191000 -0400" stop="20260910200000 -0400" channel="MLB-SeattleMariners.us">
-		<title lang="en">Texas Rangers at Seattle Mariners possible Extra Innings</title>
-		<desc lang="en">Texas Rangers at Seattle Mariners possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
-	</programme>
-	<programme start="20260910200000 -0400" stop="20260910210000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Athletics Athletics at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Athletics Athletics @ Sutter Health Park in Sacramento on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910210000 -0400" stop="20260911030000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Athletics Athletics at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Athletics Athletics @ Sutter Health Park in Sacramento on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260911030000 -0400" stop="20260911090000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Athletics Athletics at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Athletics Athletics @ Sutter Health Park in Sacramento on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260911090000 -0400" stop="20260911150000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Athletics Athletics at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Athletics Athletics @ Sutter Health Park in Sacramento on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260911150000 -0400" stop="20260911210000 -0400" channel="MLB-SeattleMariners.us">
+	<programme start="20260911190000 -0400" stop="20260911214000 -0400" channel="MLB-SeattleMariners.us">
 		<title lang="en">Next game: Seattle Mariners at Athletics Athletics at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Seattle Mariners at Athletics Athletics @ Sutter Health Park in Sacramento on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -8137,35 +7828,57 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919010000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919010000 -0400" stop="20260919070000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919070000 -0400" stop="20260919130000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-MiamiMarlins.us">
-		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919130000 -0400" stop="20260919190000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
 	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-MiamiMarlins.us">
+	<programme start="20260919190000 -0400" stop="20260919201000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+	</programme>
+	<programme start="20260919201000 -0400" stop="20260919231000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Seattle Mariners at Colorado Rockies</title>
+		<desc lang="en">Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+	</programme>
+	<programme start="20260919231000 -0400" stop="20260920000000 -0400" channel="MLB-SeattleMariners.us">
+		<title lang="en">Seattle Mariners at Colorado Rockies possible Extra Innings</title>
+		<desc lang="en">Seattle Mariners at Colorado Rockies possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sea.png" />
+	</programme>
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-MiamiMarlins.us">
 		<title lang="en">Next game: Los Angeles Dodgers at Miami Marlins at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Dodgers at Miami Marlins @ loanDepot park in Miami on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -8572,35 +8285,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/mia.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-NewYorkMets.us">
-		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-NewYorkMets.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-NewYorkMets.us">
 		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -8993,35 +8678,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nym.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-WashingtonNationals.us">
-		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-WashingtonNationals.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-WashingtonNationals.us">
 		<title lang="en">Next game: Los Angeles Angels at Washington Nationals at 09/11/2026 06:45 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Los Angeles Angels at Washington Nationals @ Nationals Park in Washington on MLB.TV at 09/11/2026 06:45 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -9442,35 +9099,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/wsh.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-BaltimoreOrioles.us">
-		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-BaltimoreOrioles.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-BaltimoreOrioles.us">
 		<title lang="en">Next game: Baltimore Orioles at Toronto Blue Jays at 09/11/2026 07:07 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Baltimore Orioles at Toronto Blue Jays @ Rogers Centre in Toronto on MLB.TV at 09/11/2026 07:07 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -9877,35 +9506,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bal.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-SanDiegoPadres.us">
-		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-SanDiegoPadres.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-SanDiegoPadres.us">
 		<title lang="en">Next game: San Diego Padres at San Francisco Giants at 09/11/2026 10:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: San Diego Padres at San Francisco Giants @ Oracle Park in San Francisco on MLB.TV at 09/11/2026 10:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -10298,78 +9899,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/sd.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Houston Astros at Philadelphia Phillies at 09/10/2026 01:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV at 09/10/2026 01:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260910130500 -0400" stop="20260910160500 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Houston Astros at Philadelphia Phillies</title>
-		<desc lang="en">Houston Astros at Philadelphia Phillies @ Citizens Bank Park in Philadelphia on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260910160500 -0400" stop="20260910170000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Houston Astros at Philadelphia Phillies possible Extra Innings</title>
-		<desc lang="en">Houston Astros at Philadelphia Phillies possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260910170000 -0400" stop="20260910180000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910180000 -0400" stop="20260911000000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260911120000 -0400" stop="20260911180000 -0400" channel="MLB-PhiladelphiaPhillies.us">
-		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
-	</programme>
-	<programme start="20260911180000 -0400" stop="20260911191500 -0400" channel="MLB-PhiladelphiaPhillies.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-PhiladelphiaPhillies.us">
 		<title lang="en">Next game: Philadelphia Phillies at Atlanta Braves at 09/11/2026 07:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Philadelphia Phillies at Atlanta Braves @ Truist Park in Atlanta on MLB.TV at 09/11/2026 07:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -10712,71 +10263,71 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260918230000 -0400" stop="20260919000000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Next game: Philadelphia Phillies at New York Mets at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Philadelphia Phillies at New York Mets @ Citi Field in Queens on ESPN Unlmtd at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919060000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Next game: Philadelphia Phillies at New York Mets at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Philadelphia Phillies at New York Mets @ Citi Field in Queens on ESPN Unlmtd at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919060000 -0400" stop="20260919120000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Next game: Philadelphia Phillies at New York Mets at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Philadelphia Phillies at New York Mets @ Citi Field in Queens on ESPN Unlmtd at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
+	<programme start="20260919120000 -0400" stop="20260919161000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Next game: Philadelphia Phillies at New York Mets at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Philadelphia Phillies at New York Mets @ Citi Field in Queens on ESPN Unlmtd at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910194000 -0400" stop="20260910224000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Pittsburgh Pirates at Chicago White Sox</title>
-		<desc lang="en">Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV</desc>
+	<programme start="20260919161000 -0400" stop="20260919191000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Philadelphia Phillies at New York Mets</title>
+		<desc lang="en">Philadelphia Phillies at New York Mets @ Citi Field in Queens on ESPN Unlmtd</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910224000 -0400" stop="20260910230000 -0400" channel="MLB-PittsburghPirates.us">
-		<title lang="en">Pittsburgh Pirates at Chicago White Sox possible Extra Innings</title>
-		<desc lang="en">Pittsburgh Pirates at Chicago White Sox possible Extra Innings</desc>
+	<programme start="20260919191000 -0400" stop="20260919200000 -0400" channel="MLB-PhiladelphiaPhillies.us">
+		<title lang="en">Philadelphia Phillies at New York Mets possible Extra Innings</title>
+		<desc lang="en">Philadelphia Phillies at New York Mets possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/phi.png" />
 	</programme>
-	<programme start="20260910230000 -0400" stop="20260911000000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260911120000 -0400" stop="20260911142000 -0400" channel="MLB-PittsburghPirates.us">
+	<programme start="20260911130000 -0400" stop="20260911142000 -0400" channel="MLB-PittsburghPirates.us">
 		<title lang="en">Next game: Pittsburgh Pirates at Chicago Cubs at 09/11/2026 02:20 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Pittsburgh Pirates at Chicago Cubs @ Wrigley Field in Chicago on MLB.TV at 09/11/2026 02:20 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -11126,78 +10677,85 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
+	<programme start="20260918220000 -0400" stop="20260918230000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Next game: Kansas City Royals at Pittsburgh Pirates at 09/19/2026 06:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/19/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
+	<programme start="20260918230000 -0400" stop="20260919050000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Next game: Kansas City Royals at Pittsburgh Pirates at 09/19/2026 06:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/19/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
+	<programme start="20260919050000 -0400" stop="20260919110000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Next game: Kansas City Royals at Pittsburgh Pirates at 09/19/2026 06:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/19/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910161000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Next game: Texas Rangers at Seattle Mariners at 09/10/2026 04:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV at 09/10/2026 04:10 PM (US/Eastern)</desc>
+	<programme start="20260919110000 -0400" stop="20260919170000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Next game: Kansas City Royals at Pittsburgh Pirates at 09/19/2026 06:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/19/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910161000 -0400" stop="20260910191000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Texas Rangers at Seattle Mariners</title>
-		<desc lang="en">Texas Rangers at Seattle Mariners @ T-Mobile Park in Seattle on MLB.TV</desc>
+	<programme start="20260919170000 -0400" stop="20260919184000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Next game: Kansas City Royals at Pittsburgh Pirates at 09/19/2026 06:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV at 09/19/2026 06:40 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
+	</programme>
+	<programme start="20260919184000 -0400" stop="20260919214000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Kansas City Royals at Pittsburgh Pirates</title>
+		<desc lang="en">Kansas City Royals at Pittsburgh Pirates @ PNC Park in Pittsburgh on MLB.TV</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910191000 -0400" stop="20260910200000 -0400" channel="MLB-TexasRangers.us">
-		<title lang="en">Texas Rangers at Seattle Mariners possible Extra Innings</title>
-		<desc lang="en">Texas Rangers at Seattle Mariners possible Extra Innings</desc>
+	<programme start="20260919214000 -0400" stop="20260919220000 -0400" channel="MLB-PittsburghPirates.us">
+		<title lang="en">Kansas City Royals at Pittsburgh Pirates possible Extra Innings</title>
+		<desc lang="en">Kansas City Royals at Pittsburgh Pirates possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/pit.png" />
 	</programme>
-	<programme start="20260910200000 -0400" stop="20260910210000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910210000 -0400" stop="20260911030000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260911030000 -0400" stop="20260911090000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260911090000 -0400" stop="20260911150000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260911150000 -0400" stop="20260911210000 -0400" channel="MLB-TexasRangers.us">
+	<programme start="20260911190000 -0400" stop="20260911214000 -0400" channel="MLB-TexasRangers.us">
 		<title lang="en">Next game: Texas Rangers at Arizona Diamondbacks at 09/11/2026 09:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Texas Rangers at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/11/2026 09:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -11533,78 +11091,71 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919010000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Next game: Toronto Blue Jays at Texas Rangers at 09/19/2026 07:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Toronto Blue Jays at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/19/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
+	<programme start="20260919010000 -0400" stop="20260919070000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Next game: Toronto Blue Jays at Texas Rangers at 09/19/2026 07:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Toronto Blue Jays at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/19/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910121500 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Tampa Bay Rays at Atlanta Braves at 09/10/2026 12:15 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd at 09/10/2026 12:15 PM (US/Eastern)</desc>
+	<programme start="20260919070000 -0400" stop="20260919130000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Next game: Toronto Blue Jays at Texas Rangers at 09/19/2026 07:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Toronto Blue Jays at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/19/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910121500 -0400" stop="20260910151500 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Tampa Bay Rays at Atlanta Braves</title>
-		<desc lang="en">Tampa Bay Rays at Atlanta Braves @ Truist Park in Atlanta on ESPN Unlmtd</desc>
+	<programme start="20260919130000 -0400" stop="20260919190000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Next game: Toronto Blue Jays at Texas Rangers at 09/19/2026 07:05 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Toronto Blue Jays at Texas Rangers @ Globe Life Field in Arlington on MLB.TV at 09/19/2026 07:05 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
+	</programme>
+	<programme start="20260919190500 -0400" stop="20260919220500 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Toronto Blue Jays at Texas Rangers</title>
+		<desc lang="en">Toronto Blue Jays at Texas Rangers @ Globe Life Field in Arlington on MLB.TV</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910151500 -0400" stop="20260910160000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Tampa Bay Rays at Atlanta Braves possible Extra Innings</title>
-		<desc lang="en">Tampa Bay Rays at Atlanta Braves possible Extra Innings</desc>
+	<programme start="20260919220500 -0400" stop="20260919230000 -0400" channel="MLB-TexasRangers.us">
+		<title lang="en">Toronto Blue Jays at Texas Rangers possible Extra Innings</title>
+		<desc lang="en">Toronto Blue Jays at Texas Rangers possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tex.png" />
 	</programme>
-	<programme start="20260910160000 -0400" stop="20260910170000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910170000 -0400" stop="20260910230000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910230000 -0400" stop="20260911050000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260911050000 -0400" stop="20260911110000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20260911110000 -0400" stop="20260911170000 -0400" channel="MLB-TampaBayRays.us">
-		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
-	</programme>
-	<programme start="20260911170000 -0400" stop="20260911191000 -0400" channel="MLB-TampaBayRays.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-TampaBayRays.us">
 		<title lang="en">Next game: Houston Astros at Tampa Bay Rays at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Houston Astros at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -11940,35 +11491,50 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260918230000 -0400" stop="20260919000000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919000000 -0400" stop="20260919060000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919060000 -0400" stop="20260919120000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-BostonRedSox.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260919120000 -0400" stop="20260919161000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Next game: Boston Red Sox at Tampa Bay Rays at 09/19/2026 04:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Boston Red Sox at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV at 09/19/2026 04:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
 	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-BostonRedSox.us">
+	<programme start="20260919161000 -0400" stop="20260919191000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Boston Red Sox at Tampa Bay Rays</title>
+		<desc lang="en">Boston Red Sox at Tampa Bay Rays @ Tropicana Field in St. Petersburg on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+	</programme>
+	<programme start="20260919191000 -0400" stop="20260919200000 -0400" channel="MLB-TampaBayRays.us">
+		<title lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</title>
+		<desc lang="en">Boston Red Sox at Tampa Bay Rays possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/tb.png" />
+	</programme>
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-BostonRedSox.us">
 		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -12368,35 +11934,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/bos.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-CincinnatiReds.us">
-		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-CincinnatiReds.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-CincinnatiReds.us">
 		<title lang="en">Next game: Cincinnati Reds at Milwaukee Brewers at 09/11/2026 07:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cincinnati Reds at Milwaukee Brewers @ American Family Field in Milwaukee on MLB.TV at 09/11/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -12782,71 +12320,28 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/cin.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910190500 -0400" stop="20260910220500 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Colorado Rockies at New York Yankees</title>
-		<desc lang="en">Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910220500 -0400" stop="20260910230000 -0400" channel="MLB-ColoradoRockies.us">
-		<title lang="en">Colorado Rockies at New York Yankees possible Extra Innings</title>
-		<desc lang="en">Colorado Rockies at New York Yankees possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
-	</programme>
-	<programme start="20260910230000 -0400" stop="20260911000000 -0400" channel="MLB-ColoradoRockies.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-ColoradoRockies.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-ColoradoRockies.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260911120000 -0400" stop="20260911180000 -0400" channel="MLB-ColoradoRockies.us">
+	<programme start="20260911130000 -0400" stop="20260911184000 -0400" channel="MLB-ColoradoRockies.us">
 		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -13154,35 +12649,57 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260917190000 -0400" stop="20260917200000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/18/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/18/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260917200000 -0400" stop="20260918020000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/18/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/18/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260918020000 -0400" stop="20260918080000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/18/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/18/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-KansasCityRoyals.us">
-		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
+	<programme start="20260918080000 -0400" stop="20260918140000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/18/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/18/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
 	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-KansasCityRoyals.us">
+	<programme start="20260918140000 -0400" stop="20260918200000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Next game: Seattle Mariners at Colorado Rockies at 09/18/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV at 09/18/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+	</programme>
+	<programme start="20260918201000 -0400" stop="20260918231000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Seattle Mariners at Colorado Rockies</title>
+		<desc lang="en">Seattle Mariners at Colorado Rockies @ Coors Field in Denver on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+	</programme>
+	<programme start="20260918231000 -0400" stop="20260919000000 -0400" channel="MLB-ColoradoRockies.us">
+		<title lang="en">Seattle Mariners at Colorado Rockies possible Extra Innings</title>
+		<desc lang="en">Seattle Mariners at Colorado Rockies possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/col.png" />
+	</programme>
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-KansasCityRoyals.us">
 		<title lang="en">Next game: Kansas City Royals at Boston Red Sox at 09/11/2026 07:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Kansas City Royals at Boston Red Sox @ Fenway Park in Boston on MLB.TV at 09/11/2026 07:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -13582,35 +13099,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/kc.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-DetroitTigers.us">
-		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-DetroitTigers.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-DetroitTigers.us">
 		<title lang="en">Next game: Colorado Rockies at Detroit Tigers at 09/11/2026 06:40 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Colorado Rockies at Detroit Tigers @ Comerica Park in Detroit on MLB.TV at 09/11/2026 06:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -13989,35 +13478,7 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-MinnesotaTwins.us">
-		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
-	</programme>
-	<programme start="20260910190000 -0400" stop="20260911010000 -0400" channel="MLB-MinnesotaTwins.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-MinnesotaTwins.us">
 		<title lang="en">Next game: Cleveland Guardians at Minnesota Twins at 09/11/2026 08:10 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Cleveland Guardians at Minnesota Twins @ Target Field in Minneapolis on MLB.TV at 09/11/2026 08:10 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -14403,78 +13864,35 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/min.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Next game: Pittsburgh Pirates at Chicago White Sox at 09/10/2026 07:40 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/10/2026 07:40 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910194000 -0400" stop="20260910224000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Pittsburgh Pirates at Chicago White Sox</title>
-		<desc lang="en">Pittsburgh Pirates at Chicago White Sox @ Rate Field in Chicago on MLB.TV</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910224000 -0400" stop="20260910230000 -0400" channel="MLB-ChicagoWhiteSox.us">
-		<title lang="en">Pittsburgh Pirates at Chicago White Sox possible Extra Innings</title>
-		<desc lang="en">Pittsburgh Pirates at Chicago White Sox possible Extra Innings</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
-	</programme>
-	<programme start="20260910230000 -0400" stop="20260911000000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260911120000 -0400" stop="20260911180000 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260911180000 -0400" stop="20260911201500 -0400" channel="MLB-ChicagoWhiteSox.us">
+	<programme start="20260911190000 -0400" stop="20260911201500 -0400" channel="MLB-ChicagoWhiteSox.us">
 		<title lang="en">Next game: Chicago White Sox at St. Louis Cardinals at 09/11/2026 08:15 PM (US/Eastern)</title>
 		<desc lang="en">Next game: Chicago White Sox at St. Louis Cardinals @ Busch Stadium in St. Louis on MLB.TV at 09/11/2026 08:15 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -14782,78 +14200,78 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910000000 -0400" stop="20260910010000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
+	<programme start="20260917230000 -0400" stop="20260918000000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Next game: Detroit Tigers at Chicago White Sox at 09/18/2026 07:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/18/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910010000 -0400" stop="20260910070000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
+	<programme start="20260918000000 -0400" stop="20260918060000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Next game: Detroit Tigers at Chicago White Sox at 09/18/2026 07:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/18/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910070000 -0400" stop="20260910130000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
+	<programme start="20260918060000 -0400" stop="20260918120000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Next game: Detroit Tigers at Chicago White Sox at 09/18/2026 07:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/18/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910130000 -0400" stop="20260910190000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: Colorado Rockies at New York Yankees at 09/10/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV at 09/10/2026 07:05 PM (US/Eastern)</desc>
+	<programme start="20260918120000 -0400" stop="20260918180000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Next game: Detroit Tigers at Chicago White Sox at 09/18/2026 07:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/18/2026 07:40 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910190500 -0400" stop="20260910220500 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Colorado Rockies at New York Yankees</title>
-		<desc lang="en">Colorado Rockies at New York Yankees @ Yankee Stadium in Bronx on MLB.TV</desc>
+	<programme start="20260918180000 -0400" stop="20260918194000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Next game: Detroit Tigers at Chicago White Sox at 09/18/2026 07:40 PM (US/Eastern)</title>
+		<desc lang="en">Next game: Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV at 09/18/2026 07:40 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
+	</programme>
+	<programme start="20260918194000 -0400" stop="20260918224000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Detroit Tigers at Chicago White Sox</title>
+		<desc lang="en">Detroit Tigers at Chicago White Sox @ Rate Field in Chicago on MLB.TV</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<length units="hours">3</length>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910220500 -0400" stop="20260910230000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Colorado Rockies at New York Yankees possible Extra Innings</title>
-		<desc lang="en">Colorado Rockies at New York Yankees possible Extra Innings</desc>
+	<programme start="20260918224000 -0400" stop="20260918230000 -0400" channel="MLB-ChicagoWhiteSox.us">
+		<title lang="en">Detroit Tigers at Chicago White Sox possible Extra Innings</title>
+		<desc lang="en">Detroit Tigers at Chicago White Sox possible Extra Innings</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/chw.png" />
 	</programme>
-	<programme start="20260910230000 -0400" stop="20260911000000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20260911000000 -0400" stop="20260911010000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20260911000000 -0400" stop="20260911060000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20260911010000 -0400" stop="20260911070000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20260911060000 -0400" stop="20260911120000 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20260911070000 -0400" stop="20260911130000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
-	<programme start="20260911120000 -0400" stop="20260911180000 -0400" channel="MLB-NewYorkYankees.us">
-		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
-		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
-		<category lang="en">Sports</category>
-		<category lang="en">MLB</category>
-		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
-	</programme>
-	<programme start="20260911180000 -0400" stop="20260911190500 -0400" channel="MLB-NewYorkYankees.us">
+	<programme start="20260911130000 -0400" stop="20260911190000 -0400" channel="MLB-NewYorkYankees.us">
 		<title lang="en">Next game: New York Mets at New York Yankees at 09/11/2026 07:05 PM (US/Eastern)</title>
 		<desc lang="en">Next game: New York Mets at New York Yankees @ Yankee Stadium in Bronx on ESPN Unlmtd at 09/11/2026 07:05 PM (US/Eastern)</desc>
 		<category lang="en">Sports</category>
@@ -15203,286 +14621,53 @@ En Vivo</title>
 		<category lang="en">MLB</category>
 		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
 	</programme>
+	<programme start="20260919010000 -0400" stop="20260919020000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">Next game: New York Yankees at Arizona Diamondbacks at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: New York Yankees at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
+	<programme start="20260919020000 -0400" stop="20260919080000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">Next game: New York Yankees at Arizona Diamondbacks at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: New York Yankees at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
+	<programme start="20260919080000 -0400" stop="20260919140000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">Next game: New York Yankees at Arizona Diamondbacks at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: New York Yankees at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
+	<programme start="20260919140000 -0400" stop="20260919200000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">Next game: New York Yankees at Arizona Diamondbacks at 09/19/2026 08:10 PM (US/Eastern)</title>
+		<desc lang="en">Next game: New York Yankees at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV at 09/19/2026 08:10 PM (US/Eastern)</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
+	<programme start="20260919201000 -0400" stop="20260919231000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">New York Yankees at Arizona Diamondbacks</title>
+		<desc lang="en">New York Yankees at Arizona Diamondbacks @ Chase Field in Phoenix on MLB.TV</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<length units="hours">3</length>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
+	<programme start="20260919231000 -0400" stop="20260920000000 -0400" channel="MLB-NewYorkYankees.us">
+		<title lang="en">New York Yankees at Arizona Diamondbacks possible Extra Innings</title>
+		<desc lang="en">New York Yankees at Arizona Diamondbacks possible Extra Innings</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">MLB</category>
+		<icon src="https://a.espncdn.com/i/teamlogos/mlb/500-dark/nyy.png" />
+	</programme>
 	<channel id="FanDuel.Sports.Network.San.Diego.us">
     <display-name lang="en">FanDuel Sports Network San Diego</display-name>
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20260909060000 -0400" stop="20260909063000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909063000 -0400" stop="20260909070000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909070000 -0400" stop="20260909073000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909073000 -0400" stop="20260909080000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909080000 -0400" stop="20260909083000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909083000 -0400" stop="20260909090000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909090000 -0400" stop="20260909093000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909093000 -0400" stop="20260909100000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909100000 -0400" stop="20260909103000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909103000 -0400" stop="20260909110000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909110000 -0400" stop="20260909113000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909113000 -0400" stop="20260909130000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20260909130000 -0400" stop="20260909150000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909150000 -0400" stop="20260909163000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909163000 -0400" stop="20260909180000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909180000 -0400" stop="20260909190000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909190000 -0400" stop="20260909210000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909210000 -0400" stop="20260909213000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909213000 -0400" stop="20260909220000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260909220000 -0400" stop="20260910003000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260910003000 -0400" stop="20260910013000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260910013000 -0400" stop="20260910030000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260910030000 -0400" stop="20260910050000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260910050000 -0400" stop="20260910060000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
   <programme start="20260910060000 -0400" stop="20260910063000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
@@ -15651,7 +14836,7 @@ En Vivo</title>
     <title lang="en">Unbeatable: British Basketball League</title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25915427_b_s4_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25915427_b_v12_aa.jpg" />
     <previously-shown />
   </programme>
   <programme start="20260910143000 -0400" stop="20260910170000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
@@ -15659,7 +14844,7 @@ En Vivo</title>
     <desc lang="en">Coverage of the British Basketball League, the highest level of basketball in Great Britain.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25969533_i_h8_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25969533_b_v12_aa.jpg" />
     <previously-shown />
   </programme>
   <programme start="20260910170000 -0400" stop="20260910190000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
@@ -16109,245 +15294,515 @@ En Vivo</title>
     </rating>
   </programme>
   <programme start="20260912090000 -0400" stop="20260912093000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="en">Vancouver</sub-title>
+    <desc lang="en">Highlights and insights from the T100 Triathlon World Tour, where professional triathletes compete against each other to win the title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26765620_b_v11_ac.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20260912093000 -0400" stop="20260912100000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p383155_b_v8_ae.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20260912100000 -0400" stop="20260912103000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">She's in the Game</title>
+    <desc lang="en">Meet the next generation of superstar female athletes around the country as we go behind the scenes to shine the light on them and their interests off the field, along with catching up with the female legends who paved the way for all this growth.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Local</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30612602_b_s2_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20260912103000 -0400" stop="20260912110000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492867_b_v12_aa.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
   <programme start="20260912110000 -0400" stop="20260912113000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">SEC State of Mind</title>
+    <desc lang="en">Former SEC Player of the Year and nine-year NFL veteran Jason Campbell teams up with ESPN reporter Taylor Davis on SEC State of Mind.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31009849_b_h8_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20260912113000 -0400" stop="20260912120000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_ba.jpg" />
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p469386_b_v8_ac.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
   <programme start="20260912120000 -0400" stop="20260912123000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">Match Play with Ray Adams</title>
-    <desc lang="en">Host Ray Adams interviews golf's biggest stars.</desc>
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Football is the Simms family business; join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <category lang="en">Documentary</category>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9163342_i_h10_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26003225_b_h8_ab.jpg" />
     <previously-shown />
   </programme>
   <programme start="20260912123000 -0400" stop="20260912130000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+    <title lang="en">The Card Life</title>
+    <desc lang="en">We learn about the hobby and business of sports card collecting.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
     <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20148127_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262703</episode-num>
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
-  <programme start="20260912130000 -0400" stop="20260912140000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260912130000 -0400" stop="20260912150000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">American Association of Professional Baseball</title>
+    <sub-title lang="en">Sioux City Explorers at Kansas City Monarchs</sub-title>
+    <desc lang="en">From Legends Field in Kansas City, Kan.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28484132_b_v12_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
-  <programme start="20260912140000 -0400" stop="20260912150000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260912150000 -0400" stop="20260912180000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">3ICE Kids</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">Youth ice hockey tournament.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Hockey</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33722570_b_v12_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
-  <programme start="20260912150000 -0400" stop="20260912153000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260912180000 -0400" stop="20260912183000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Football is the Simms family business; join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <category lang="en">Documentary</category>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26003225_b_h8_ab.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260912153000 -0400" stop="20260912160000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260912160000 -0400" stop="20260912183000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20260912183000 -0400" stop="20260912190000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p469386_b_v8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260912190000 -0400" stop="20260912200000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Marco Antonio Rubio</sub-title>
+    <desc lang="en">Julio César Chávez defends his World Boxing Council (WBC) middleweight title against Marco Antonio Rubio on February 4, 2012, at the Alamodome in San Antonio, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262701</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260912200000 -0400" stop="20260912210000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Brian Vera I</sub-title>
+    <desc lang="en">Watch the fight between Julio César Chávez Jr. and Brian Vera, a 10-round bout that takes place on September 28, 2013, at the StubHub Center in Carson, California.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262702</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20260912190000 -0400" stop="20260912213000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260912210000 -0400" stop="20260912220000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 492</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260912220000 -0400" stop="20260912230000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260912230000 -0400" stop="20260912233000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p469386_b_v8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260912233000 -0400" stop="20260913000000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Football is the Simms family business; join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26003225_b_h8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913000000 -0400" stop="20260913010000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Marco Antonio Rubio</sub-title>
+    <desc lang="en">Julio César Chávez defends his World Boxing Council (WBC) middleweight title against Marco Antonio Rubio on February 4, 2012, at the Alamodome in San Antonio, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262701</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260913010000 -0400" stop="20260913020000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Brian Vera I</sub-title>
+    <desc lang="en">Watch the fight between Julio César Chávez Jr. and Brian Vera, a 10-round bout that takes place on September 28, 2013, at the StubHub Center in Carson, California.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262702</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20260912213000 -0400" stop="20260912220000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260913020000 -0400" stop="20260913030000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 492</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913030000 -0400" stop="20260913040000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913040000 -0400" stop="20260913050000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports MMA</title>
+    <sub-title lang="en">Nkazimulo Zulu vs. Jake Hadley</sub-title>
+    <desc lang="en">This episode features a flyweight championship bout as Jake Hadley takes on the veteran Nkazimulo Zulu. Bonus coverage includes Mutuale Basambombo vs. HP Van Staden and Christian Bobo vs. Adrian Sanchez.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8856623_b_v11_ae.jpg" />
+    <episode-num system="onscreen">E182</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260913050000 -0400" stop="20260913053000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p383155_b_v8_ae.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913053000 -0400" stop="20260913060000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">All Blacks in Their Own Words</title>
+    <desc lang="en">A story of resilience, with a country united behind them, an insight into the team, the players, the coaches and their journey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27992714_b_v11_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913060000 -0400" stop="20260913063000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Legends with Rick Horrow</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Racket Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33097524_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913063000 -0400" stop="20260913070000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Football is the Simms family business; join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26003225_b_h8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913070000 -0400" stop="20260913073000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p469386_b_v8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913073000 -0400" stop="20260913080000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Outdoor Eats</title>
+    <sub-title lang="en">Irvine, Calif</sub-title>
+    <desc lang="en">Classically trained professional Chef Corso, takes viewers to some of the best outdoor adventure destinations and shows them that camp food doesn't have to be pre-packaged, boring and bland.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Food</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27471666_b_v12_aa.jpg" />
+    <episode-num system="onscreen">E2603</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913080000 -0400" stop="20260913083000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Epic Trails</title>
+    <sub-title lang="en">Backpacking Costa Rica</sub-title>
+    <desc lang="en">Mike Fink embarks on a coast-to-coast journey across Costa Rica.</desc>
+    <credits>
+      <actor>Eric Hanson</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14380243_b_v8_ag.jpg" />
+    <episode-num system="onscreen">E2503</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913083000 -0400" stop="20260913090000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Road Trip Angler</title>
+    <sub-title lang="en">St. Marks, Florida</sub-title>
+    <desc lang="en">Jameson Redding hits the road to find the best fishing spots in America.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23031195_b_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913090000 -0400" stop="20260913093000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
+    <desc lang="en">Jimmy Hanlin and Natalie Gulbis showcase some of the best golf destinations.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13896302_b_v12_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913093000 -0400" stop="20260913100000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Swing Clinic With Jimmy Hanlin</title>
+    <desc lang="en">Golf tips, strategy and review of products.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10675302_b_s4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913100000 -0400" stop="20260913103000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Golf Life</title>
+    <desc lang="en">Featuring the latest trends, tours of the finest courses and tips from golf experts.</desc>
+    <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9195751_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913103000 -0400" stop="20260913110000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Breaking Par</title>
+    <desc lang="en">A look at the game of golf through a different lens.</desc>
+    <credits>
+      <actor>Blair O'Neal</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13467779_b_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913110000 -0400" stop="20260913113000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">Weekly wrap-up of basketball action from around the world including features on the world's top players, leagues and tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p383155_b_v8_ae.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913113000 -0400" stop="20260913120000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492867_b_v12_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913120000 -0400" stop="20260913123000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p469386_b_v8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913123000 -0400" stop="20260913130000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Simms Complete</title>
+    <desc lang="en">Football is the Simms family business; join former NFL QB Matt Simms and Super Bowl MVP Phil Simms as they share unique insight on the game they love.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26003225_b_h8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913130000 -0400" stop="20260913160000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">3ICE Kids</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">Youth ice hockey tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33722570_b_v12_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913160000 -0400" stop="20260913163000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Swing Clinic With Jimmy Hanlin</title>
+    <desc lang="en">Golf tips, strategy and review of products.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10675302_b_s4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913163000 -0400" stop="20260913170000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">18 Holes With Natalie Gulbis and Jimmy Hanlin</title>
+    <desc lang="en">Jimmy Hanlin and Natalie Gulbis showcase some of the best golf destinations.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13896302_b_v12_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913170000 -0400" stop="20260913173000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Breaking Par</title>
+    <desc lang="en">A look at the game of golf through a different lens.</desc>
+    <credits>
+      <actor>Blair O'Neal</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13467779_b_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913173000 -0400" stop="20260913180000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Golf Life</title>
+    <desc lang="en">Featuring the latest trends, tours of the finest courses and tips from golf experts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9195751_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913180000 -0400" stop="20260913183000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Outdoor Eats</title>
+    <sub-title lang="en">Irvine, Calif</sub-title>
+    <desc lang="en">Classically trained professional Chef Corso, takes viewers to some of the best outdoor adventure destinations and shows them that camp food doesn't have to be pre-packaged, boring and bland.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Food</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27471666_b_v12_aa.jpg" />
+    <episode-num system="onscreen">E2603</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20260913183000 -0400" stop="20260913190000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="en">Vancouver</sub-title>
+    <desc lang="en">Highlights and insights from the T100 Triathlon World Tour, where professional triathletes compete against each other to win the title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26765620_b_v11_ac.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913190000 -0400" stop="20260913200000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports MMA</title>
+    <sub-title lang="en">Nkazimulo Zulu vs. Jake Hadley</sub-title>
+    <desc lang="en">This episode features a flyweight championship bout as Jake Hadley takes on the veteran Nkazimulo Zulu. Bonus coverage includes Mutuale Basambombo vs. HP Van Staden and Christian Bobo vs. Adrian Sanchez.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8856623_b_v11_ae.jpg" />
+    <episode-num system="onscreen">E182</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260913200000 -0400" stop="20260913210000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <sub-title lang="en">UFA 492</sub-title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913210000 -0400" stop="20260913220000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance features top-ranked fighters, up-and-coming fighters, action and footage from some of the biggest names in combat sports; check out content spanning MMA, boxing, kickboxing, bare-knuckle boxing, Muay Thai and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9348882_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20260913220000 -0400" stop="20260913230000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Marco Antonio Rubio</sub-title>
+    <desc lang="en">Julio César Chávez defends his World Boxing Council (WBC) middleweight title against Marco Antonio Rubio on February 4, 2012, at the Alamodome in San Antonio, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262701</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260913230000 -0400" stop="20260914000000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Fight Sports: In 60</title>
+    <sub-title lang="en">FIGHT SPORTS MEGA Fights: Julio Cesar Chavez Jr. vs. Brian Vera I</sub-title>
+    <desc lang="en">Watch the fight between Julio César Chávez Jr. and Brian Vera, a 10-round bout that takes place on September 28, 2013, at the StubHub Center in Carson, California.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9254584_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E262702</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20260912220000 -0400" stop="20260913003000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260914000000 -0400" stop="20260914030000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">3ICE</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">The SSE Arena.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Hockey</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21746777_b_v8_ad.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
-  <programme start="20260913003000 -0400" stop="20260913010000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
+  <programme start="20260914030000 -0400" stop="20260914050000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">American Association of Professional Baseball</title>
+    <sub-title lang="en">Sioux City Explorers at Kansas City Monarchs</sub-title>
+    <desc lang="en">From Legends Field in Kansas City, Kan.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28484132_b_v12_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
-  <programme start="20260913010000 -0400" stop="20260913013000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20260914050000 -0400" stop="20260914053000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
+    <title lang="en">Hobby House</title>
+    <desc lang="en">Products from Hobby House.</desc>
     <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15347549_b_v12_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260913013000 -0400" stop="20260913020000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20260913020000 -0400" stop="20260913040000 -0400" channel="FanDuel.Sports.Network.San.Diego.us">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_v12_dp.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   </tv>
